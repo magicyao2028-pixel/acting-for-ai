@@ -12,4 +12,5 @@ This is a public reference library, not an installed production Skill.
 - Do not modify the author's internal Skills as a side effect of maintaining this repository.
 - Check with `python scripts/library.py check`; regenerate with `python scripts/library.py build`; verify with `python scripts/library.py build --check` and `python -m unittest discover -s tests -v`.
 - Keep manifest, citation and changelog versions aligned. Stage only files belonging to the update. Do not force push, reset away user changes, or claim publication without verifying the remote commit.
+- A sandboxed credential failure may reflect lack of access to the OS credential store. Use the execution tool's normal approval mechanism for one read-only identity check before declaring credentials invalid. Never extract credentials or bypass a denied approval.
 - A request for advice alone does not authorize publication; the maintainer's explicitly authorized scheduled maintenance may publish changes within its saved scope.
