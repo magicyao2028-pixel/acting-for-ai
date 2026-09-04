@@ -1,0 +1,26 @@
+{
+  "id": "MOT-027",
+  "title": "情绪爆点前后收束",
+  "category": "motion",
+  "tags": [
+    "情绪爆点前后收束"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "强情绪镜头要保留“爆发前蓄压”和“爆发后结果”。这比单独写哭、吼、摔更利于视频模型读懂动作因果。\n\n```text\n蓄压：旧姿态仍在维持，呼吸、下颌、手指或重心先出现压力。\n爆点：只有一个主动作命中，不同时堆多个大动作。\n余震：胸口、手、道具、衣角或空间声响继续半拍。\n补救/结果：人物收回、靠近、后撤、沉默或重新控场，形成尾帧状态。\n```\n\n示例：她先把笑容撑住，手指却把杯沿压得发白；听见最后一句时杯子重重落到桌面，水面晃出一圈。下一秒她立刻收手，背重新挺直，声音降得很低，只剩杯底的轻响还在房间里。",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "情绪爆点前后收束"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

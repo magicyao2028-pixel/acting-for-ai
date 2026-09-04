@@ -1,0 +1,30 @@
+{
+  "id": "EMO-043",
+  "title": "被误会后急于澄清又不能失态",
+  "category": "emotion",
+  "tags": [
+    "被误会后急于澄清又不能失态"
+  ],
+  "channels": {
+    "face": "眼神先追过去，眉心急促收紧，嘴角强行压平",
+    "body_hands": "手抬起想解释又停在胸前，身体前倾后重新坐回",
+    "voice": "起句快，随后刻意降速，关键词压低"
+  },
+  "prompt": "她听见误会后身体先向前抢了一寸，手已经抬起又硬停在胸前；吸气后把语速压慢，眼神仍紧追着对方，像在把澄清塞回体面里",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "被误会后急于澄清又不能失态"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

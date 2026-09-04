@@ -1,0 +1,26 @@
+{
+  "id": "MOT-019",
+  "title": "眨眼/眼跳作为思考剪辑",
+  "category": "motion",
+  "tags": [
+    "眨眼/眼跳作为思考剪辑"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "眼睛不是均匀活动的装饰。眨眼、眼跳和定焦应放在想法变化、快速转头、发现线索、遮掩情绪或决定行动的节点上。\n\n| 节点 | 可见规则 | 提示词写法 |\n|---|---|---|\n| 想法转向 | 旧视点结束前短眨，睁眼后落到新目标 | 他听到那个名字时先眨了一下，睁眼后视线不再看她，而是落到门边的鞋印 |\n| 搜索线索 | 多个短眼跳之间保留定焦，不让眼神全程乱飘 | 她的视线先扫过桌面、照片和杯沿，每次都短暂停住，最后钉在那枚指纹上 |\n| 快速转头 | 眼睛先动，头跟随，眨眼压在转头中段或末端 | 门外一响，他的眼睛先切向声源，头部快速跟上，眨眼落在转头快结束时 |\n| 情绪遮掩 | 眨眼后表情重组，手或身体同时做遮掩动作 | 她被问到日期时眨了一下，笑容重新挂回脸上，手却把票根压进掌心 |",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "眨眼/眼跳作为思考剪辑"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

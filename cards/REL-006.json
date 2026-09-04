@@ -1,0 +1,29 @@
+{
+  "id": "REL-006",
+  "title": "试探/拉扯",
+  "category": "relationship",
+  "tags": [
+    "试探/拉扯"
+  ],
+  "channels": {
+    "initiator": "抛出问题后保持安静",
+    "responder": "回避、反问、半步靠近又退开"
+  },
+  "prompt": "他把问题说完后没有补解释，只把杯子轻轻转了半圈，等对方先动；她的视线从他脸上滑到桌面，又很快抬回来，身体向前靠了半寸，却在开口前停住。",
+  "guidance": "用停顿和距离变化写攻防，不急着给结论",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "试探/拉扯"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

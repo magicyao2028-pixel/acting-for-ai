@@ -1,0 +1,30 @@
+{
+  "id": "EMO-031",
+  "title": "厌倦/走神",
+  "category": "emotion",
+  "tags": [
+    "厌倦/走神"
+  ],
+  "channels": {
+    "face": "眼皮变重，视线离开对方后长时间停在无关物上",
+    "body_hands": "身体塌向椅背，头微偏，手松散摆弄手机或杯子",
+    "voice": "回答拖慢，尾音下沉，反应晚半拍"
+  },
+  "prompt": "他听到一半就把视线滑到窗外，肩膀塌进椅背，手指没目的地转着杯子；被点名后才慢半拍抬眼，声音低而散",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "厌倦/走神"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

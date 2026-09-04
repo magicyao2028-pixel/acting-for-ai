@@ -1,0 +1,29 @@
+{
+  "id": "REL-007",
+  "title": "道歉/求原谅",
+  "category": "relationship",
+  "tags": [
+    "道歉/求原谅"
+  ],
+  "channels": {
+    "initiator": "放低姿态、手掌打开、减少逼近",
+    "responder": "不接视线、身体保持封闭"
+  },
+  "prompt": "他停在门口没有再靠近，双手从口袋里拿出来，掌心微微朝上；她没有接他的眼神，只把肩膀收紧，指尖扣住袖口，房间里先落下一段空白。",
+  "guidance": "道歉方先停在安全距离，让对方有退路",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "道歉/求原谅"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

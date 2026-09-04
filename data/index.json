@@ -1,0 +1,1091 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "entries": [
+    {
+      "id": "EMO-001",
+      "title": "大笑",
+      "category": "emotion",
+      "tags": [
+        "大笑"
+      ],
+      "json_path": "cards/EMO-001.json",
+      "markdown_path": "docs/cards/EMO-001.md"
+    },
+    {
+      "id": "EMO-002",
+      "title": "冷笑/轻蔑",
+      "category": "emotion",
+      "tags": [
+        "冷笑/轻蔑"
+      ],
+      "json_path": "cards/EMO-002.json",
+      "markdown_path": "docs/cards/EMO-002.md"
+    },
+    {
+      "id": "EMO-003",
+      "title": "愤怒",
+      "category": "emotion",
+      "tags": [
+        "愤怒",
+        "anger"
+      ],
+      "json_path": "cards/EMO-003.json",
+      "markdown_path": "docs/cards/EMO-003.md"
+    },
+    {
+      "id": "EMO-004",
+      "title": "恐惧",
+      "category": "emotion",
+      "tags": [
+        "恐惧"
+      ],
+      "json_path": "cards/EMO-004.json",
+      "markdown_path": "docs/cards/EMO-004.md"
+    },
+    {
+      "id": "EMO-005",
+      "title": "心虚",
+      "category": "emotion",
+      "tags": [
+        "心虚",
+        "concealment"
+      ],
+      "json_path": "cards/EMO-005.json",
+      "markdown_path": "docs/cards/EMO-005.md"
+    },
+    {
+      "id": "EMO-006",
+      "title": "悲伤",
+      "category": "emotion",
+      "tags": [
+        "悲伤",
+        "sadness"
+      ],
+      "json_path": "cards/EMO-006.json",
+      "markdown_path": "docs/cards/EMO-006.md"
+    },
+    {
+      "id": "EMO-007",
+      "title": "崩溃",
+      "category": "emotion",
+      "tags": [
+        "崩溃"
+      ],
+      "json_path": "cards/EMO-007.json",
+      "markdown_path": "docs/cards/EMO-007.md"
+    },
+    {
+      "id": "EMO-008",
+      "title": "隐忍",
+      "category": "emotion",
+      "tags": [
+        "隐忍",
+        "restraint",
+        "suppressed emotion"
+      ],
+      "json_path": "cards/EMO-008.json",
+      "markdown_path": "docs/cards/EMO-008.md"
+    },
+    {
+      "id": "EMO-009",
+      "title": "温柔",
+      "category": "emotion",
+      "tags": [
+        "温柔"
+      ],
+      "json_path": "cards/EMO-009.json",
+      "markdown_path": "docs/cards/EMO-009.md"
+    },
+    {
+      "id": "EMO-010",
+      "title": "厌恶",
+      "category": "emotion",
+      "tags": [
+        "厌恶"
+      ],
+      "json_path": "cards/EMO-010.json",
+      "markdown_path": "docs/cards/EMO-010.md"
+    },
+    {
+      "id": "EMO-011",
+      "title": "惊讶",
+      "category": "emotion",
+      "tags": [
+        "惊讶"
+      ],
+      "json_path": "cards/EMO-011.json",
+      "markdown_path": "docs/cards/EMO-011.md"
+    },
+    {
+      "id": "EMO-012",
+      "title": "压迫感/强者平静",
+      "category": "emotion",
+      "tags": [
+        "压迫感/强者平静"
+      ],
+      "json_path": "cards/EMO-012.json",
+      "markdown_path": "docs/cards/EMO-012.md"
+    },
+    {
+      "id": "EMO-013",
+      "title": "尴尬",
+      "category": "emotion",
+      "tags": [
+        "尴尬"
+      ],
+      "json_path": "cards/EMO-013.json",
+      "markdown_path": "docs/cards/EMO-013.md"
+    },
+    {
+      "id": "EMO-014",
+      "title": "羞耻",
+      "category": "emotion",
+      "tags": [
+        "羞耻"
+      ],
+      "json_path": "cards/EMO-014.json",
+      "markdown_path": "docs/cards/EMO-014.md"
+    },
+    {
+      "id": "EMO-015",
+      "title": "内疚/愧疚",
+      "category": "emotion",
+      "tags": [
+        "内疚/愧疚"
+      ],
+      "json_path": "cards/EMO-015.json",
+      "markdown_path": "docs/cards/EMO-015.md"
+    },
+    {
+      "id": "EMO-016",
+      "title": "焦虑/不安",
+      "category": "emotion",
+      "tags": [
+        "焦虑/不安",
+        "anxiety"
+      ],
+      "json_path": "cards/EMO-016.json",
+      "markdown_path": "docs/cards/EMO-016.md"
+    },
+    {
+      "id": "EMO-017",
+      "title": "戒备",
+      "category": "emotion",
+      "tags": [
+        "戒备"
+      ],
+      "json_path": "cards/EMO-017.json",
+      "markdown_path": "docs/cards/EMO-017.md"
+    },
+    {
+      "id": "EMO-018",
+      "title": "敬畏/震撼",
+      "category": "emotion",
+      "tags": [
+        "敬畏/震撼"
+      ],
+      "json_path": "cards/EMO-018.json",
+      "markdown_path": "docs/cards/EMO-018.md"
+    },
+    {
+      "id": "EMO-019",
+      "title": "解脱",
+      "category": "emotion",
+      "tags": [
+        "解脱"
+      ],
+      "json_path": "cards/EMO-019.json",
+      "markdown_path": "docs/cards/EMO-019.md"
+    },
+    {
+      "id": "EMO-020",
+      "title": "自豪/得意",
+      "category": "emotion",
+      "tags": [
+        "自豪/得意"
+      ],
+      "json_path": "cards/EMO-020.json",
+      "markdown_path": "docs/cards/EMO-020.md"
+    },
+    {
+      "id": "EMO-021",
+      "title": "羡慕/嫉妒",
+      "category": "emotion",
+      "tags": [
+        "羡慕/嫉妒"
+      ],
+      "json_path": "cards/EMO-021.json",
+      "markdown_path": "docs/cards/EMO-021.md"
+    },
+    {
+      "id": "EMO-022",
+      "title": "迟疑/改口",
+      "category": "emotion",
+      "tags": [
+        "迟疑/改口"
+      ],
+      "json_path": "cards/EMO-022.json",
+      "markdown_path": "docs/cards/EMO-022.md"
+    },
+    {
+      "id": "EMO-023",
+      "title": "警觉/捕捉异动",
+      "category": "emotion",
+      "tags": [
+        "警觉/捕捉异动"
+      ],
+      "json_path": "cards/EMO-023.json",
+      "markdown_path": "docs/cards/EMO-023.md"
+    },
+    {
+      "id": "EMO-024",
+      "title": "困惑/重新判断",
+      "category": "emotion",
+      "tags": [
+        "困惑/重新判断"
+      ],
+      "json_path": "cards/EMO-024.json",
+      "markdown_path": "docs/cards/EMO-024.md"
+    },
+    {
+      "id": "EMO-025",
+      "title": "期待落空/失望",
+      "category": "emotion",
+      "tags": [
+        "期待落空/失望"
+      ],
+      "json_path": "cards/EMO-025.json",
+      "markdown_path": "docs/cards/EMO-025.md"
+    },
+    {
+      "id": "EMO-026",
+      "title": "情绪冻结/麻木",
+      "category": "emotion",
+      "tags": [
+        "情绪冻结/麻木"
+      ],
+      "json_path": "cards/EMO-026.json",
+      "markdown_path": "docs/cards/EMO-026.md"
+    },
+    {
+      "id": "EMO-027",
+      "title": "心动克制/被吸引但压住",
+      "category": "emotion",
+      "tags": [
+        "心动克制/被吸引但压住"
+      ],
+      "json_path": "cards/EMO-027.json",
+      "markdown_path": "docs/cards/EMO-027.md"
+    },
+    {
+      "id": "EMO-028",
+      "title": "防御性坦白",
+      "category": "emotion",
+      "tags": [
+        "防御性坦白"
+      ],
+      "json_path": "cards/EMO-028.json",
+      "markdown_path": "docs/cards/EMO-028.md"
+    },
+    {
+      "id": "EMO-029",
+      "title": "临场撑住/强行镇定",
+      "category": "emotion",
+      "tags": [
+        "临场撑住/强行镇定"
+      ],
+      "json_path": "cards/EMO-029.json",
+      "markdown_path": "docs/cards/EMO-029.md"
+    },
+    {
+      "id": "EMO-030",
+      "title": "强颜欢笑/礼貌掩饰",
+      "category": "emotion",
+      "tags": [
+        "强颜欢笑/礼貌掩饰",
+        "forced smile"
+      ],
+      "json_path": "cards/EMO-030.json",
+      "markdown_path": "docs/cards/EMO-030.md"
+    },
+    {
+      "id": "EMO-031",
+      "title": "厌倦/走神",
+      "category": "emotion",
+      "tags": [
+        "厌倦/走神"
+      ],
+      "json_path": "cards/EMO-031.json",
+      "markdown_path": "docs/cards/EMO-031.md"
+    },
+    {
+      "id": "EMO-032",
+      "title": "压抑兴奋/想分享但忍住",
+      "category": "emotion",
+      "tags": [
+        "压抑兴奋/想分享但忍住"
+      ],
+      "json_path": "cards/EMO-032.json",
+      "markdown_path": "docs/cards/EMO-032.md"
+    },
+    {
+      "id": "EMO-033",
+      "title": "身体主导焦虑/慌乱遮掩",
+      "category": "emotion",
+      "tags": [
+        "身体主导焦虑/慌乱遮掩"
+      ],
+      "json_path": "cards/EMO-033.json",
+      "markdown_path": "docs/cards/EMO-033.md"
+    },
+    {
+      "id": "EMO-034",
+      "title": "轻快喜悦/身体上浮",
+      "category": "emotion",
+      "tags": [
+        "轻快喜悦/身体上浮"
+      ],
+      "json_path": "cards/EMO-034.json",
+      "markdown_path": "docs/cards/EMO-034.md"
+    },
+    {
+      "id": "EMO-035",
+      "title": "沉重失落/拖行前进",
+      "category": "emotion",
+      "tags": [
+        "沉重失落/拖行前进"
+      ],
+      "json_path": "cards/EMO-035.json",
+      "markdown_path": "docs/cards/EMO-035.md"
+    },
+    {
+      "id": "EMO-036",
+      "title": "身体排斥/不愿接触",
+      "category": "emotion",
+      "tags": [
+        "身体排斥/不愿接触"
+      ],
+      "json_path": "cards/EMO-036.json",
+      "markdown_path": "docs/cards/EMO-036.md"
+    },
+    {
+      "id": "EMO-037",
+      "title": "被点破后自我修正",
+      "category": "emotion",
+      "tags": [
+        "被点破后自我修正"
+      ],
+      "json_path": "cards/EMO-037.json",
+      "markdown_path": "docs/cards/EMO-037.md"
+    },
+    {
+      "id": "EMO-038",
+      "title": "不敢相信的被认可",
+      "category": "emotion",
+      "tags": [
+        "不敢相信的被认可"
+      ],
+      "json_path": "cards/EMO-038.json",
+      "markdown_path": "docs/cards/EMO-038.md"
+    },
+    {
+      "id": "EMO-039",
+      "title": "公共场合被迫体面",
+      "category": "emotion",
+      "tags": [
+        "公共场合被迫体面"
+      ],
+      "json_path": "cards/EMO-039.json",
+      "markdown_path": "docs/cards/EMO-039.md"
+    },
+    {
+      "id": "EMO-040",
+      "title": "被托付后责任落肩",
+      "category": "emotion",
+      "tags": [
+        "被托付后责任落肩"
+      ],
+      "json_path": "cards/EMO-040.json",
+      "markdown_path": "docs/cards/EMO-040.md"
+    },
+    {
+      "id": "EMO-041",
+      "title": "听懂潜台词后装作没听懂",
+      "category": "emotion",
+      "tags": [
+        "听懂潜台词后装作没听懂"
+      ],
+      "json_path": "cards/EMO-041.json",
+      "markdown_path": "docs/cards/EMO-041.md"
+    },
+    {
+      "id": "EMO-042",
+      "title": "被帮助时抗拒又软化",
+      "category": "emotion",
+      "tags": [
+        "被帮助时抗拒又软化"
+      ],
+      "json_path": "cards/EMO-042.json",
+      "markdown_path": "docs/cards/EMO-042.md"
+    },
+    {
+      "id": "EMO-043",
+      "title": "被误会后急于澄清又不能失态",
+      "category": "emotion",
+      "tags": [
+        "被误会后急于澄清又不能失态"
+      ],
+      "json_path": "cards/EMO-043.json",
+      "markdown_path": "docs/cards/EMO-043.md"
+    },
+    {
+      "id": "EMO-044",
+      "title": "临时失控后迅速收回",
+      "category": "emotion",
+      "tags": [
+        "临时失控后迅速收回"
+      ],
+      "json_path": "cards/EMO-044.json",
+      "markdown_path": "docs/cards/EMO-044.md"
+    },
+    {
+      "id": "EMO-045",
+      "title": "终于下定决心但仍害怕",
+      "category": "emotion",
+      "tags": [
+        "终于下定决心但仍害怕"
+      ],
+      "json_path": "cards/EMO-045.json",
+      "markdown_path": "docs/cards/EMO-045.md"
+    },
+    {
+      "id": "MOT-001",
+      "title": "动作质感",
+      "category": "motion",
+      "tags": [
+        "动作质感"
+      ],
+      "json_path": "cards/MOT-001.json",
+      "markdown_path": "docs/cards/MOT-001.md"
+    },
+    {
+      "id": "MOT-002",
+      "title": "视频时间链",
+      "category": "motion",
+      "tags": [
+        "视频时间链"
+      ],
+      "json_path": "cards/MOT-002.json",
+      "markdown_path": "docs/cards/MOT-002.md"
+    },
+    {
+      "id": "MOT-003",
+      "title": "动画表演原则转提示词",
+      "category": "motion",
+      "tags": [
+        "动画表演原则转提示词"
+      ],
+      "json_path": "cards/MOT-003.json",
+      "markdown_path": "docs/cards/MOT-003.md"
+    },
+    {
+      "id": "MOT-004",
+      "title": "思考过程可见化",
+      "category": "motion",
+      "tags": [
+        "思考过程可见化"
+      ],
+      "json_path": "cards/MOT-004.json",
+      "markdown_path": "docs/cards/MOT-004.md"
+    },
+    {
+      "id": "MOT-005",
+      "title": "身体形状与空间方向",
+      "category": "motion",
+      "tags": [
+        "身体形状与空间方向"
+      ],
+      "json_path": "cards/MOT-005.json",
+      "markdown_path": "docs/cards/MOT-005.md"
+    },
+    {
+      "id": "MOT-006",
+      "title": "心理手势转提示词",
+      "category": "motion",
+      "tags": [
+        "心理手势转提示词"
+      ],
+      "json_path": "cards/MOT-006.json",
+      "markdown_path": "docs/cards/MOT-006.md"
+    },
+    {
+      "id": "MOT-007",
+      "title": "一拍一意图",
+      "category": "motion",
+      "tags": [
+        "一拍一意图"
+      ],
+      "json_path": "cards/MOT-007.json",
+      "markdown_path": "docs/cards/MOT-007.md"
+    },
+    {
+      "id": "MOT-008",
+      "title": "情绪转换微停顿模板",
+      "category": "motion",
+      "tags": [
+        "情绪转换微停顿模板"
+      ],
+      "json_path": "cards/MOT-008.json",
+      "markdown_path": "docs/cards/MOT-008.md"
+    },
+    {
+      "id": "MOT-009",
+      "title": "动作节拍拆法",
+      "category": "motion",
+      "tags": [
+        "动作节拍拆法"
+      ],
+      "json_path": "cards/MOT-009.json",
+      "markdown_path": "docs/cards/MOT-009.md"
+    },
+    {
+      "id": "MOT-010",
+      "title": "主姿态—手势—微动作分层",
+      "category": "motion",
+      "tags": [
+        "主姿态—手势—微动作分层"
+      ],
+      "json_path": "cards/MOT-010.json",
+      "markdown_path": "docs/cards/MOT-010.md"
+    },
+    {
+      "id": "MOT-011",
+      "title": "情绪步态与移动质感",
+      "category": "motion",
+      "tags": [
+        "情绪步态与移动质感",
+        "gait",
+        "walk"
+      ],
+      "json_path": "cards/MOT-011.json",
+      "markdown_path": "docs/cards/MOT-011.md"
+    },
+    {
+      "id": "MOT-012",
+      "title": "行动动词转提示词",
+      "category": "motion",
+      "tags": [
+        "行动动词转提示词"
+      ],
+      "json_path": "cards/MOT-012.json",
+      "markdown_path": "docs/cards/MOT-012.md"
+    },
+    {
+      "id": "MOT-013",
+      "title": "停顿与重音身体锚点",
+      "category": "motion",
+      "tags": [
+        "停顿与重音身体锚点"
+      ],
+      "json_path": "cards/MOT-013.json",
+      "markdown_path": "docs/cards/MOT-013.md"
+    },
+    {
+      "id": "MOT-014",
+      "title": "镜头内身体路径",
+      "category": "motion",
+      "tags": [
+        "镜头内身体路径"
+      ],
+      "json_path": "cards/MOT-014.json",
+      "markdown_path": "docs/cards/MOT-014.md"
+    },
+    {
+      "id": "MOT-015",
+      "title": "视频提示词模板",
+      "category": "motion",
+      "tags": [
+        "视频提示词模板"
+      ],
+      "json_path": "cards/MOT-015.json",
+      "markdown_path": "docs/cards/MOT-015.md"
+    },
+    {
+      "id": "MOT-016",
+      "title": "低面部依赖的全身表演",
+      "category": "motion",
+      "tags": [
+        "低面部依赖的全身表演"
+      ],
+      "json_path": "cards/MOT-016.json",
+      "markdown_path": "docs/cards/MOT-016.md"
+    },
+    {
+      "id": "MOT-017",
+      "title": "激烈动作中的台词呼吸",
+      "category": "motion",
+      "tags": [
+        "激烈动作中的台词呼吸"
+      ],
+      "json_path": "cards/MOT-017.json",
+      "markdown_path": "docs/cards/MOT-017.md"
+    },
+    {
+      "id": "MOT-018",
+      "title": "镜头位置与表演规则",
+      "category": "motion",
+      "tags": [
+        "镜头位置与表演规则"
+      ],
+      "json_path": "cards/MOT-018.json",
+      "markdown_path": "docs/cards/MOT-018.md"
+    },
+    {
+      "id": "MOT-019",
+      "title": "眨眼/眼跳作为思考剪辑",
+      "category": "motion",
+      "tags": [
+        "眨眼/眼跳作为思考剪辑"
+      ],
+      "json_path": "cards/MOT-019.json",
+      "markdown_path": "docs/cards/MOT-019.md"
+    },
+    {
+      "id": "MOT-020",
+      "title": "景别尺度与表演幅度",
+      "category": "motion",
+      "tags": [
+        "景别尺度与表演幅度"
+      ],
+      "json_path": "cards/MOT-020.json",
+      "markdown_path": "docs/cards/MOT-020.md"
+    },
+    {
+      "id": "MOT-021",
+      "title": "Laban动作质感快速映射",
+      "category": "motion",
+      "tags": [
+        "Laban动作质感快速映射"
+      ],
+      "json_path": "cards/MOT-021.json",
+      "markdown_path": "docs/cards/MOT-021.md"
+    },
+    {
+      "id": "MOT-022",
+      "title": "黄金姿态与剪影可读性",
+      "category": "motion",
+      "tags": [
+        "黄金姿态与剪影可读性"
+      ],
+      "json_path": "cards/MOT-022.json",
+      "markdown_path": "docs/cards/MOT-022.md"
+    },
+    {
+      "id": "MOT-023",
+      "title": "静止与动作对比",
+      "category": "motion",
+      "tags": [
+        "静止与动作对比"
+      ],
+      "json_path": "cards/MOT-023.json",
+      "markdown_path": "docs/cards/MOT-023.md"
+    },
+    {
+      "id": "MOT-024",
+      "title": "目标受阻策略链",
+      "category": "motion",
+      "tags": [
+        "目标受阻策略链"
+      ],
+      "json_path": "cards/MOT-024.json",
+      "markdown_path": "docs/cards/MOT-024.md"
+    },
+    {
+      "id": "MOT-025",
+      "title": "预备动作的真假意图",
+      "category": "motion",
+      "tags": [
+        "预备动作的真假意图"
+      ],
+      "json_path": "cards/MOT-025.json",
+      "markdown_path": "docs/cards/MOT-025.md"
+    },
+    {
+      "id": "MOT-026",
+      "title": "无实物动作连续性",
+      "category": "motion",
+      "tags": [
+        "无实物动作连续性",
+        "mime",
+        "prop continuity"
+      ],
+      "json_path": "cards/MOT-026.json",
+      "markdown_path": "docs/cards/MOT-026.md"
+    },
+    {
+      "id": "MOT-027",
+      "title": "情绪爆点前后收束",
+      "category": "motion",
+      "tags": [
+        "情绪爆点前后收束"
+      ],
+      "json_path": "cards/MOT-027.json",
+      "markdown_path": "docs/cards/MOT-027.md"
+    },
+    {
+      "id": "MOT-028",
+      "title": "分段错峰模板",
+      "category": "motion",
+      "tags": [
+        "分段错峰模板"
+      ],
+      "json_path": "cards/MOT-028.json",
+      "markdown_path": "docs/cards/MOT-028.md"
+    },
+    {
+      "id": "MOT-029",
+      "title": "示例：愤怒地大笑",
+      "category": "motion",
+      "tags": [
+        "示例：愤怒地大笑"
+      ],
+      "json_path": "cards/MOT-029.json",
+      "markdown_path": "docs/cards/MOT-029.md"
+    },
+    {
+      "id": "MOT-030",
+      "title": "示例：心虚后退",
+      "category": "motion",
+      "tags": [
+        "示例：心虚后退"
+      ],
+      "json_path": "cards/MOT-030.json",
+      "markdown_path": "docs/cards/MOT-030.md"
+    },
+    {
+      "id": "MOT-031",
+      "title": "示例：权力反转",
+      "category": "motion",
+      "tags": [
+        "示例：权力反转"
+      ],
+      "json_path": "cards/MOT-031.json",
+      "markdown_path": "docs/cards/MOT-031.md"
+    },
+    {
+      "id": "REL-001",
+      "title": "审讯/压迫",
+      "category": "relationship",
+      "tags": [
+        "审讯/压迫"
+      ],
+      "json_path": "cards/REL-001.json",
+      "markdown_path": "docs/cards/REL-001.md"
+    },
+    {
+      "id": "REL-002",
+      "title": "暧昧/靠近",
+      "category": "relationship",
+      "tags": [
+        "暧昧/靠近"
+      ],
+      "json_path": "cards/REL-002.json",
+      "markdown_path": "docs/cards/REL-002.md"
+    },
+    {
+      "id": "REL-003",
+      "title": "决裂",
+      "category": "relationship",
+      "tags": [
+        "决裂"
+      ],
+      "json_path": "cards/REL-003.json",
+      "markdown_path": "docs/cards/REL-003.md"
+    },
+    {
+      "id": "REL-004",
+      "title": "欺骗",
+      "category": "relationship",
+      "tags": [
+        "欺骗"
+      ],
+      "json_path": "cards/REL-004.json",
+      "markdown_path": "docs/cards/REL-004.md"
+    },
+    {
+      "id": "REL-005",
+      "title": "和解",
+      "category": "relationship",
+      "tags": [
+        "和解"
+      ],
+      "json_path": "cards/REL-005.json",
+      "markdown_path": "docs/cards/REL-005.md"
+    },
+    {
+      "id": "REL-006",
+      "title": "试探/拉扯",
+      "category": "relationship",
+      "tags": [
+        "试探/拉扯"
+      ],
+      "json_path": "cards/REL-006.json",
+      "markdown_path": "docs/cards/REL-006.md"
+    },
+    {
+      "id": "REL-007",
+      "title": "道歉/求原谅",
+      "category": "relationship",
+      "tags": [
+        "道歉/求原谅"
+      ],
+      "json_path": "cards/REL-007.json",
+      "markdown_path": "docs/cards/REL-007.md"
+    },
+    {
+      "id": "REL-008",
+      "title": "权力反转",
+      "category": "relationship",
+      "tags": [
+        "权力反转"
+      ],
+      "json_path": "cards/REL-008.json",
+      "markdown_path": "docs/cards/REL-008.md"
+    },
+    {
+      "id": "REL-009",
+      "title": "群体排斥",
+      "category": "relationship",
+      "tags": [
+        "群体排斥"
+      ],
+      "json_path": "cards/REL-009.json",
+      "markdown_path": "docs/cards/REL-009.md"
+    },
+    {
+      "id": "REL-010",
+      "title": "同步/默契建立",
+      "category": "relationship",
+      "tags": [
+        "同步/默契建立"
+      ],
+      "json_path": "cards/REL-010.json",
+      "markdown_path": "docs/cards/REL-010.md"
+    },
+    {
+      "id": "REL-011",
+      "title": "失同步/关系裂缝",
+      "category": "relationship",
+      "tags": [
+        "失同步/关系裂缝"
+      ],
+      "json_path": "cards/REL-011.json",
+      "markdown_path": "docs/cards/REL-011.md"
+    },
+    {
+      "id": "REL-012",
+      "title": "言行错位/潜台词暴露",
+      "category": "relationship",
+      "tags": [
+        "言行错位/潜台词暴露"
+      ],
+      "json_path": "cards/REL-012.json",
+      "markdown_path": "docs/cards/REL-012.md"
+    },
+    {
+      "id": "REL-013",
+      "title": "对象关系切换/身份差",
+      "category": "relationship",
+      "tags": [
+        "对象关系切换/身份差"
+      ],
+      "json_path": "cards/REL-013.json",
+      "markdown_path": "docs/cards/REL-013.md"
+    },
+    {
+      "id": "REL-014",
+      "title": "遭遇/第一次对峙",
+      "category": "relationship",
+      "tags": [
+        "遭遇/第一次对峙"
+      ],
+      "json_path": "cards/REL-014.json",
+      "markdown_path": "docs/cards/REL-014.md"
+    },
+    {
+      "id": "REL-015",
+      "title": "被围观/观演压力",
+      "category": "relationship",
+      "tags": [
+        "被围观/观演压力"
+      ],
+      "json_path": "cards/REL-015.json",
+      "markdown_path": "docs/cards/REL-015.md"
+    },
+    {
+      "id": "REL-016",
+      "title": "角色标志动作/身份展示",
+      "category": "relationship",
+      "tags": [
+        "角色标志动作/身份展示"
+      ],
+      "json_path": "cards/REL-016.json",
+      "markdown_path": "docs/cards/REL-016.md"
+    },
+    {
+      "id": "REL-017",
+      "title": "沉默交流/真听真看",
+      "category": "relationship",
+      "tags": [
+        "沉默交流/真听真看"
+      ],
+      "json_path": "cards/REL-017.json",
+      "markdown_path": "docs/cards/REL-017.md"
+    },
+    {
+      "id": "REL-018",
+      "title": "策略换招/目标受阻",
+      "category": "relationship",
+      "tags": [
+        "策略换招/目标受阻"
+      ],
+      "json_path": "cards/REL-018.json",
+      "markdown_path": "docs/cards/REL-018.md"
+    },
+    {
+      "id": "REL-019",
+      "title": "同动作不同关系",
+      "category": "relationship",
+      "tags": [
+        "同动作不同关系"
+      ],
+      "json_path": "cards/REL-019.json",
+      "markdown_path": "docs/cards/REL-019.md"
+    },
+    {
+      "id": "REL-020",
+      "title": "动作替代对白/无声交代",
+      "category": "relationship",
+      "tags": [
+        "动作替代对白/无声交代"
+      ],
+      "json_path": "cards/REL-020.json",
+      "markdown_path": "docs/cards/REL-020.md"
+    },
+    {
+      "id": "REL-021",
+      "title": "对话中的动作打断",
+      "category": "relationship",
+      "tags": [
+        "对话中的动作打断"
+      ],
+      "json_path": "cards/REL-021.json",
+      "markdown_path": "docs/cards/REL-021.md"
+    },
+    {
+      "id": "REL-022",
+      "title": "关系母题重复/规则化反应",
+      "category": "relationship",
+      "tags": [
+        "关系母题重复/规则化反应"
+      ],
+      "json_path": "cards/REL-022.json",
+      "markdown_path": "docs/cards/REL-022.md"
+    },
+    {
+      "id": "REL-023",
+      "title": "地位试探/谁先让步",
+      "category": "relationship",
+      "tags": [
+        "地位试探/谁先让步",
+        "status",
+        "power"
+      ],
+      "json_path": "cards/REL-023.json",
+      "markdown_path": "docs/cards/REL-023.md"
+    },
+    {
+      "id": "REL-024",
+      "title": "距离变化/亲疏变温",
+      "category": "relationship",
+      "tags": [
+        "距离变化/亲疏变温"
+      ],
+      "json_path": "cards/REL-024.json",
+      "markdown_path": "docs/cards/REL-024.md"
+    },
+    {
+      "id": "REL-025",
+      "title": "被观察/被读懂",
+      "category": "relationship",
+      "tags": [
+        "被观察/被读懂"
+      ],
+      "json_path": "cards/REL-025.json",
+      "markdown_path": "docs/cards/REL-025.md"
+    },
+    {
+      "id": "REL-026",
+      "title": "责任交接/被托付",
+      "category": "relationship",
+      "tags": [
+        "责任交接/被托付"
+      ],
+      "json_path": "cards/REL-026.json",
+      "markdown_path": "docs/cards/REL-026.md"
+    },
+    {
+      "id": "REL-027",
+      "title": "拒绝被照顾/嘴硬接纳",
+      "category": "relationship",
+      "tags": [
+        "拒绝被照顾/嘴硬接纳"
+      ],
+      "json_path": "cards/REL-027.json",
+      "markdown_path": "docs/cards/REL-027.md"
+    },
+    {
+      "id": "REL-028",
+      "title": "暗中结盟/同阵营确认",
+      "category": "relationship",
+      "tags": [
+        "暗中结盟/同阵营确认"
+      ],
+      "json_path": "cards/REL-028.json",
+      "markdown_path": "docs/cards/REL-028.md"
+    },
+    {
+      "id": "REL-029",
+      "title": "被追问/被迫自证",
+      "category": "relationship",
+      "tags": [
+        "被追问/被迫自证"
+      ],
+      "json_path": "cards/REL-029.json",
+      "markdown_path": "docs/cards/REL-029.md"
+    },
+    {
+      "id": "REL-030",
+      "title": "请求许可/等待同意",
+      "category": "relationship",
+      "tags": [
+        "请求许可/等待同意",
+        "permission",
+        "consent"
+      ],
+      "json_path": "cards/REL-030.json",
+      "markdown_path": "docs/cards/REL-030.md"
+    },
+    {
+      "id": "REL-031",
+      "title": "共同隐瞒/互相掩护",
+      "category": "relationship",
+      "tags": [
+        "共同隐瞒/互相掩护"
+      ],
+      "json_path": "cards/REL-031.json",
+      "markdown_path": "docs/cards/REL-031.md"
+    }
+  ]
+}

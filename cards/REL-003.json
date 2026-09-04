@@ -1,0 +1,29 @@
+{
+  "id": "REL-003",
+  "title": "决裂",
+  "category": "relationship",
+  "tags": [
+    "决裂"
+  ],
+  "channels": {
+    "initiator": "身体转开、物件放下",
+    "responder": "追一步又停住"
+  },
+  "prompt": "他把钥匙放到桌上，身体已经转向门口；她追出一步又停住，手悬在半空没有抓住他，房间里只剩钥匙碰到桌面的轻响。",
+  "guidance": "用空间距离代替台词解释",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "决裂"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

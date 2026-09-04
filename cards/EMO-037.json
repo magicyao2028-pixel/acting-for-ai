@@ -1,0 +1,30 @@
+{
+  "id": "EMO-037",
+  "title": "被点破后自我修正",
+  "category": "emotion",
+  "tags": [
+    "被点破后自我修正"
+  ],
+  "channels": {
+    "face": "眼神先停住，随后快速眨眼，眉心短暂收紧",
+    "body_hands": "原动作撤回半寸，手改去整理无关物，身体重新找中立角度",
+    "voice": "起句被吞回，改用更谨慎的短句"
+  },
+  "prompt": "他听见对方指出破绽后先停住，伸出的手撤回半寸，指尖转去扶正杯子；眨眼后才换成更稳的说法",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "被点破后自我修正"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "MOT-020",
+  "title": "景别尺度与表演幅度",
+  "category": "motion",
+  "tags": [
+    "景别尺度与表演幅度"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "同一表演要按景别换通道。远景优先身体轮廓、路线和距离；中景平衡身体与手势；近景压低大动作，强调眼神、呼吸、指尖和嘴角。\n\n| 景别 | 优先通道 | 提示词约束 |\n|---|---|---|\n| 全景/远景 | 站位、身体形状、步幅、路线、群体朝向 | 加大轮廓变化，写清靠近/远离/绕开/下沉，避免只写眉眼 |\n| 中景 | 重心、胸口朝向、手势、道具、眼神目标 | 主手势必须落在镜头可读区域，辅助手晚半拍，不同时抢动作 |\n| 近景/特写 | 眼跳、眨眼、嘴角、下颌、呼吸、指尖 | 减少大幅转身和挥手，用微停顿、吞咽、短吸气表现转念 |",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "景别尺度与表演幅度"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

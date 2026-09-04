@@ -1,0 +1,26 @@
+{
+  "id": "MOT-008",
+  "title": "情绪转换微停顿模板",
+  "category": "motion",
+  "tags": [
+    "情绪转换微停顿模板"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "```text\n旧状态仍在：[原姿态/原动作]\n触发与消化：[眼神先变 + 动作悬停 + 呼吸漏一拍]\n重新选择：[重心或视线改向]\n新状态命中：[主动作 + 新的声音质感]\n```\n\n示例：他原本还带着礼貌的笑，听见名字后嘴角没有立刻落下，只是眼神先停住，举到一半的杯子悬在胸前；短促吸气后，他把视线移向门口，手腕慢慢放低，笑意才从脸上退干净，下一句话变得又低又慢。",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "情绪转换微停顿模板"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

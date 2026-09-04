@@ -1,0 +1,30 @@
+{
+  "id": "EMO-029",
+  "title": "临场撑住/强行镇定",
+  "category": "emotion",
+  "tags": [
+    "临场撑住/强行镇定"
+  ],
+  "channels": {
+    "face": "表情先碎裂一瞬又收回，眨眼压慢",
+    "body_hands": "背挺直，脚下重新找重心，手压住桌沿或衣角",
+    "voice": "先吸气，语速被刻意放稳，音量略低"
+  },
+  "prompt": "镜头前他嘴角先僵了一下，下一秒把背挺直，指尖压住桌沿；吸气后语速放慢，像把慌乱硬生生按回身体里",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "临场撑住/强行镇定"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

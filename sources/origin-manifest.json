@@ -1,0 +1,30 @@
+{
+  "note": "原始文件摘要用于标识首版来源快照，不包含本地绝对路径。公开仓库有独立版本；不反向覆盖内部 Skill。",
+  "source_version": "0.1.10",
+  "files": [
+    {
+      "name": "00_路由.md",
+      "sha256": "aa0530577a5977f8ec3351af5018a3b1a8e65dccabb06d7e83f30753b594901e"
+    },
+    {
+      "name": "01_核心公式与通道.md",
+      "sha256": "81538297920d6ed42003ba7d6622867f7771fe98dc25afe15f54f8b1a87c5c00"
+    },
+    {
+      "name": "02_基础情绪.md",
+      "sha256": "14d1ae6656e073837461f9958039bc6ecc04392ca754dc3df719f0863db92b44"
+    },
+    {
+      "name": "03_关系场景.md",
+      "sha256": "aeb3198837eff00ba219bcb22d54ccd79160afa8e7c6957562b57baa64a090f0"
+    },
+    {
+      "name": "04_动作质感与视频.md",
+      "sha256": "90901dede604bc43e6fa8cf03e2519db63650cd5e24a8d7cbe2ff6bac25fb790"
+    },
+    {
+      "name": "05_资料来源与更新记录.md",
+      "sha256": "03e8ef60305f89ba72fdb347fad2cd1785e832ed30c390e5ef66a307b4e17ed6"
+    }
+  ]
+}

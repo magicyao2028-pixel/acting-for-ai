@@ -1,0 +1,29 @@
+{
+  "id": "REL-019",
+  "title": "同动作不同关系",
+  "category": "relationship",
+  "tags": [
+    "同动作不同关系"
+  ],
+  "channels": {
+    "initiator": "同一动作在亲密、陌生、权威关系中改变边界",
+    "responder": "接收方用是否接住、是否后撤、是否回看标明关系"
+  },
+  "prompt": "她把外套递给朋友时手直接越过桌角，朋友自然接住；轮到主管走近，她把外套先放在椅背上，手离开后才开口提醒，对方只点头没有回看她。",
+  "guidance": "不只写“递东西”；写递到哪里、停多久、对方是否接、身体边界是否被允许",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "同动作不同关系"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

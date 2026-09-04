@@ -1,0 +1,30 @@
+{
+  "id": "EMO-020",
+  "title": "自豪/得意",
+  "category": "emotion",
+  "tags": [
+    "自豪/得意"
+  ],
+  "channels": {
+    "face": "下巴微抬、眼神明亮、嘴角压不住",
+    "body_hands": "胸口打开、站姿变稳、动作放慢",
+    "voice": "声音更饱满、停顿留得更长"
+  },
+  "prompt": "他没有立刻回答，只把胸口打开，嘴角压着一点笑，停了半秒才把那句话稳稳说出来",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "自豪/得意"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "REL-009",
+  "title": "群体排斥",
+  "category": "relationship",
+  "tags": [
+    "群体排斥"
+  ],
+  "channels": {
+    "initiator": "主导者占据中心、交换眼神",
+    "responder": "被排斥者站在边缘、身体缩小"
+  },
+  "prompt": "几个人的肩膀自然合成半圈，谈笑时视线彼此交换，却总是绕过她；她站在圈外半步，手里还握着没递出去的杯子，笑容停在脸上没有被接住。",
+  "guidance": "写站位、视线绕开、空位被合上",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "群体排斥"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

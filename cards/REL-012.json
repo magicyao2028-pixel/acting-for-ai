@@ -1,0 +1,29 @@
+{
+  "id": "REL-012",
+  "title": "言行错位/潜台词暴露",
+  "category": "relationship",
+  "tags": [
+    "言行错位/潜台词暴露"
+  ],
+  "channels": {
+    "initiator": "嘴上维持礼貌或轻松，眼神和身体却提前指向真实目标",
+    "responder": "对方捕捉到错位后停止配合，回看或拉开距离"
+  },
+  "prompt": "她嘴上说“你随时可以走”，手却先一步把门边的钥匙压在掌心，视线在他和门把之间来回一次；他原本伸出的手停住，先看向她握紧的指节，再抬眼看她，身体从配合的前倾慢慢收回。",
+  "guidance": "不复述台词含义；让视线、手势、道具和停顿泄露未说出口的意图",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "言行错位/潜台词暴露"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

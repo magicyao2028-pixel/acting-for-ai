@@ -1,0 +1,32 @@
+{
+  "id": "EMO-008",
+  "title": "隐忍",
+  "category": "emotion",
+  "tags": [
+    "隐忍",
+    "restraint",
+    "suppressed emotion"
+  ],
+  "channels": {
+    "face": "眼神压住、眼眶不眨",
+    "body_hands": "拳头松开又攥紧、背挺直",
+    "voice": "声音低而稳"
+  },
+  "prompt": "他把话咽回去，拳头在袖口里收紧，抬眼时声音反而更平",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "隐忍"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

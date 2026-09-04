@@ -1,0 +1,26 @@
+{
+  "id": "MOT-025",
+  "title": "预备动作的真假意图",
+  "category": "motion",
+  "tags": [
+    "预备动作的真假意图"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "预备动作不是只为大动作蓄力，也可以承担悬念：观众以为人物要靠近、攻击或离开，下一拍才发现真实目标是递物、保护或退让。提示词必须写清预备动作和结果动作之间的可见关系。\n\n| 用途 | 可见写法 | 避免 |\n|---|---|---|\n| 真实意图预告 | 眼神先落到目标，重心和手部都朝同一方向蓄力 | 大动作突然发生，没有起点 |\n| 错误方向误导 | 身体先朝一个方向启动，主手或视线在最后一拍切到真实目标 | 无原因反转，像动作跳变 |\n| 压住冲动 | 吸气和前倾已经出现，但手停住或改去整理道具 | 只写“忍住”，没有身体证据 |\n\n示例：他看似要冲向门口，重心已经压到前脚掌，手也伸向门把；下一秒视线却落到她身后的窗帘，手从门把旁擦过，改为拉上窗帘挡住外面的视线。",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "预备动作的真假意图"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

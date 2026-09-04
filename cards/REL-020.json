@@ -1,0 +1,31 @@
+{
+  "id": "REL-020",
+  "title": "动作替代对白/无声交代",
+  "category": "relationship",
+  "tags": [
+    "动作替代对白/无声交代"
+  ],
+  "channels": {
+    "initiator": "关键事实不靠解释台词说出，而由人物位置、道具处理和视线路径透露",
+    "responder": "接收方用停住、回看、让路或收回手确认信息被读到"
+  },
+  "prompt": "他没有解释自己已经决定离开，只把常用的杯子倒扣在水槽边，把钥匙推到桌面中央；她听见轻响后停住脚步，先看钥匙，再看他空出来的手。",
+  "guidance": "先问“关掉声音还能不能看懂”；能用动作读懂的事实，不再让角色复述",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-076"
+  ],
+  "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "动作替代对白/无声交代"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

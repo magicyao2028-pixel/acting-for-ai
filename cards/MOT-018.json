@@ -1,0 +1,26 @@
+{
+  "id": "MOT-018",
+  "title": "镜头位置与表演规则",
+  "category": "motion",
+  "tags": [
+    "镜头位置与表演规则"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "表演动作要和镜头位置互相成就。一个动作只有在当前角度能读懂时才成立；换角度后，应同步改写人物朝向、道具高度或动作落点。\n\n| 规则 | 提示词用途 |\n|---|---|\n| 固定角度读关系 | 让人物的递物、挡门、回避、靠近都发生在镜头能读到的侧面或前景 |\n| 长镜头读动作链 | 少切时写清起点、路线、阻碍、停顿和结果，让观众靠调度读懂变化 |\n| 重复母题读规则 | 同一名字、物件或声音每次触发相似站位或反应，但逐次升级关系含义 |",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "镜头位置与表演规则"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

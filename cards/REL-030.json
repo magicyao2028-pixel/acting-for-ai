@@ -1,0 +1,31 @@
+{
+  "id": "REL-030",
+  "title": "请求许可/等待同意",
+  "category": "relationship",
+  "tags": [
+    "请求许可/等待同意",
+    "permission",
+    "consent"
+  ],
+  "channels": {
+    "initiator": "请求方把动作停在对方可拒绝的位置，视线不抢结果",
+    "responder": "被请求方用是否接住、点头、后撤或让路给出同意边界"
+  },
+  "prompt": "他伸手前先停在半空，掌心没有越过她的肩线，视线从她脸上移到她可以后退的位置；她没有立刻点头，只把身体侧开一点又慢慢放回原位，手指轻轻接住他的袖口。",
+  "guidance": "亲密和权力关系都要写“许可空间”：手停在哪里、身体有没有逼近、对方有没有退路",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "请求许可/等待同意"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

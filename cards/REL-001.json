@@ -1,0 +1,29 @@
+{
+  "id": "REL-001",
+  "title": "审讯/压迫",
+  "category": "relationship",
+  "tags": [
+    "审讯/压迫"
+  ],
+  "channels": {
+    "initiator": "少动、慢说、眼神稳定",
+    "responder": "多眨眼、吞咽、手找支点"
+  },
+  "prompt": "他没有提高音量，只把手里的文件慢慢放到桌面，眼神始终钉在对方脸上；对方下意识吞咽，手指摸到杯沿又松开，回答前多眨了两次眼。",
+  "guidance": "强者平静，弱者张扬或失控",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "审讯/压迫"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

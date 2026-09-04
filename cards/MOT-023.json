@@ -1,0 +1,26 @@
+{
+  "id": "MOT-023",
+  "title": "静止与动作对比",
+  "category": "motion",
+  "tags": [
+    "静止与动作对比"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "静止不是空白，而是人物正在压住、判断或等待对方反应。视频提示词可用短静止建立节奏，再让动作命中。\n\n| 用途 | 可见写法 | 避免 |\n|---|---|---|\n| 压住情绪 | 身体停住，只有胸口、指尖或下颌保留微动 | 全身僵死、无呼吸 |\n| 等待对方接招 | 递物或问题抛出后动作停在可接位置，视线不催促 | 说完立刻换动作 |\n| 转念前留白 | 旧动作悬停，眼神重新定点，短吸气后进入新动作 | 情绪秒切 |\n| 爆发后收束 | 主动作结束，余波留在肩颈、衣角、道具震动或呼吸 | 动作落点后立刻切无余波 |\n\n示例：她把问题说完后没有继续逼近，手停在桌面边缘，眼神稳稳等对方先动；半秒静止后，对方先移开视线，她才把文件推过去。",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "静止与动作对比"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "EMO-034",
+  "title": "轻快喜悦/身体上浮",
+  "category": "emotion",
+  "tags": [
+    "轻快喜悦/身体上浮"
+  ],
+  "channels": {
+    "face": "眼神发亮，眼角先软开，嘴角不急着咧大",
+    "body_hands": "胸口打开，肩膀上浮，手臂摆动更松，步子带弹性",
+    "voice": "尾音上扬，笑意先从气息里出来"
+  },
+  "prompt": "她还没笑出声，脚步已经变轻，手臂随着步子自然摆开；抬头时眼神亮起来，声音比平时高半级",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-040"
+  ],
+  "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "轻快喜悦/身体上浮"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

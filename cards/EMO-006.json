@@ -1,0 +1,31 @@
+{
+  "id": "EMO-006",
+  "title": "悲伤",
+  "category": "emotion",
+  "tags": [
+    "悲伤",
+    "sadness"
+  ],
+  "channels": {
+    "face": "下眼睑发亮、嘴角下拉",
+    "body_hands": "肩膀内收、手垂下",
+    "voice": "鼻音、气息断续"
+  },
+  "prompt": "她没有哭出声，只是肩膀慢慢塌下去，下眼睑亮起一层水光",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "悲伤"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

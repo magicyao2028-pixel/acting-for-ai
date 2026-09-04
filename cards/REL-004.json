@@ -1,0 +1,29 @@
+{
+  "id": "REL-004",
+  "title": "欺骗",
+  "category": "relationship",
+  "tags": [
+    "欺骗"
+  ],
+  "channels": {
+    "initiator": "表情过稳、眼神错位",
+    "responder": "手部多余动作"
+  },
+  "prompt": "他说得太稳，嘴角没有多余变化，只有视线在提到时间时偏向窗边；手指轻轻抹过袖口，像是在掩盖刚才的停顿。",
+  "guidance": "写“过度正常”的反常",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "欺骗"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

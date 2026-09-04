@@ -1,0 +1,29 @@
+{
+  "id": "REL-031",
+  "title": "共同隐瞒/互相掩护",
+  "category": "relationship",
+  "tags": [
+    "共同隐瞒/互相掩护"
+  ],
+  "channels": {
+    "initiator": "一方先暴露风险信号，另一方用站位、道具或话题接住",
+    "responder": "被掩护方不公开感谢，只把动作收回正常轨道"
+  },
+  "prompt": "第三个人转身时，她的手还压在票根上；同伴顺势把文件夹放到桌面边缘挡住视线，语气自然地接过话题。她没有看他，只把手从票根上松开，继续倒水，呼吸才慢慢放平。",
+  "guidance": "写第三方视线压力、掩护动作和恢复正常的余波，不写两人直接说明秘密",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "共同隐瞒/互相掩护"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

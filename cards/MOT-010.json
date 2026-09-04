@@ -1,0 +1,26 @@
+{
+  "id": "MOT-010",
+  "title": "主姿态—手势—微动作分层",
+  "category": "motion",
+  "tags": [
+    "主姿态—手势—微动作分层"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "| 层级 | 承担内容 | 提示词约束 |\n|---|---|---|\n| 主姿态 | 当前主导意图或情绪段落 | 一个思想段保留一个清晰身体轮廓；只有想法真正转向时才换主姿态 |\n| 姿态强度 | 同一意图的升降 | 不急着换姿势，用前倾/后撤、胸口开合、重心加深表现强度变化 |\n| 次级手势 | 强调关键行动或潜台词 | 每个段落只选一两个与目标有关的手势，主手先命中，辅助手晚半拍 |\n| 微动作 | 思考与生理余波 | 眨眼、眼跳、吞咽、指尖收紧只放在思想节点，避免全程均匀抖动 |\n\n提示词模板：`保持[主姿态]贯穿当前思想段，只让[重心/胸口/距离]逐步增强；在[关键词或触发点]加入一次[目标相关手势]，想法转向前短暂停住，再切换到新的身体轮廓。`",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "主姿态—手势—微动作分层"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

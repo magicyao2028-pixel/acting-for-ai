@@ -1,0 +1,29 @@
+{
+  "id": "REL-008",
+  "title": "权力反转",
+  "category": "relationship",
+  "tags": [
+    "权力反转"
+  ],
+  "channels": {
+    "initiator": "原本少动的人开始失去节奏",
+    "responder": "原本紧张的人站稳、抬眼"
+  },
+  "prompt": "原本坐得很稳的人开始频繁换手拿笔，视线第一次从对方脸上移开；对面的人反而慢慢坐直，抬眼看住他，说话前留出完整的一秒停顿。",
+  "guidance": "写节奏交换：谁开始多余动作，谁开始安静",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "权力反转"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

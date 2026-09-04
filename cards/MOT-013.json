@@ -1,0 +1,26 @@
+{
+  "id": "MOT-013",
+  "title": "停顿与重音身体锚点",
+  "category": "motion",
+  "tags": [
+    "停顿与重音身体锚点"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "| 台词处理 | 可见锚点 | 提示词写法 |\n|---|---|---|\n| 思考停顿 | 眼神换点、动作悬停、短吸气 | 说到那个名字时他停住，视线从她脸上移到桌面，手里的杯子悬在半空 |\n| 转折停顿 | 重心改向、肩膀重新打开或收紧 | 她原本要继续解释，停了一拍后把身体转向门口，声音也变硬 |\n| 压住重音 | 下颌收紧、手指加力、音量不升反降 | 他把“现在”两个字压得很低，指节按住文件边缘，眼神没有离开对方 |\n| 情绪泄出 | 呼吸破口、尾音抖、手部失控小动作 | 她说完“没事”后尾音轻轻抖了一下，指尖把纸角捏皱，呼吸没能立刻接上 |",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "停顿与重音身体锚点"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

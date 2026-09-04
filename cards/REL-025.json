@@ -1,0 +1,29 @@
+{
+  "id": "REL-025",
+  "title": "被观察/被读懂",
+  "category": "relationship",
+  "tags": [
+    "被观察/被读懂"
+  ],
+  "channels": {
+    "initiator": "一方发现自己正在被看见、判断或识破",
+    "responder": "观察方不急着说破，用视线、停顿、微小让位压住对方"
+  },
+  "prompt": "他还在解释，女人的视线却先落到他袖口的水渍，再抬回他的眼睛；他原本稳定的语速断了一拍，手迅速拉下袖口，身体向椅背缩回半寸。",
+  "guidance": "写清“看见什么证据”和被看见者如何收回、遮掩或反击",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "被观察/被读懂"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

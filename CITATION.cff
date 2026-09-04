@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the repository version and entry IDs when reusing this reference library."
+title: "Acting for AI: 表演可视化参考库"
+type: dataset
+authors:
+  - name: "magicyao2028-pixel"
+    website: "https://github.com/magicyao2028-pixel"
+version: 0.1.0
+date-released: 2026-09-04
+url: "https://github.com/magicyao2028-pixel/acting-for-ai"
+license: CC-BY-4.0
+keywords:
+  - AI video
+  - acting
+  - body language
+  - animation
+  - prompt engineering

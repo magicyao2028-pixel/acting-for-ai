@@ -1,0 +1,17 @@
+{
+  "name": "acting-for-ai",
+  "title": "表演可视化 · Acting for AI",
+  "version": "0.1.0",
+  "schema_version": 1,
+  "language": "zh-CN",
+  "repository": "https://github.com/magicyao2028-pixel/acting-for-ai",
+  "upstream_reference_version": "0.1.10",
+  "validation": {
+    "status": "author_verified_in_practice",
+    "statement": "作者已在实际创作中验证并持续使用这套表演可视化资料。完整视频案例暂不公开；当前不声称逐条、全模型或量化对照验证。",
+    "confirmed_on": "2026-09-04",
+    "evidence_type": "maintainer_firsthand_report"
+  },
+  "content_license": "CC-BY-4.0",
+  "code_license": "MIT"
+}

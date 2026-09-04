@@ -1,0 +1,29 @@
+{
+  "id": "REL-027",
+  "title": "拒绝被照顾/嘴硬接纳",
+  "category": "relationship",
+  "tags": [
+    "拒绝被照顾/嘴硬接纳"
+  ],
+  "channels": {
+    "initiator": "照顾方降低逼近感，把帮助停在对方可拒绝的位置",
+    "responder": "被照顾方先挡开或后撤，随后用更小动作接住"
+  },
+  "prompt": "他递外套时没有碰她，只把外套停在她手边；她先把身体侧开，嘴上说不用，风吹过来后手却停住，指尖慢慢接住衣角，下一句话的音量比刚才低了半级。",
+  "guidance": "照顾不是强塞动作；要写边界、停顿、是否接住、接住后语气是否软化",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "拒绝被照顾/嘴硬接纳"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "EMO-030",
+  "title": "强颜欢笑/礼貌掩饰",
+  "category": "emotion",
+  "tags": [
+    "强颜欢笑/礼貌掩饰",
+    "forced smile"
+  ],
+  "channels": {
+    "face": "嘴角先拉开但眼周慢半拍或不参与，笑意收得过快",
+    "body_hands": "肩颈仍紧，手部保持防御位置，身体没有真正靠近",
+    "voice": "短笑后立刻补话，气息没有放松"
+  },
+  "prompt": "她先把嘴角拉出一个笑，眼睛却没有跟着软下来；笑容很快掉下去，手指仍扣着杯沿，下一句话接得太急",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "强颜欢笑/礼貌掩饰"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

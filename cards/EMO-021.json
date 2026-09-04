@@ -1,0 +1,30 @@
+{
+  "id": "EMO-021",
+  "title": "羡慕/嫉妒",
+  "category": "emotion",
+  "tags": [
+    "羡慕/嫉妒"
+  ],
+  "channels": {
+    "face": "眼神停在对方所得之物上、嘴角收紧",
+    "body_hands": "手指压住杯沿或袖口、身体不自觉靠近",
+    "voice": "轻声试探、句尾发酸"
+  },
+  "prompt": "她的视线先落在那枚戒指上，手指把杯沿压得发白，抬头时嘴角已经收紧",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "羡慕/嫉妒"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

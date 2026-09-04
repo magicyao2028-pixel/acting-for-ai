@@ -1,0 +1,30 @@
+{
+  "id": "EMO-040",
+  "title": "被托付后责任落肩",
+  "category": "emotion",
+  "tags": [
+    "被托付后责任落肩"
+  ],
+  "channels": {
+    "face": "眼神先落到被交付物，再回到对方脸上，眉心轻收",
+    "body_hands": "肩膀先沉一下，随后背慢慢挺直，手指更稳地握住物件",
+    "voice": "先短吸气，回答变慢，音量压实"
+  },
+  "prompt": "他接过那串钥匙时没有立刻说话，视线先落在钥匙上；肩膀像被重量压了一下，随后慢慢挺直，手指把钥匙握稳后才低声答应",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "被托付后责任落肩"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "REL-011",
+  "title": "失同步/关系裂缝",
+  "category": "relationship",
+  "tags": [
+    "失同步/关系裂缝"
+  ],
+  "channels": {
+    "initiator": "一方仍按原节奏靠近、递物或说话",
+    "responder": "另一方延迟回应、提前收身或拒绝接续动作"
+  },
+  "prompt": "他仍像往常一样把外套递过去，她的手却没有抬起，只在半拍后把身体侧开；外套悬在两人之间，他先收回视线，再慢慢收回手，原本相邻的站位空出一步距离。",
+  "guidance": "用错开的停顿、未被接住的动作和扩大距离表现裂缝",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "失同步/关系裂缝"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

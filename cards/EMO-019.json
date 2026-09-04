@@ -1,0 +1,30 @@
+{
+  "id": "EMO-019",
+  "title": "解脱",
+  "category": "emotion",
+  "tags": [
+    "解脱"
+  ],
+  "channels": {
+    "face": "眉心松开、嘴角微微下落后放松",
+    "body_hands": "肩膀沉下、背靠住支撑物、手松开",
+    "voice": "长呼气、声音变软"
+  },
+  "prompt": "她先长长吐出一口气，攥紧的手终于松开，肩膀沉下去，背轻轻靠到墙上",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "解脱"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

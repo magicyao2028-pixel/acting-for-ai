@@ -1,0 +1,29 @@
+{
+  "id": "REL-016",
+  "title": "角色标志动作/身份展示",
+  "category": "relationship",
+  "tags": [
+    "角色标志动作/身份展示"
+  ],
+  "channels": {
+    "initiator": "核心人物用稳定、可重复的动作占住身份",
+    "responder": "对手通过反应确认这个动作的压迫或魅力"
+  },
+  "prompt": "他进门后没有急着说话，只把手套一根根拉平，再把戒指转到正面；屋里的人下意识停下交谈，视线先落到他的手，再抬到他的脸上。",
+  "guidance": "标志动作要服务目标：压场、诱导、威胁、安抚或暴露缺口，不做空泛帅姿势",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "角色标志动作/身份展示"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

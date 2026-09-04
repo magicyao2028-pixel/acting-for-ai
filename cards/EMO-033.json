@@ -1,0 +1,32 @@
+{
+  "id": "EMO-033",
+  "title": "身体主导焦虑/慌乱遮掩",
+  "category": "emotion",
+  "tags": [
+    "身体主导焦虑/慌乱遮掩"
+  ],
+  "channels": {
+    "face": "眼睛睁大但不久盯，眉心向上收，嘴唇被手或衣领遮住",
+    "body_hands": "肩背收拢，手抓衣领、袖口或包带，脚步碎而找出口",
+    "voice": "呼吸短，句子被吞掉，音量忽低"
+  },
+  "prompt": "她听见名字后先把衣领捏紧，肩膀缩成一团，视线在门口和对方手上快进快出；开口时只吐出半句，呼吸又急又浅",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-040"
+  ],
+  "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "身体主导焦虑/慌乱遮掩"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

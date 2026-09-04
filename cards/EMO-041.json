@@ -1,0 +1,30 @@
+{
+  "id": "EMO-041",
+  "title": "听懂潜台词后装作没听懂",
+  "category": "emotion",
+  "tags": [
+    "听懂潜台词后装作没听懂"
+  ],
+  "channels": {
+    "face": "眼神短暂停在真实线索上，随后平移回对方脸上",
+    "body_hands": "原本要反应的动作压住，手继续做无关小事",
+    "voice": "语气故意放轻，回答更短，停顿被藏在动作里"
+  },
+  "prompt": "她听见那句暗示后眼神先落到门边的行李箱，又若无其事地低头折餐巾；再抬眼时表情很平，只用很轻的声音回了一句",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "听懂潜台词后装作没听懂"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "EMO-039",
+  "title": "公共场合被迫体面",
+  "category": "emotion",
+  "tags": [
+    "公共场合被迫体面"
+  ],
+  "channels": {
+    "face": "嘴角维持礼貌弧度，眼神短暂找旁观者再收回",
+    "body_hands": "背挺直，肩颈紧，手把物件放稳或压住桌沿",
+    "voice": "音量控制得更低，语速放慢，停顿更规整"
+  },
+  "prompt": "周围人都看过来时，她先把杯子放稳，背挺直，嘴角维持着礼貌笑；说话比刚才更慢，像把失态硬压回公共秩序里",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "公共场合被迫体面"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

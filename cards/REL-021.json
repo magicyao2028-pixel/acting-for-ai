@@ -1,0 +1,29 @@
+{
+  "id": "REL-021",
+  "title": "对话中的动作打断",
+  "category": "relationship",
+  "tags": [
+    "对话中的动作打断"
+  ],
+  "channels": {
+    "initiator": "台词推进时穿插拿放、停手、靠近、避开、递物或抢回等小动作",
+    "responder": "对方根据动作改变下一句的音量、距离或节奏"
+  },
+  "prompt": "她说“我真的没事”时还在整理桌面，说到“真的”两个字，手却停在那张照片上没有移开；对方原本要接话，看到她指尖压住照片后把声音放低，退回半步等她继续说。",
+  "guidance": "动作必须落在信息、关系或转念节点，不能只是填空式摆手",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "对话中的动作打断"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

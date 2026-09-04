@@ -1,0 +1,29 @@
+{
+  "id": "REL-010",
+  "title": "同步/默契建立",
+  "category": "relationship",
+  "tags": [
+    "同步/默契建立"
+  ],
+  "channels": {
+    "initiator": "一方先放慢动作、留出可跟随节拍",
+    "responder": "另一方复制姿态或在相邻节拍接续动作"
+  },
+  "prompt": "他放慢倒水的速度，把杯口留在她伸手就能接到的位置；她抬眼确认后接住杯子，两人的手在同一拍松开。下一句对话开始前，他们先后靠回椅背，呼吸逐渐落到相近的节奏。",
+  "guidance": "写呼吸、视线、拿放道具逐渐同频，不直接写“默契”",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "同步/默契建立"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

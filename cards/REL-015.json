@@ -1,0 +1,29 @@
+{
+  "id": "REL-015",
+  "title": "被围观/观演压力",
+  "category": "relationship",
+  "tags": [
+    "被围观/观演压力"
+  ],
+  "channels": {
+    "initiator": "围观者形成视线压力、身体朝向主角",
+    "responder": "被看见者表情管理变强，动作变小或突然放大"
+  },
+  "prompt": "周围人的视线一层层压过来，她原本要抬起的手停在胸前，笑容被硬撑住；下一秒她把背挺直，音量比刚才低半级，像是在所有人面前把狼狈收回去。",
+  "guidance": "写观众视线、主角重心和声音变化；被围观感不能只靠“尴尬”",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "被围观/观演压力"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

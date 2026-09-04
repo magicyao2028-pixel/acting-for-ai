@@ -1,0 +1,29 @@
+{
+  "id": "REL-024",
+  "title": "距离变化/亲疏变温",
+  "category": "relationship",
+  "tags": [
+    "距离变化/亲疏变温"
+  ],
+  "channels": {
+    "initiator": "两人距离、朝向和接触边界在同一场戏里发生变化",
+    "responder": "对方是否接住靠近、是否回避、是否允许触碰决定关系温度"
+  },
+  "prompt": "第一次并肩坐下时，她的手肘贴着车门，身体尽量留出空隙；谈到共同的旧歌后，她慢慢靠回椅背，手放到两人中间的扶手边，视线停留的时间也比刚才更长。",
+  "guidance": "关系变化优先写距离和身体朝向，不只写“关系变近/变远”",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "距离变化/亲疏变温"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

@@ -1,0 +1,3100 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "validation": {
+    "status": "author_verified_in_practice",
+    "statement": "作者已在实际创作中验证并持续使用这套表演可视化资料。完整视频案例暂不公开；当前不声称逐条、全模型或量化对照验证。",
+    "confirmed_on": "2026-09-04",
+    "evidence_type": "maintainer_firsthand_report"
+  },
+  "cards": [
+    {
+      "id": "EMO-001",
+      "title": "大笑",
+      "category": "emotion",
+      "tags": [
+        "大笑"
+      ],
+      "channels": {
+        "face": "嘴角咧开、露齿、眼角挤纹",
+        "body_hands": "肩膀抖、胸腔起伏、仰头或弯腰",
+        "voice": "鼻腔短笑→喉咙低笑→放声"
+      },
+      "prompt": "先吸气，嘴角咧开，肩膀随着笑声抖动，笑声逐渐放大",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "大笑"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-002",
+      "title": "冷笑/轻蔑",
+      "category": "emotion",
+      "tags": [
+        "冷笑/轻蔑"
+      ],
+      "channels": {
+        "face": "单侧嘴角上扬、眼皮半垂",
+        "body_hands": "下巴微抬、身体不动",
+        "voice": "短促鼻笑、低声"
+      },
+      "prompt": "嘴角只向一侧抬起，鼻腔漏出一声短笑，眼神从上往下压住对方",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "冷笑/轻蔑"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-003",
+      "title": "愤怒",
+      "category": "emotion",
+      "tags": [
+        "愤怒",
+        "anger"
+      ],
+      "channels": {
+        "face": "眉心压紧、鼻翼张、下颌绷",
+        "body_hands": "指节发白、身体前倾、肩颈变硬",
+        "voice": "低声压住、突然拔高"
+      },
+      "prompt": "他没有立刻吼，先把下颌咬紧，手指攥到发白，声音从牙缝里挤出",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "愤怒"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-004",
+      "title": "恐惧",
+      "category": "emotion",
+      "tags": [
+        "恐惧"
+      ],
+      "channels": {
+        "face": "眼白增多、瞳孔放大、嘴微张",
+        "body_hands": "后缩、手抬到胸前、重心不稳",
+        "voice": "呼吸变浅、话断"
+      },
+      "prompt": "她后退半步，眼睛睁大，胸口快速起伏，声音卡在喉咙里",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "恐惧"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-005",
+      "title": "心虚",
+      "category": "emotion",
+      "tags": [
+        "心虚",
+        "concealment"
+      ],
+      "channels": {
+        "face": "视线闪开、眨眼变快",
+        "body_hands": "摸袖口、搓手、身体侧开",
+        "voice": "回答慢半拍、音量变低"
+      },
+      "prompt": "他先看向桌角，手指摸了摸袖口，过了半拍才低声回答",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "心虚"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-006",
+      "title": "悲伤",
+      "category": "emotion",
+      "tags": [
+        "悲伤",
+        "sadness"
+      ],
+      "channels": {
+        "face": "下眼睑发亮、嘴角下拉",
+        "body_hands": "肩膀内收、手垂下",
+        "voice": "鼻音、气息断续"
+      },
+      "prompt": "她没有哭出声，只是肩膀慢慢塌下去，下眼睑亮起一层水光",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "悲伤"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-007",
+      "title": "崩溃",
+      "category": "emotion",
+      "tags": [
+        "崩溃"
+      ],
+      "channels": {
+        "face": "眼神失焦、嘴唇抖",
+        "body_hands": "膝盖软、手无力垂落",
+        "voice": "笑哭混杂、抽气"
+      },
+      "prompt": "她嘴角僵硬地抽动，笑声发颤，眼泪滑下，最后只剩压不住的抽气",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "崩溃"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-008",
+      "title": "隐忍",
+      "category": "emotion",
+      "tags": [
+        "隐忍",
+        "restraint",
+        "suppressed emotion"
+      ],
+      "channels": {
+        "face": "眼神压住、眼眶不眨",
+        "body_hands": "拳头松开又攥紧、背挺直",
+        "voice": "声音低而稳"
+      },
+      "prompt": "他把话咽回去，拳头在袖口里收紧，抬眼时声音反而更平",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "隐忍"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-009",
+      "title": "温柔",
+      "category": "emotion",
+      "tags": [
+        "温柔"
+      ],
+      "channels": {
+        "face": "眼神停留、眼角软",
+        "body_hands": "动作放慢、手掌摊开",
+        "voice": "声音变轻、尾音放软"
+      },
+      "prompt": "她放慢动作，把手掌摊开，声音压低，尾音轻轻落下",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "温柔"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-010",
+      "title": "厌恶",
+      "category": "emotion",
+      "tags": [
+        "厌恶"
+      ],
+      "channels": {
+        "face": "鼻梁皱、上唇提起",
+        "body_hands": "身体后撤、避开接触",
+        "voice": "短促、干硬"
+      },
+      "prompt": "他皱起鼻梁，身体向后让开，像躲开一件脏东西",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "厌恶"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-011",
+      "title": "惊讶",
+      "category": "emotion",
+      "tags": [
+        "惊讶"
+      ],
+      "channels": {
+        "face": "眉抬、眼睁、嘴微开",
+        "body_hands": "身体定住、手停在半空",
+        "voice": "吸气、短促停顿"
+      },
+      "prompt": "她的手停在半空，眼睛一下睁大，先吸了一口气却没说出话",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "惊讶"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-012",
+      "title": "压迫感/强者平静",
+      "category": "emotion",
+      "tags": [
+        "压迫感/强者平静"
+      ],
+      "channels": {
+        "face": "眼神稳定、眨眼少",
+        "body_hands": "动作少、重心稳、不抢动作",
+        "voice": "声音低、慢、少字"
+      },
+      "prompt": "他没有靠近，只是站在原地看着对方，声音很低，每个字都慢慢落下",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "压迫感/强者平静"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-013",
+      "title": "尴尬",
+      "category": "emotion",
+      "tags": [
+        "尴尬"
+      ],
+      "channels": {
+        "face": "嘴角短暂僵住、眼神找出口",
+        "body_hands": "摸后颈、整理衣角、身体缩小",
+        "voice": "短笑、尾音上浮"
+      },
+      "prompt": "她笑了一下又立刻收住，视线扫向旁边，手指反复抚平衣角，话尾轻轻飘起来",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "尴尬"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-014",
+      "title": "羞耻",
+      "category": "emotion",
+      "tags": [
+        "羞耻"
+      ],
+      "channels": {
+        "face": "眼睑垂下、脸侧发热、嘴唇抿紧",
+        "body_hands": "头低下、肩膀内扣、手挡住脸或胸口",
+        "voice": "声音变轻、句子吞掉"
+      },
+      "prompt": "他把目光压到地面，肩膀向里收，手掌挡在嘴边，后半句话几乎被咽回去",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "羞耻"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-015",
+      "title": "内疚/愧疚",
+      "category": "emotion",
+      "tags": [
+        "内疚/愧疚"
+      ],
+      "channels": {
+        "face": "眉心向上收、眼神不敢停留",
+        "body_hands": "主动靠近又停住、手掌半摊",
+        "voice": "低声解释、频繁停顿"
+      },
+      "prompt": "她向前挪了半步又停下，手掌摊开到一半，抬眼看了他一瞬又移开，声音低到像在认错",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "内疚/愧疚"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-016",
+      "title": "焦虑/不安",
+      "category": "emotion",
+      "tags": [
+        "焦虑/不安",
+        "anxiety"
+      ],
+      "channels": {
+        "face": "眉头反复压紧、眨眼增多",
+        "body_hands": "脚尖换重心、手指敲击或搓动",
+        "voice": "语速变快、呼吸短"
+      },
+      "prompt": "他脚尖来回换着重心，手指在桌沿敲出细碎节奏，回答越说越快，呼吸卡在句子中间",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "焦虑/不安"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-017",
+      "title": "戒备",
+      "category": "emotion",
+      "tags": [
+        "戒备"
+      ],
+      "channels": {
+        "face": "眼神固定但不完全对视、下颌收紧",
+        "body_hands": "身体侧开、手靠近可防御位置",
+        "voice": "句子短、音量压低"
+      },
+      "prompt": "她没有后退，只把身体侧开半步，手停在包带旁，眼神绕过对方肩膀观察门口",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "戒备"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-018",
+      "title": "敬畏/震撼",
+      "category": "emotion",
+      "tags": [
+        "敬畏/震撼"
+      ],
+      "channels": {
+        "face": "眉毛缓慢抬起、眼睛睁大、嘴唇松开",
+        "body_hands": "动作暂停、身体微微后仰或站直",
+        "voice": "吸气后失语、声音放轻"
+      },
+      "prompt": "他抬头时整个人停住，嘴唇微张，胸口先吸进一口气，过了半秒才用很轻的声音说话",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "敬畏/震撼"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-019",
+      "title": "解脱",
+      "category": "emotion",
+      "tags": [
+        "解脱"
+      ],
+      "channels": {
+        "face": "眉心松开、嘴角微微下落后放松",
+        "body_hands": "肩膀沉下、背靠住支撑物、手松开",
+        "voice": "长呼气、声音变软"
+      },
+      "prompt": "她先长长吐出一口气，攥紧的手终于松开，肩膀沉下去，背轻轻靠到墙上",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "解脱"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-020",
+      "title": "自豪/得意",
+      "category": "emotion",
+      "tags": [
+        "自豪/得意"
+      ],
+      "channels": {
+        "face": "下巴微抬、眼神明亮、嘴角压不住",
+        "body_hands": "胸口打开、站姿变稳、动作放慢",
+        "voice": "声音更饱满、停顿留得更长"
+      },
+      "prompt": "他没有立刻回答，只把胸口打开，嘴角压着一点笑，停了半秒才把那句话稳稳说出来",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "自豪/得意"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-021",
+      "title": "羡慕/嫉妒",
+      "category": "emotion",
+      "tags": [
+        "羡慕/嫉妒"
+      ],
+      "channels": {
+        "face": "眼神停在对方所得之物上、嘴角收紧",
+        "body_hands": "手指压住杯沿或袖口、身体不自觉靠近",
+        "voice": "轻声试探、句尾发酸"
+      },
+      "prompt": "她的视线先落在那枚戒指上，手指把杯沿压得发白，抬头时嘴角已经收紧",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "羡慕/嫉妒"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-022",
+      "title": "迟疑/改口",
+      "category": "emotion",
+      "tags": [
+        "迟疑/改口"
+      ],
+      "channels": {
+        "face": "眉心短暂收紧、视线停在对方脸上又下移",
+        "body_hands": "原动作中断、手停在半途后换成整理道具",
+        "voice": "起句后停顿、吞回半句、换用更安全的措辞"
+      },
+      "prompt": "他刚抬起手又停住，目光从她脸上落到杯沿，开口只说了半句，指尖转而把杯子推正，换了一种更轻的说法",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "迟疑/改口"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-023",
+      "title": "警觉/捕捉异动",
+      "category": "emotion",
+      "tags": [
+        "警觉/捕捉异动"
+      ],
+      "channels": {
+        "face": "眼神先定点、眼睑略抬、嘴唇闭合",
+        "body_hands": "头先转、肩和躯干延迟跟随，重心压低",
+        "voice": "呼吸暂扣、说话中断"
+      },
+      "prompt": "门外一响，她先停住呼吸，眼神钉向声源，头转过去后肩膀才慢半拍跟上，手里的动作悬在原处",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "警觉/捕捉异动"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-024",
+      "title": "困惑/重新判断",
+      "category": "emotion",
+      "tags": [
+        "困惑/重新判断"
+      ],
+      "channels": {
+        "face": "眉眼轻微不对称、一侧眉抬起、视线在两个线索间搜索",
+        "body_hands": "原动作放慢，头略偏，手停在物件上没有继续",
+        "voice": "句首拖慢、关键词后留短停顿"
+      },
+      "prompt": "他没有立刻反问，眼神先从她脸上移到桌上的钥匙，又折回她的眼睛；一侧眉毛缓慢抬起，指尖停在杯沿，过了一个可读的短停顿才重新开口",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "困惑/重新判断"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-025",
+      "title": "期待落空/失望",
+      "category": "emotion",
+      "tags": [
+        "期待落空/失望"
+      ],
+      "channels": {
+        "face": "原先抬起的眉眼缓慢落下、定焦变松、嘴角失去支撑",
+        "body_hands": "伸出的手停住后收回，胸口与肩膀轻微下沉，道具被放回原位",
+        "voice": "吸气没有接成话，音量降低，句尾提前落下"
+      },
+      "prompt": "她已经伸手去接，发现盒子是空的后指尖先停在盒沿；眼神仍多停半拍才失去焦点，肩膀慢慢沉下，手缩回身侧，原本要说的话只剩一声很轻的“哦”",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "期待落空/失望"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-026",
+      "title": "情绪冻结/麻木",
+      "category": "emotion",
+      "tags": [
+        "情绪冻结/麻木"
+      ],
+      "channels": {
+        "face": "眼神固定、眨眼减少、嘴唇微开但无表情变化",
+        "body_hands": "身体像被钉住，肩颈失去弹性，手停在原位不继续",
+        "voice": "气息短暂停住，开口延迟，声音变平"
+      },
+      "prompt": "她听见结果后没有立刻哭，眼睛定在对方嘴边，手还停在门把上；过了两秒才慢慢松开手指，声音平到几乎没有起伏",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "情绪冻结/麻木"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-027",
+      "title": "心动克制/被吸引但压住",
+      "category": "emotion",
+      "tags": [
+        "心动克制/被吸引但压住"
+      ],
+      "channels": {
+        "face": "视线先被吸住又迅速移开，嘴角轻微压住",
+        "body_hands": "身体有半寸靠近趋势，随后用整理物件掩饰",
+        "voice": "回答轻一拍，尾音收住，呼吸变浅"
+      },
+      "prompt": "他先看向她递来的手，目光停得比礼貌需要更久，随即低头整理袖口；肩膀已经向她靠近半寸，开口时却故意把语气压平",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "心动克制/被吸引但压住"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-028",
+      "title": "防御性坦白",
+      "category": "emotion",
+      "tags": [
+        "防御性坦白"
+      ],
+      "channels": {
+        "face": "眼神主动迎上但停不稳，眉心紧绷",
+        "body_hands": "胸口打开一半，手掌摊开又收回，身体保持可退距离",
+        "voice": "句子更直，停顿短，尾音带硬度"
+      },
+      "prompt": "她抬眼看住他，像是终于决定说实话，但手掌只摊开到一半又收回腹前；每句话都很直，句尾却绷着一层防备",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "防御性坦白"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-029",
+      "title": "临场撑住/强行镇定",
+      "category": "emotion",
+      "tags": [
+        "临场撑住/强行镇定"
+      ],
+      "channels": {
+        "face": "表情先碎裂一瞬又收回，眨眼压慢",
+        "body_hands": "背挺直，脚下重新找重心，手压住桌沿或衣角",
+        "voice": "先吸气，语速被刻意放稳，音量略低"
+      },
+      "prompt": "镜头前他嘴角先僵了一下，下一秒把背挺直，指尖压住桌沿；吸气后语速放慢，像把慌乱硬生生按回身体里",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "临场撑住/强行镇定"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-030",
+      "title": "强颜欢笑/礼貌掩饰",
+      "category": "emotion",
+      "tags": [
+        "强颜欢笑/礼貌掩饰",
+        "forced smile"
+      ],
+      "channels": {
+        "face": "嘴角先拉开但眼周慢半拍或不参与，笑意收得过快",
+        "body_hands": "肩颈仍紧，手部保持防御位置，身体没有真正靠近",
+        "voice": "短笑后立刻补话，气息没有放松"
+      },
+      "prompt": "她先把嘴角拉出一个笑，眼睛却没有跟着软下来；笑容很快掉下去，手指仍扣着杯沿，下一句话接得太急",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "强颜欢笑/礼貌掩饰"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-031",
+      "title": "厌倦/走神",
+      "category": "emotion",
+      "tags": [
+        "厌倦/走神"
+      ],
+      "channels": {
+        "face": "眼皮变重，视线离开对方后长时间停在无关物上",
+        "body_hands": "身体塌向椅背，头微偏，手松散摆弄手机或杯子",
+        "voice": "回答拖慢，尾音下沉，反应晚半拍"
+      },
+      "prompt": "他听到一半就把视线滑到窗外，肩膀塌进椅背，手指没目的地转着杯子；被点名后才慢半拍抬眼，声音低而散",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "厌倦/走神"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-032",
+      "title": "压抑兴奋/想分享但忍住",
+      "category": "emotion",
+      "tags": [
+        "压抑兴奋/想分享但忍住"
+      ],
+      "channels": {
+        "face": "眼神变亮，嘴角想上扬又被压住",
+        "body_hands": "身体轻微上浮，手指反复收紧，脚尖或膝盖有小幅节奏",
+        "voice": "语速差点变快，又被刻意压回平稳"
+      },
+      "prompt": "她听见好消息后眼睛先亮了一下，嘴角刚要抬起又被抿住；脚尖在桌下轻轻点了两下，开口时故意把声音放低",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "压抑兴奋/想分享但忍住"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-033",
+      "title": "身体主导焦虑/慌乱遮掩",
+      "category": "emotion",
+      "tags": [
+        "身体主导焦虑/慌乱遮掩"
+      ],
+      "channels": {
+        "face": "眼睛睁大但不久盯，眉心向上收，嘴唇被手或衣领遮住",
+        "body_hands": "肩背收拢，手抓衣领、袖口或包带，脚步碎而找出口",
+        "voice": "呼吸短，句子被吞掉，音量忽低"
+      },
+      "prompt": "她听见名字后先把衣领捏紧，肩膀缩成一团，视线在门口和对方手上快进快出；开口时只吐出半句，呼吸又急又浅",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-040"
+      ],
+      "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "身体主导焦虑/慌乱遮掩"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-034",
+      "title": "轻快喜悦/身体上浮",
+      "category": "emotion",
+      "tags": [
+        "轻快喜悦/身体上浮"
+      ],
+      "channels": {
+        "face": "眼神发亮，眼角先软开，嘴角不急着咧大",
+        "body_hands": "胸口打开，肩膀上浮，手臂摆动更松，步子带弹性",
+        "voice": "尾音上扬，笑意先从气息里出来"
+      },
+      "prompt": "她还没笑出声，脚步已经变轻，手臂随着步子自然摆开；抬头时眼神亮起来，声音比平时高半级",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-040"
+      ],
+      "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "轻快喜悦/身体上浮"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-035",
+      "title": "沉重失落/拖行前进",
+      "category": "emotion",
+      "tags": [
+        "沉重失落/拖行前进"
+      ],
+      "channels": {
+        "face": "眼皮下垂，定焦变慢，嘴角失去支撑",
+        "body_hands": "躯干前倾，头垂低，手松散垂着，脚尖贴地拖过",
+        "voice": "声音低而散，回答像晚半拍才到"
+      },
+      "prompt": "他没有停下，只是越走越慢，脚尖几乎擦着地面，头低到看不清眼神，手里的袋子无力晃了一下",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-040"
+      ],
+      "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "沉重失落/拖行前进"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-036",
+      "title": "身体排斥/不愿接触",
+      "category": "emotion",
+      "tags": [
+        "身体排斥/不愿接触"
+      ],
+      "channels": {
+        "face": "鼻梁皱起，上唇轻提，眼神不愿停在对象上",
+        "body_hands": "手掌向外挡，脚尖和胸口偏离对象，身体先给自己让出空间",
+        "voice": "词变短，语气干硬，呼气先出来"
+      },
+      "prompt": "她还没说“不”，手掌已经挡在身体前，脚尖先偏向旁边，视线从对方递来的东西上滑开，声音短而硬",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "身体排斥/不愿接触"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-037",
+      "title": "被点破后自我修正",
+      "category": "emotion",
+      "tags": [
+        "被点破后自我修正"
+      ],
+      "channels": {
+        "face": "眼神先停住，随后快速眨眼，眉心短暂收紧",
+        "body_hands": "原动作撤回半寸，手改去整理无关物，身体重新找中立角度",
+        "voice": "起句被吞回，改用更谨慎的短句"
+      },
+      "prompt": "他听见对方指出破绽后先停住，伸出的手撤回半寸，指尖转去扶正杯子；眨眼后才换成更稳的说法",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "被点破后自我修正"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-038",
+      "title": "不敢相信的被认可",
+      "category": "emotion",
+      "tags": [
+        "不敢相信的被认可"
+      ],
+      "channels": {
+        "face": "眉毛缓慢抬起，眼神从对方脸上移到证据再回来",
+        "body_hands": "身体先不动，手指松开又轻轻攥住，胸口慢半拍打开",
+        "voice": "先轻吸气，回答音量偏小，尾音带疑问"
+      },
+      "prompt": "她听见夸奖后没有立刻笑，眼睛先看向奖状又回到对方脸上；手指松开衣角，胸口慢慢打开，声音轻得像在确认",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "不敢相信的被认可"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-039",
+      "title": "公共场合被迫体面",
+      "category": "emotion",
+      "tags": [
+        "公共场合被迫体面"
+      ],
+      "channels": {
+        "face": "嘴角维持礼貌弧度，眼神短暂找旁观者再收回",
+        "body_hands": "背挺直，肩颈紧，手把物件放稳或压住桌沿",
+        "voice": "音量控制得更低，语速放慢，停顿更规整"
+      },
+      "prompt": "周围人都看过来时，她先把杯子放稳，背挺直，嘴角维持着礼貌笑；说话比刚才更慢，像把失态硬压回公共秩序里",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "公共场合被迫体面"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-040",
+      "title": "被托付后责任落肩",
+      "category": "emotion",
+      "tags": [
+        "被托付后责任落肩"
+      ],
+      "channels": {
+        "face": "眼神先落到被交付物，再回到对方脸上，眉心轻收",
+        "body_hands": "肩膀先沉一下，随后背慢慢挺直，手指更稳地握住物件",
+        "voice": "先短吸气，回答变慢，音量压实"
+      },
+      "prompt": "他接过那串钥匙时没有立刻说话，视线先落在钥匙上；肩膀像被重量压了一下，随后慢慢挺直，手指把钥匙握稳后才低声答应",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "被托付后责任落肩"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-041",
+      "title": "听懂潜台词后装作没听懂",
+      "category": "emotion",
+      "tags": [
+        "听懂潜台词后装作没听懂"
+      ],
+      "channels": {
+        "face": "眼神短暂停在真实线索上，随后平移回对方脸上",
+        "body_hands": "原本要反应的动作压住，手继续做无关小事",
+        "voice": "语气故意放轻，回答更短，停顿被藏在动作里"
+      },
+      "prompt": "她听见那句暗示后眼神先落到门边的行李箱，又若无其事地低头折餐巾；再抬眼时表情很平，只用很轻的声音回了一句",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "听懂潜台词后装作没听懂"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-042",
+      "title": "被帮助时抗拒又软化",
+      "category": "emotion",
+      "tags": [
+        "被帮助时抗拒又软化"
+      ],
+      "channels": {
+        "face": "眉心先压紧，视线避开对方的手，随后眼角松开",
+        "body_hands": "身体先后撤或挡开，手停住后慢慢接住帮助",
+        "voice": "起初短硬，后一句放低，尾音变软"
+      },
+      "prompt": "他下意识避开递来的外套，手掌挡在胸前；冷风吹过后动作停住，指尖慢慢接住衣角，声音从硬邦邦的“不要”变成很低的“谢谢”",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "被帮助时抗拒又软化"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-043",
+      "title": "被误会后急于澄清又不能失态",
+      "category": "emotion",
+      "tags": [
+        "被误会后急于澄清又不能失态"
+      ],
+      "channels": {
+        "face": "眼神先追过去，眉心急促收紧，嘴角强行压平",
+        "body_hands": "手抬起想解释又停在胸前，身体前倾后重新坐回",
+        "voice": "起句快，随后刻意降速，关键词压低"
+      },
+      "prompt": "她听见误会后身体先向前抢了一寸，手已经抬起又硬停在胸前；吸气后把语速压慢，眼神仍紧追着对方，像在把澄清塞回体面里",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "被误会后急于澄清又不能失态"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-044",
+      "title": "临时失控后迅速收回",
+      "category": "emotion",
+      "tags": [
+        "临时失控后迅速收回"
+      ],
+      "channels": {
+        "face": "表情先破开一瞬，随后嘴唇抿紧，视线避开现场证据",
+        "body_hands": "主动作命中后立刻收手，肩颈僵住，手指留有余抖",
+        "voice": "声音爆出后突然压低，尾音断掉"
+      },
+      "prompt": "他拍桌的声音刚落，手已经收回身侧，指尖还在轻颤；下一句突然变低，视线避开被震歪的杯子，像在补救刚才露出的真实情绪",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "临时失控后迅速收回"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "EMO-045",
+      "title": "终于下定决心但仍害怕",
+      "category": "emotion",
+      "tags": [
+        "终于下定决心但仍害怕"
+      ],
+      "channels": {
+        "face": "眼神从退路移回目标，眨眼减少，下颌轻轻锁住",
+        "body_hands": "重心先后撤半步又压回脚掌，背挺直但手还抓紧道具",
+        "voice": "吸气后开口，声音变稳但气息偏浅"
+      },
+      "prompt": "她先看了一眼门口，脚尖已经退开半步；短吸气后重心重新压回脚掌，手还攥着包带，抬眼时声音比刚才稳，却仍带着浅浅的气息",
+      "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "02_基础情绪.md",
+        "source_heading": "终于下定决心但仍害怕"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-001",
+      "title": "动作质感",
+      "category": "motion",
+      "tags": [
+        "动作质感"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "参考 Laban Movement Analysis 的四个维度，把动作写成可见质感：\n\n| 维度 | 方向 | 提示词表达 |\n|---|---|---|\n| Space | 直 / 绕 | 直直逼近、侧身绕开、视线绕过对方 |\n| Weight | 重 / 轻 | 重重放下、轻轻碰到、手指无力垂落 |\n| Time | 快 / 慢 | 突然抬眼、慢半拍回答、停了半秒 |\n| Flow | 控 / 放 | 强行压住、失控发抖、动作突然断掉 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "动作质感"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-002",
+      "title": "视频时间链",
+      "category": "motion",
+      "tags": [
+        "视频时间链"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "```text\n触发前状态 → 预备/压抑 → 主动作 → 次动作 → 声音形成 → 环境反馈 → 结束状态\n```",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "视频时间链"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-003",
+      "title": "动画表演原则转提示词",
+      "category": "motion",
+      "tags": [
+        "动画表演原则转提示词"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "| 原则 | 提示词用途 |\n|---|---|\n| 预备动作 | 大动作前先写吸气、停顿、视线变化、身体蓄力 |\n| 次动作 | 主动作之外加 1 到 2 个辅助动作，如手指、衣角、杯水 |\n| 跟随动作/余波 | 大动作结束后写胸口起伏、手还在抖、声音残留 |\n| 舞台调度 | 写人物站位、遮挡、距离变化，不只写表情 |\n| 夸张 | 短剧强情绪可适度放大，但不要让动作失真 |\n| 弧线动作 | 转身、回避、靠近尽量写肩、头、视线的弧线，不让动作像直线滑动 |\n| 移动停顿 | 人物停住后保留呼吸、眼神、衣角、头发等微小余动 |\n| 动作节拍 | 把反应拆成“听见→停顿→选择→动作→余波”，避免角色秒变情绪 |\n| 目标/阻碍/策略 | 先确定人物想要什么、被什么挡住、用什么方式争取，再选身体动作 |\n| 躯干分段错峰 | 转身或急停时先写骨盆/重心启动，再让胸腔、肩、头依次跟随；避免身体像一根硬杆同时转动 |\n| 避免双侧同拍（twinning） | 左右手、头、肩不要同帧到达极点；让主动作先命中，辅助手或视线晚半拍补上 |\n| 情绪转换微停顿 | 从一种情绪切到另一种情绪前，插入可读的思考拍：动作悬停、视线重新定点、呼吸漏一拍，再进入新姿态 |\n| 眼神与眨眼节拍 | 先让眼睛搜索或锁定目标，再让头部跟随；眨眼服务于转念、转头或焦点切换，不按固定频率机械眨眼 |\n| 情绪步态 | 同一走路动作可因情绪改变重心、步幅、手臂摆动、头部高度和节奏 |\n| 行动动词化 | 不写“他很难过地说”，先选“挽留、逼问、遮掩、讨好、威胁”等可执行动词，再转成身体路径 |\n| 停顿与重音身体锚点 | 台词停顿不要只写声音空白，要绑定呼吸、视线换点、手部悬停或重心变化 |\n| 黄金姿态与剪影 | 关键思想拍需要一个远看也能读懂的身体轮廓；手、道具和脸不要埋进身体剪影 |\n| 静止对动作 | 不要让角色全程均匀活动；在重要转念前后安排短静止，让下一次动作更有重量 |\n| 目标受阻策略链 | 目标、阻碍、策略和结果必须连成动作链；策略失败后用停顿、换距离或换道具动作表示换招 |\n| 预备动作的真假意图 | 大动作前的吸气、看点、重心可预告真实意图，也可故意预告错误方向再反转 |\n| 无实物动作连续性 | 拿、推、挡、找、藏等动作即使没有真实道具，也要写清重量、阻力、接触点和收束 |\n| 情绪爆点前后收束 | 爆发不是孤立一拍；爆点前有蓄压，爆点后要有身体余震、补救或空间结果 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "动画表演原则转提示词"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-004",
+      "title": "思考过程可见化",
+      "category": "motion",
+      "tags": [
+        "思考过程可见化"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "| 思考状态 | 眼部节拍 | 身体配合 | 提示词写法 |\n|---|---|---|---|\n| 搜索信息 | 视线快速扫过少量关键点，每次扫视后有短暂定焦 | 头部晚于眼睛跟随，手上动作减速 | 眼神先扫过门口和桌面，在钥匙上停住，头才慢半拍转过去 |\n| 困惑/比较 | 两个目标间往返一次，慢眨眼或半眨眼后重新定焦 | 头略偏，眉眼不完全对称 | 视线在两张照片之间折返，一侧眉毛抬起，慢眨一次后重新看向对方 |\n| 紧张/快速盘算 | 眼跳偏快但不连续乱扫，短定焦之间夹快速眨眼 | 手指小幅收紧，呼吸变短 | 眼神在出口和对方手上各停一下，快速眨眼，指尖把袖口捏紧 |\n| 恐惧/高度专注 | 长时间锁定目标，眨眼减少或延后 | 身体僵住，呼吸暂扣 | 她盯住黑暗里的轮廓没有眨眼，胸口停住半拍，头部几乎不动 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "思考过程可见化"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-005",
+      "title": "身体形状与空间方向",
+      "category": "motion",
+      "tags": [
+        "身体形状与空间方向"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "参考 Laban 的 Body / Space / Shape / Effort 分层时，只取可见动作，不输出理论名词。\n\n| 身体变化 | 适用状态 | 提示词写法 |\n|---|---|---|\n| 收拢 / 包住自己 | 羞耻、防御、恐惧、保密 | 肩膀向里收，手臂靠近身体，胸口变窄，声音从身体里压出来 |\n| 展开 / 占据空间 | 坦白、胜利、控场、释放 | 胸口打开，手掌离开身体，站位变宽，视线不再躲闪 |\n| 上升 / 重新站稳 | 决心、反击、恢复尊严 | 重心从脚跟推回脚掌，背慢慢挺直，头最后抬起 |\n| 下沉 / 放弃抵抗 | 认输、崩溃、疲惫、失望 | 膝盖松掉一点，肩膀和头一起沉下，手里的物件被放低 |\n| 前进 / 夺回主动 | 质问、追问、求证、保护 | 先把重心压向目标，再缩短距离，手势明确指向对方或证据 |\n| 后撤 / 保留退路 | 心虚、戒备、试探、被压迫 | 身体侧开半步，视线仍留在对方身上，脚尖先指向出口 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "身体形状与空间方向"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-006",
+      "title": "心理手势转提示词",
+      "category": "motion",
+      "tags": [
+        "心理手势转提示词"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "心理手势只用于内部提炼角色核心，不要求人物在镜头里做夸张符号动作。落到提示词时，保留“姿态残留”和“行为倾向”。\n\n| 内部核心手势 | 镜头内可见残留 | 适用提示词 |\n|---|---|---|\n| 推开 | 手掌停在身体前方，胸口与对方保持距离 | 角色想拒绝、保护边界、压住靠近冲动 |\n| 抓住 | 手指反复收紧，道具被扣住，视线不肯离开目标 | 角色执念、占有、害怕失去 |\n| 托起 | 手掌向上，动作放慢，身体靠近但不逼迫 | 安抚、请求、交出真相 |\n| 砸下 | 肩颈蓄力，手或物件重重落点，余波留在胸口 | 决断、爆发、断关系 |\n| 包裹 | 手臂靠近身体或护住某物，声音变低 | 保密、愧疚、珍惜、隐藏伤口 |\n\n模板：`先用一个内部动词锁定角色冲动，再把它拆成[重心方向 + 手部残留 + 视线目标 + 声音质感]，避免让演员做符号化大动作。`",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "心理手势转提示词"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-007",
+      "title": "一拍一意图",
+      "category": "motion",
+      "tags": [
+        "一拍一意图"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "动画和影视表演都需要清晰调度。一个镜头节拍只让观众读一个主要意图；次动作只能帮助主意图，不和主意图抢焦点。\n\n| 问题 | 风险 | 修正写法 |\n|---|---|---|\n| 同一拍同时哭、笑、后退、拿道具、转头 | 模型会平均化动作，表演变乱 | 先写触发点，再写一个主动作，最后补一个余波动作 |\n| 表情和身体说不同意思但没有原因 | 容易被识别为跑偏或表情错位 | 明确这是潜台词：嘴上礼貌，手先压住钥匙 |\n| 群体镜头每个人都在动 | 关系焦点散掉 | 主角先动，其他人用视线、停顿或小范围反应围住主角 |\n| 大动作没有预备和收束 | 动作像剪切跳变 | 加入吸气、重心改变、头发衣角或手指余波 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "一拍一意图"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-008",
+      "title": "情绪转换微停顿模板",
+      "category": "motion",
+      "tags": [
+        "情绪转换微停顿模板"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "```text\n旧状态仍在：[原姿态/原动作]\n触发与消化：[眼神先变 + 动作悬停 + 呼吸漏一拍]\n重新选择：[重心或视线改向]\n新状态命中：[主动作 + 新的声音质感]\n```\n\n示例：他原本还带着礼貌的笑，听见名字后嘴角没有立刻落下，只是眼神先停住，举到一半的杯子悬在胸前；短促吸气后，他把视线移向门口，手腕慢慢放低，笑意才从脸上退干净，下一句话变得又低又慢。",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "情绪转换微停顿模板"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-009",
+      "title": "动作节拍拆法",
+      "category": "motion",
+      "tags": [
+        "动作节拍拆法"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "| 节拍 | 提示词问题 | 可见写法 |\n|---|---|---|\n| 听见/看见 | 哪个刺激打到人物 | 眼神突然停住、手上动作中断、呼吸漏一拍 |\n| 消化 | 人物先压住还是先泄出 | 下颌收紧、眨眼变快、肩膀僵住、短暂沉默 |\n| 选择 | 人物决定靠近、回避、攻击还是求和 | 重心前移、身体侧开、手掌打开、拳头收紧 |\n| 执行 | 主动作如何发生 | 一步逼近、慢慢坐直、把物件放下、抬眼盯住 |\n| 余波 | 动作结束还剩什么 | 胸口起伏、手指还在抖、笑意收不干净、房间安静下来 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "动作节拍拆法"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-010",
+      "title": "主姿态—手势—微动作分层",
+      "category": "motion",
+      "tags": [
+        "主姿态—手势—微动作分层"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "| 层级 | 承担内容 | 提示词约束 |\n|---|---|---|\n| 主姿态 | 当前主导意图或情绪段落 | 一个思想段保留一个清晰身体轮廓；只有想法真正转向时才换主姿态 |\n| 姿态强度 | 同一意图的升降 | 不急着换姿势，用前倾/后撤、胸口开合、重心加深表现强度变化 |\n| 次级手势 | 强调关键行动或潜台词 | 每个段落只选一两个与目标有关的手势，主手先命中，辅助手晚半拍 |\n| 微动作 | 思考与生理余波 | 眨眼、眼跳、吞咽、指尖收紧只放在思想节点，避免全程均匀抖动 |\n\n提示词模板：`保持[主姿态]贯穿当前思想段，只让[重心/胸口/距离]逐步增强；在[关键词或触发点]加入一次[目标相关手势]，想法转向前短暂停住，再切换到新的身体轮廓。`",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "主姿态—手势—微动作分层"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-011",
+      "title": "情绪步态与移动质感",
+      "category": "motion",
+      "tags": [
+        "情绪步态与移动质感",
+        "gait",
+        "walk"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "移动镜头里不要只写“走过去”。先确定人物带着什么意图移动，再改写重心、步幅、身体开合和节奏。\n\n| 情绪/意图 | 重心与步幅 | 上半身/手 | 提示词写法 |\n|---|---|---|---|\n| 愉快/轻松 | 重心上浮，步幅有弹性，节奏轻快 | 手臂自然摆动，胸口打开，头部有轻微上扬 | 她几乎是轻轻跳着走近，脚步落得很轻，手臂跟着节奏摆开，抬头时眼神已经亮起来 |\n| 愤怒/质问 | 重心直接压向目标，步幅短而快 | 肩膀抬紧，手臂贴近身体或拳头收住 | 他没有绕路，几步直直压过去，肩膀绷紧，拳头贴在身侧，每一步都像在缩短退路 |\n| 悲伤/耗尽 | 重心下沉，脚贴地拖过，步幅变小 | 头低，手臂松，胸口塌 | 她走得很慢，脚尖几乎擦着地面，头垂着，手臂没有摆动，只剩肩膀随着呼吸轻轻下沉 |\n| 焦虑/赶场 | 重心来回抢，步幅不稳定 | 手频繁摸口袋、手机或袖口，头部先于身体找方向 | 他一边走一边摸口袋，脚步忽快忽慢，眼神先扫出口再回到手机，呼吸被步子切碎 |\n| 厌倦/被迫前进 | 重心拖后，身体晚于脚步 | 肩膀塌，手松散摆动物件，视线不在目的地 | 他被人叫着才挪步，身体像晚半拍才跟上脚，手里的文件垂在腿边，视线始终没有落到前方 |",
+      "source_ids": [
+        "SRC-040"
+      ],
+      "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "情绪步态与移动质感"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-012",
+      "title": "行动动词转提示词",
+      "category": "motion",
+      "tags": [
+        "行动动词转提示词"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "表演提示词优先使用“可执行动词”，再落到空间、手部、声音和余波。\n\n```text\n人物目标：[想让谁发生什么变化]\n阻碍：[对方/环境/心理卡点]\n策略动词：[讨好/逼问/遮掩/引诱/威胁/求证/安抚/退让]\n可见化：[距离变化 + 手部动作 + 视线目标 + 声音质感 + 余波]\n```\n\n示例：`她想让对方留下，但自尊挡住了直接挽留；她没有拉住他，只把钥匙压在掌心，站在门边挡住半个出口，声音放低，最后一个字落下后仍看着他的背影。`",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "行动动词转提示词"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-013",
+      "title": "停顿与重音身体锚点",
+      "category": "motion",
+      "tags": [
+        "停顿与重音身体锚点"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "| 台词处理 | 可见锚点 | 提示词写法 |\n|---|---|---|\n| 思考停顿 | 眼神换点、动作悬停、短吸气 | 说到那个名字时他停住，视线从她脸上移到桌面，手里的杯子悬在半空 |\n| 转折停顿 | 重心改向、肩膀重新打开或收紧 | 她原本要继续解释，停了一拍后把身体转向门口，声音也变硬 |\n| 压住重音 | 下颌收紧、手指加力、音量不升反降 | 他把“现在”两个字压得很低，指节按住文件边缘，眼神没有离开对方 |\n| 情绪泄出 | 呼吸破口、尾音抖、手部失控小动作 | 她说完“没事”后尾音轻轻抖了一下，指尖把纸角捏皱，呼吸没能立刻接上 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "停顿与重音身体锚点"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-014",
+      "title": "镜头内身体路径",
+      "category": "motion",
+      "tags": [
+        "镜头内身体路径"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "| 路径 | 适用情境 | 提示词表达 |\n|---|---|---|\n| 直线逼近 | 压迫、质问、攻击 | 重心直接压向对方，步伐少但每一步都缩短距离 |\n| 侧身绕开 | 心虚、回避、试探 | 肩膀先侧开，视线绕过对方，身体给门口留出角度 |\n| 下沉停住 | 羞耻、崩溃、认输 | 肩膀和头慢慢垂下，声音落低，手无力停在身体前 |\n| 向外打开 | 和解、解脱、坦白 | 胸口打开，手掌摊开，呼吸从喉咙落回胸腔 |\n| 收紧蓄力 | 愤怒、恐惧、忍耐 | 下颌绷住，肩颈变硬，手指先收紧再触发主动作 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "镜头内身体路径"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-015",
+      "title": "视频提示词模板",
+      "category": "motion",
+      "tags": [
+        "视频提示词模板"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "```text\n前一秒：[触发前状态和压抑动作]\n当下：[主动作 + 面部/身体/声音]\n后一秒：[余波 + 环境反馈 + 结束姿态]\n```",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "视频提示词模板"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-016",
+      "title": "低面部依赖的全身表演",
+      "category": "motion",
+      "tags": [
+        "低面部依赖的全身表演"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "当脸部被墨镜、口罩、背光、远景、侧脸或快速动作削弱时，不要强行依赖微表情。让身体轮廓、肩背、脊柱、手脚、道具和节奏先承担情绪。\n\n| 情境 | 可见替代通道 | 提示词写法 |\n|---|---|---|\n| 看不清眼睛但情绪要读懂 | 头部高度、肩背开合、手部压力、步幅节奏 | 墨镜遮住眼睛，但他走路的节奏很松，肩膀随着音乐轻晃，手指在车钥匙上敲出稳定节拍 |\n| 远景人物情绪 | 身体剪影、胸口方向、手脚是否收紧 | 她站在走廊尽头，整个人缩成窄窄的轮廓，手臂贴住身体，脚尖始终偏向出口 |\n| 背身反应 | 头颈停顿、肩膀变化、手里物件反馈 | 他背对镜头听完那句话，肩膀先停住，手里的纸杯被捏出一道凹痕，过了半秒才转身 |",
+      "source_ids": [
+        "SRC-040"
+      ],
+      "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "低面部依赖的全身表演"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-017",
+      "title": "激烈动作中的台词呼吸",
+      "category": "motion",
+      "tags": [
+        "激烈动作中的台词呼吸"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "人物边跑、打斗、搬东西、挣扎或哭笑边说话时，台词不能像静坐朗读。每句台词需要绑定呼吸位置、身体负荷和动作停顿。\n\n| 场景 | 风险 | 修正写法 |\n|---|---|---|\n| 奔跑中解释 | 口型太稳，身体负荷缺失 | 他边跑边回头，话被脚步切成短句；每跨过一级台阶都先吸气，最后几个字几乎从喘息里挤出 |\n| 推搡中争吵 | 台词和动作互不影响 | 她被推到墙边后先撞停，下一句没有立刻出口；胸口起伏两下后，声音突然压低，手掌撑墙稳住身体 |\n| 哭笑转换 | 声音情绪同拍跳变 | 她笑声先断在喉咙里，吸气没有接上，嘴角还挂着笑，眼泪却先滚下来；下一句变成带鼻音的低声 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "激烈动作中的台词呼吸"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-018",
+      "title": "镜头位置与表演规则",
+      "category": "motion",
+      "tags": [
+        "镜头位置与表演规则"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "表演动作要和镜头位置互相成就。一个动作只有在当前角度能读懂时才成立；换角度后，应同步改写人物朝向、道具高度或动作落点。\n\n| 规则 | 提示词用途 |\n|---|---|\n| 固定角度读关系 | 让人物的递物、挡门、回避、靠近都发生在镜头能读到的侧面或前景 |\n| 长镜头读动作链 | 少切时写清起点、路线、阻碍、停顿和结果，让观众靠调度读懂变化 |\n| 重复母题读规则 | 同一名字、物件或声音每次触发相似站位或反应，但逐次升级关系含义 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "镜头位置与表演规则"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-019",
+      "title": "眨眼/眼跳作为思考剪辑",
+      "category": "motion",
+      "tags": [
+        "眨眼/眼跳作为思考剪辑"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "眼睛不是均匀活动的装饰。眨眼、眼跳和定焦应放在想法变化、快速转头、发现线索、遮掩情绪或决定行动的节点上。\n\n| 节点 | 可见规则 | 提示词写法 |\n|---|---|---|\n| 想法转向 | 旧视点结束前短眨，睁眼后落到新目标 | 他听到那个名字时先眨了一下，睁眼后视线不再看她，而是落到门边的鞋印 |\n| 搜索线索 | 多个短眼跳之间保留定焦，不让眼神全程乱飘 | 她的视线先扫过桌面、照片和杯沿，每次都短暂停住，最后钉在那枚指纹上 |\n| 快速转头 | 眼睛先动，头跟随，眨眼压在转头中段或末端 | 门外一响，他的眼睛先切向声源，头部快速跟上，眨眼落在转头快结束时 |\n| 情绪遮掩 | 眨眼后表情重组，手或身体同时做遮掩动作 | 她被问到日期时眨了一下，笑容重新挂回脸上，手却把票根压进掌心 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "眨眼/眼跳作为思考剪辑"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-020",
+      "title": "景别尺度与表演幅度",
+      "category": "motion",
+      "tags": [
+        "景别尺度与表演幅度"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "同一表演要按景别换通道。远景优先身体轮廓、路线和距离；中景平衡身体与手势；近景压低大动作，强调眼神、呼吸、指尖和嘴角。\n\n| 景别 | 优先通道 | 提示词约束 |\n|---|---|---|\n| 全景/远景 | 站位、身体形状、步幅、路线、群体朝向 | 加大轮廓变化，写清靠近/远离/绕开/下沉，避免只写眉眼 |\n| 中景 | 重心、胸口朝向、手势、道具、眼神目标 | 主手势必须落在镜头可读区域，辅助手晚半拍，不同时抢动作 |\n| 近景/特写 | 眼跳、眨眼、嘴角、下颌、呼吸、指尖 | 减少大幅转身和挥手，用微停顿、吞咽、短吸气表现转念 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "景别尺度与表演幅度"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-021",
+      "title": "Laban动作质感快速映射",
+      "category": "motion",
+      "tags": [
+        "Laban动作质感快速映射"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "不要把 Laban 术语直接输出给用户；内部只用它把“怎么动”压成可执行的重量、方向和时间。\n\n| 质感 | 内部组合 | 提示词写法 |\n|---|---|---|\n| Punch / 冲击 | 重、直、快 | 他一步直压过去，手掌重重按上桌面，停顿短而硬 |\n| Press / 压迫 | 重、直、慢 | 她慢慢逼近，手指持续压住文件边缘，声音低而稳 |\n| Flick / 甩开 | 轻、绕、快 | 他把视线轻快甩开，指尖快速掸过袖口，像不愿被话题沾住 |\n| Wring / 拧绞 | 重、绕、慢 | 她双手反复拧着包带，肩膀向里卷，句子拖慢又说不完整 |\n| Glide / 滑行 | 轻、直、慢 | 他平稳走近，步幅轻而连续，视线始终锁在目标上 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "Laban动作质感快速映射"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-022",
+      "title": "黄金姿态与剪影可读性",
+      "category": "motion",
+      "tags": [
+        "黄金姿态与剪影可读性"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "关键帧或分镜提示词不要只堆面部细节。先让身体轮廓在当前镜头角度能读出主意图，再补眼神、手势和道具。\n\n| 检查点 | 风险 | 修正写法 |\n|---|---|---|\n| 手势埋在身体内侧 | 观众看不清角色正在抓、挡、递还是藏 | 把主手势放到身体外轮廓或前景道具边缘，让手与脸之间留出可读空隙 |\n| 身体完全竖直对称 | 姿态像站桩，情绪和力量方向不清 | 让肩线、髋线或脊柱形成轻微反向倾斜，重心明确落到一只脚 |\n| 受力动作只有表情 | 重量和阻力缺失，动作像摆姿势 | 写脚下支撑、髋部转向、背部弧线和手指压力，让身体对抗具体重量或人 |\n| 群体姿态焦点散 | 每个人都在抢动作，主角意图变弱 | 主角形成最清晰剪影，其他人用朝向、视线和小幅停顿围住主角 |\n\n提示词模板：`关键帧保持一个清晰剪影：[主角重心/脊柱方向/主手势位置]先读出[意图]；脸部和道具作为第二层证据，不遮住主动作。`",
+      "source_ids": [
+        "SRC-040"
+      ],
+      "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "黄金姿态与剪影可读性"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-023",
+      "title": "静止与动作对比",
+      "category": "motion",
+      "tags": [
+        "静止与动作对比"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "静止不是空白，而是人物正在压住、判断或等待对方反应。视频提示词可用短静止建立节奏，再让动作命中。\n\n| 用途 | 可见写法 | 避免 |\n|---|---|---|\n| 压住情绪 | 身体停住，只有胸口、指尖或下颌保留微动 | 全身僵死、无呼吸 |\n| 等待对方接招 | 递物或问题抛出后动作停在可接位置，视线不催促 | 说完立刻换动作 |\n| 转念前留白 | 旧动作悬停，眼神重新定点，短吸气后进入新动作 | 情绪秒切 |\n| 爆发后收束 | 主动作结束，余波留在肩颈、衣角、道具震动或呼吸 | 动作落点后立刻切无余波 |\n\n示例：她把问题说完后没有继续逼近，手停在桌面边缘，眼神稳稳等对方先动；半秒静止后，对方先移开视线，她才把文件推过去。",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "静止与动作对比"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-024",
+      "title": "目标受阻策略链",
+      "category": "motion",
+      "tags": [
+        "目标受阻策略链"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "表演动作应来自“人物想要什么、被什么挡住、换了什么策略”。这类链条尤其适合多镜头视频提示词和关系戏分镜。\n\n```text\n目标：人物想让谁发生什么变化。\n阻碍：对方不接、空间挡住、身份压力、公开场合、内心自尊。\n第一策略：靠近/讨好/解释/递物/沉默施压。\n失败证据：对方后撤、移开视线、不接物件、第三人介入。\n换招动作：停顿、收回手、改变站位、换道具、降低或压低声音。\n结果状态：距离、视线、手中物件和声音是否改变。\n```\n\n示例：他想让她留下，先把伞递到她手边；她没有接，反而看向门口。他停住半拍，把伞收回自己胸前，转而站到门边挡住雨声，声音压低，只问她最后一个问题。",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "目标受阻策略链"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-025",
+      "title": "预备动作的真假意图",
+      "category": "motion",
+      "tags": [
+        "预备动作的真假意图"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "预备动作不是只为大动作蓄力，也可以承担悬念：观众以为人物要靠近、攻击或离开，下一拍才发现真实目标是递物、保护或退让。提示词必须写清预备动作和结果动作之间的可见关系。\n\n| 用途 | 可见写法 | 避免 |\n|---|---|---|\n| 真实意图预告 | 眼神先落到目标，重心和手部都朝同一方向蓄力 | 大动作突然发生，没有起点 |\n| 错误方向误导 | 身体先朝一个方向启动，主手或视线在最后一拍切到真实目标 | 无原因反转，像动作跳变 |\n| 压住冲动 | 吸气和前倾已经出现，但手停住或改去整理道具 | 只写“忍住”，没有身体证据 |\n\n示例：他看似要冲向门口，重心已经压到前脚掌，手也伸向门把；下一秒视线却落到她身后的窗帘，手从门把旁擦过，改为拉上窗帘挡住外面的视线。",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "预备动作的真假意图"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-026",
+      "title": "无实物动作连续性",
+      "category": "motion",
+      "tags": [
+        "无实物动作连续性",
+        "mime",
+        "prop continuity"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "无实物表演或 AIGC 道具不稳定时，动作要靠身体逻辑成立。写清接触高度、手指压力、重量变化、阻力方向和结束位置，减少模型把手势做成空挥。\n\n| 动作 | 连续性检查 | 提示词写法 |\n|---|---|---|\n| 拿起不存在或不稳定的物件 | 手先贴近接触点，手指合拢后重量进入手腕 | 她的手先贴到桌面边缘，指尖像扣住薄纸一样收紧，手腕慢半拍抬起，纸张重量带着手指轻颤 |\n| 推开空气中的阻碍 | 肩肘腕按顺序发力，身体给出反作用 | 他先把肩膀压上去，肘部随后伸直，掌心像顶住一扇沉门，脚跟在地面稳住后门才被推开 |\n| 藏起小物件 | 视线先确认第三方，手掌闭合后贴回身体 | 她先扫了一眼旁边的人，指尖合拢把票根扣进掌心，手背贴回杯子旁，动作恢复成倒水 |",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "无实物动作连续性"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-027",
+      "title": "情绪爆点前后收束",
+      "category": "motion",
+      "tags": [
+        "情绪爆点前后收束"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "强情绪镜头要保留“爆发前蓄压”和“爆发后结果”。这比单独写哭、吼、摔更利于视频模型读懂动作因果。\n\n```text\n蓄压：旧姿态仍在维持，呼吸、下颌、手指或重心先出现压力。\n爆点：只有一个主动作命中，不同时堆多个大动作。\n余震：胸口、手、道具、衣角或空间声响继续半拍。\n补救/结果：人物收回、靠近、后撤、沉默或重新控场，形成尾帧状态。\n```\n\n示例：她先把笑容撑住，手指却把杯沿压得发白；听见最后一句时杯子重重落到桌面，水面晃出一圈。下一秒她立刻收手，背重新挺直，声音降得很低，只剩杯底的轻响还在房间里。",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "情绪爆点前后收束"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-028",
+      "title": "分段错峰模板",
+      "category": "motion",
+      "tags": [
+        "分段错峰模板"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "```text\n启动：重心/骨盆先改变方向。\n传导：胸腔跟随，肩部形成轻微扭转，头与视线最后到位。\n命中：主手先完成动作，另一只手或道具晚半拍稳定身体。\n收束：头发、衣角、手指和胸口起伏继续一小段后停稳。\n```\n\n示例：她听见身后有人叫名字，眼神先停住，骨盆带着重心转向声源；胸腔和肩膀随后拧回，头最后转到位。右手先按住桌沿停稳，左手里的纸张晚半拍晃动两次，衣角在身体停住后才落下。",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "分段错峰模板"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-029",
+      "title": "示例：愤怒地大笑",
+      "category": "motion",
+      "tags": [
+        "示例：愤怒地大笑"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "```text\n前一秒，他压低下巴盯住对方，嘴角向一侧抽动，手指攥紧到指节发白。\n当下，他猛地咧开嘴露出牙齿，鼻腔挤出一声短笑，肩膀随着笑声连续抖动，笑声从喉咙里滚出来后突然放大。\n后一秒，笑声猛地收住，只剩胸口还在起伏，眼神重新压回对方脸上。\n```",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "示例：愤怒地大笑"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-030",
+      "title": "示例：心虚后退",
+      "category": "motion",
+      "tags": [
+        "示例：心虚后退"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "```text\n前一秒，他听到问题后停了半拍，视线先落到桌角，眨眼频率突然变快。\n当下，他身体侧开半步，手指摸过袖口，声音压低，回答比正常节奏慢了一拍。\n后一秒，他装作整理衣服，呼吸却变浅，眼神始终没有回到对方脸上。\n```",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "示例：心虚后退"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-031",
+      "title": "示例：权力反转",
+      "category": "motion",
+      "tags": [
+        "示例：权力反转"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+      "reference_text": "```text\n前一秒，坐在桌后的男人还保持着稳定眼神，手指压着文件边缘；对面的人听完最后一句话后没有立刻反驳，只是慢慢抬眼。\n当下，对面的人把手机推到桌面中央，身体坐直，声音压低；桌后的男人第一次移开视线，手指松开文件又重新按住。\n后一秒，房间安静下来，原本逼问的人开始清嗓子，原本沉默的人反而稳稳看住他。\n```",
+      "source_ids": [],
+      "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "04_动作质感与视频.md",
+        "source_heading": "示例：权力反转"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-001",
+      "title": "审讯/压迫",
+      "category": "relationship",
+      "tags": [
+        "审讯/压迫"
+      ],
+      "channels": {
+        "initiator": "少动、慢说、眼神稳定",
+        "responder": "多眨眼、吞咽、手找支点"
+      },
+      "prompt": "他没有提高音量，只把手里的文件慢慢放到桌面，眼神始终钉在对方脸上；对方下意识吞咽，手指摸到杯沿又松开，回答前多眨了两次眼。",
+      "guidance": "强者平静，弱者张扬或失控",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "审讯/压迫"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-002",
+      "title": "暧昧/靠近",
+      "category": "relationship",
+      "tags": [
+        "暧昧/靠近"
+      ],
+      "channels": {
+        "initiator": "视线停留、动作变慢",
+        "responder": "回避又回看、指尖紧张"
+      },
+      "prompt": "两人之间的距离只剩半步，她先避开视线，又很快抬眼看回去；指尖停在杯壁上没有拿起，呼吸变轻，话音落下后仍留着半秒停顿。",
+      "guidance": "不写“暧昧”，写距离和停顿",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "暧昧/靠近"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-003",
+      "title": "决裂",
+      "category": "relationship",
+      "tags": [
+        "决裂"
+      ],
+      "channels": {
+        "initiator": "身体转开、物件放下",
+        "responder": "追一步又停住"
+      },
+      "prompt": "他把钥匙放到桌上，身体已经转向门口；她追出一步又停住，手悬在半空没有抓住他，房间里只剩钥匙碰到桌面的轻响。",
+      "guidance": "用空间距离代替台词解释",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "决裂"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-004",
+      "title": "欺骗",
+      "category": "relationship",
+      "tags": [
+        "欺骗"
+      ],
+      "channels": {
+        "initiator": "表情过稳、眼神错位",
+        "responder": "手部多余动作"
+      },
+      "prompt": "他说得太稳，嘴角没有多余变化，只有视线在提到时间时偏向窗边；手指轻轻抹过袖口，像是在掩盖刚才的停顿。",
+      "guidance": "写“过度正常”的反常",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "欺骗"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-005",
+      "title": "和解",
+      "category": "relationship",
+      "tags": [
+        "和解"
+      ],
+      "channels": {
+        "initiator": "肩颈放松、手掌打开",
+        "responder": "呼吸落下来"
+      },
+      "prompt": "她先把紧绷的肩膀放下来，手掌慢慢摊开，呼吸终于落回胸腔；抬眼看他时，声音压低，尾音变软。",
+      "guidance": "先写身体松开，再写台词",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "和解"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-006",
+      "title": "试探/拉扯",
+      "category": "relationship",
+      "tags": [
+        "试探/拉扯"
+      ],
+      "channels": {
+        "initiator": "抛出问题后保持安静",
+        "responder": "回避、反问、半步靠近又退开"
+      },
+      "prompt": "他把问题说完后没有补解释，只把杯子轻轻转了半圈，等对方先动；她的视线从他脸上滑到桌面，又很快抬回来，身体向前靠了半寸，却在开口前停住。",
+      "guidance": "用停顿和距离变化写攻防，不急着给结论",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "试探/拉扯"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-007",
+      "title": "道歉/求原谅",
+      "category": "relationship",
+      "tags": [
+        "道歉/求原谅"
+      ],
+      "channels": {
+        "initiator": "放低姿态、手掌打开、减少逼近",
+        "responder": "不接视线、身体保持封闭"
+      },
+      "prompt": "他停在门口没有再靠近，双手从口袋里拿出来，掌心微微朝上；她没有接他的眼神，只把肩膀收紧，指尖扣住袖口，房间里先落下一段空白。",
+      "guidance": "道歉方先停在安全距离，让对方有退路",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "道歉/求原谅"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-008",
+      "title": "权力反转",
+      "category": "relationship",
+      "tags": [
+        "权力反转"
+      ],
+      "channels": {
+        "initiator": "原本少动的人开始失去节奏",
+        "responder": "原本紧张的人站稳、抬眼"
+      },
+      "prompt": "原本坐得很稳的人开始频繁换手拿笔，视线第一次从对方脸上移开；对面的人反而慢慢坐直，抬眼看住他，说话前留出完整的一秒停顿。",
+      "guidance": "写节奏交换：谁开始多余动作，谁开始安静",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "权力反转"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-009",
+      "title": "群体排斥",
+      "category": "relationship",
+      "tags": [
+        "群体排斥"
+      ],
+      "channels": {
+        "initiator": "主导者占据中心、交换眼神",
+        "responder": "被排斥者站在边缘、身体缩小"
+      },
+      "prompt": "几个人的肩膀自然合成半圈，谈笑时视线彼此交换，却总是绕过她；她站在圈外半步，手里还握着没递出去的杯子，笑容停在脸上没有被接住。",
+      "guidance": "写站位、视线绕开、空位被合上",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "群体排斥"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-010",
+      "title": "同步/默契建立",
+      "category": "relationship",
+      "tags": [
+        "同步/默契建立"
+      ],
+      "channels": {
+        "initiator": "一方先放慢动作、留出可跟随节拍",
+        "responder": "另一方复制姿态或在相邻节拍接续动作"
+      },
+      "prompt": "他放慢倒水的速度，把杯口留在她伸手就能接到的位置；她抬眼确认后接住杯子，两人的手在同一拍松开。下一句对话开始前，他们先后靠回椅背，呼吸逐渐落到相近的节奏。",
+      "guidance": "写呼吸、视线、拿放道具逐渐同频，不直接写“默契”",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "同步/默契建立"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-011",
+      "title": "失同步/关系裂缝",
+      "category": "relationship",
+      "tags": [
+        "失同步/关系裂缝"
+      ],
+      "channels": {
+        "initiator": "一方仍按原节奏靠近、递物或说话",
+        "responder": "另一方延迟回应、提前收身或拒绝接续动作"
+      },
+      "prompt": "他仍像往常一样把外套递过去，她的手却没有抬起，只在半拍后把身体侧开；外套悬在两人之间，他先收回视线，再慢慢收回手，原本相邻的站位空出一步距离。",
+      "guidance": "用错开的停顿、未被接住的动作和扩大距离表现裂缝",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "失同步/关系裂缝"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-012",
+      "title": "言行错位/潜台词暴露",
+      "category": "relationship",
+      "tags": [
+        "言行错位/潜台词暴露"
+      ],
+      "channels": {
+        "initiator": "嘴上维持礼貌或轻松，眼神和身体却提前指向真实目标",
+        "responder": "对方捕捉到错位后停止配合，回看或拉开距离"
+      },
+      "prompt": "她嘴上说“你随时可以走”，手却先一步把门边的钥匙压在掌心，视线在他和门把之间来回一次；他原本伸出的手停住，先看向她握紧的指节，再抬眼看她，身体从配合的前倾慢慢收回。",
+      "guidance": "不复述台词含义；让视线、手势、道具和停顿泄露未说出口的意图",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "言行错位/潜台词暴露"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-013",
+      "title": "对象关系切换/身份差",
+      "category": "relationship",
+      "tags": [
+        "对象关系切换/身份差"
+      ],
+      "channels": {
+        "initiator": "面对亲近者时身体正对、视线停留、手势可越过个人边界",
+        "responder": "面对权威或陌生者时身体略侧、手势收回自身范围、先确认再开口"
+      },
+      "prompt": "她对朋友说话时身体正对着对方，手肘自然搭上椅背，视线一直停在朋友脸上；主管走近后，她先把手收回膝前，肩膀转开一点让出通道，抬眼确认对方已经停下才开口，音量也压低半级。",
+      "guidance": "同一句话随对象改变视线时长、身体朝向、音量与停顿；不要只换表情",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "对象关系切换/身份差"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-014",
+      "title": "遭遇/第一次对峙",
+      "category": "relationship",
+      "tags": [
+        "遭遇/第一次对峙"
+      ],
+      "channels": {
+        "initiator": "先占据可进可退的位置，观察对方路径",
+        "responder": "停在安全距离外，手部动作先收小，视线确认出口"
+      },
+      "prompt": "两人在走廊拐角同时停住，谁都没有立刻靠近。他先看向她身后的门，再把视线落回她脸上；她的手从包带上滑到身侧，身体只侧开一点，脚尖却已经对准退路。",
+      "guidance": "写“先看见、再判断、再决定是否靠近”，不要让人物一上来就满情绪",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "遭遇/第一次对峙"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-015",
+      "title": "被围观/观演压力",
+      "category": "relationship",
+      "tags": [
+        "被围观/观演压力"
+      ],
+      "channels": {
+        "initiator": "围观者形成视线压力、身体朝向主角",
+        "responder": "被看见者表情管理变强，动作变小或突然放大"
+      },
+      "prompt": "周围人的视线一层层压过来，她原本要抬起的手停在胸前，笑容被硬撑住；下一秒她把背挺直，音量比刚才低半级，像是在所有人面前把狼狈收回去。",
+      "guidance": "写观众视线、主角重心和声音变化；被围观感不能只靠“尴尬”",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "被围观/观演压力"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-016",
+      "title": "角色标志动作/身份展示",
+      "category": "relationship",
+      "tags": [
+        "角色标志动作/身份展示"
+      ],
+      "channels": {
+        "initiator": "核心人物用稳定、可重复的动作占住身份",
+        "responder": "对手通过反应确认这个动作的压迫或魅力"
+      },
+      "prompt": "他进门后没有急着说话，只把手套一根根拉平，再把戒指转到正面；屋里的人下意识停下交谈，视线先落到他的手，再抬到他的脸上。",
+      "guidance": "标志动作要服务目标：压场、诱导、威胁、安抚或暴露缺口，不做空泛帅姿势",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "角色标志动作/身份展示"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-017",
+      "title": "沉默交流/真听真看",
+      "category": "relationship",
+      "tags": [
+        "沉默交流/真听真看"
+      ],
+      "channels": {
+        "initiator": "一方先用视线、呼吸、停顿接住信息",
+        "responder": "另一方根据对方反应再调整距离、手势或音量"
+      },
+      "prompt": "她说完最后一句后没有继续解释，只看着他的眼睛等反应；他先低头吸了一口气，手指停在门把上没有转动，过了半秒才重新看向她，身体从要离开的角度慢慢转回来。",
+      "guidance": "无台词也要写对象、判断和回应；不要让两人各演各的情绪",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-076"
+      ],
+      "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "沉默交流/真听真看"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-018",
+      "title": "策略换招/目标受阻",
+      "category": "relationship",
+      "tags": [
+        "策略换招/目标受阻"
+      ],
+      "channels": {
+        "initiator": "原策略失败后动作短暂停住，改用新的身体路径",
+        "responder": "对方不接招或设置阻碍，迫使人物换语气、距离或道具动作"
+      },
+      "prompt": "他第一次伸手去拿文件时被对方按住，动作停在半空；下一秒他把手收回，语气从讨好变成平静威胁，身体反而向椅背靠稳，把手机推到桌面中央。",
+      "guidance": "先写想要什么和被什么挡住，再写从讨好、试探、威胁、退让中换招",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "策略换招/目标受阻"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-019",
+      "title": "同动作不同关系",
+      "category": "relationship",
+      "tags": [
+        "同动作不同关系"
+      ],
+      "channels": {
+        "initiator": "同一动作在亲密、陌生、权威关系中改变边界",
+        "responder": "接收方用是否接住、是否后撤、是否回看标明关系"
+      },
+      "prompt": "她把外套递给朋友时手直接越过桌角，朋友自然接住；轮到主管走近，她把外套先放在椅背上，手离开后才开口提醒，对方只点头没有回看她。",
+      "guidance": "不只写“递东西”；写递到哪里、停多久、对方是否接、身体边界是否被允许",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "同动作不同关系"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-020",
+      "title": "动作替代对白/无声交代",
+      "category": "relationship",
+      "tags": [
+        "动作替代对白/无声交代"
+      ],
+      "channels": {
+        "initiator": "关键事实不靠解释台词说出，而由人物位置、道具处理和视线路径透露",
+        "responder": "接收方用停住、回看、让路或收回手确认信息被读到"
+      },
+      "prompt": "他没有解释自己已经决定离开，只把常用的杯子倒扣在水槽边，把钥匙推到桌面中央；她听见轻响后停住脚步，先看钥匙，再看他空出来的手。",
+      "guidance": "先问“关掉声音还能不能看懂”；能用动作读懂的事实，不再让角色复述",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-076"
+      ],
+      "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "动作替代对白/无声交代"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-021",
+      "title": "对话中的动作打断",
+      "category": "relationship",
+      "tags": [
+        "对话中的动作打断"
+      ],
+      "channels": {
+        "initiator": "台词推进时穿插拿放、停手、靠近、避开、递物或抢回等小动作",
+        "responder": "对方根据动作改变下一句的音量、距离或节奏"
+      },
+      "prompt": "她说“我真的没事”时还在整理桌面，说到“真的”两个字，手却停在那张照片上没有移开；对方原本要接话，看到她指尖压住照片后把声音放低，退回半步等她继续说。",
+      "guidance": "动作必须落在信息、关系或转念节点，不能只是填空式摆手",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "对话中的动作打断"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-022",
+      "title": "关系母题重复/规则化反应",
+      "category": "relationship",
+      "tags": [
+        "关系母题重复/规则化反应"
+      ],
+      "channels": {
+        "initiator": "某个名字、物件或动作每次出现都会触发固定但可升级的站位或身体反应",
+        "responder": "后一次重复可改变强弱、方向或谁先反应，显示关系变化"
+      },
+      "prompt": "每次提到那个名字，屋里的人都会先看向门口。第一次只是短暂一瞥，第二次有人下意识把椅子往后挪，第三次主角不再跟着看门，反而把视线稳稳压回说话的人脸上。",
+      "guidance": "重复的是关系规则，不是复制同一句提示词；每次都要服务新节拍",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "关系母题重复/规则化反应"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-023",
+      "title": "地位试探/谁先让步",
+      "category": "relationship",
+      "tags": [
+        "地位试探/谁先让步",
+        "status",
+        "power"
+      ],
+      "channels": {
+        "initiator": "一方用眼神保持、占据空间、慢动作或沉默抬高地位",
+        "responder": "另一方先眨眼、后退、补笑、解释或让开通道"
+      },
+      "prompt": "两人隔着桌角站住，他没有先开口，只把文件慢慢推到桌面中央，眼神保持在她脸上；她先眨了一下眼，手从椅背上收回，侧身让出半步，才用更低的声音接话。",
+      "guidance": "地位不是身份标签；必须写“谁先移开视线、谁先让路、谁控制停顿”",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-077"
+      ],
+      "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "地位试探/谁先让步"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-024",
+      "title": "距离变化/亲疏变温",
+      "category": "relationship",
+      "tags": [
+        "距离变化/亲疏变温"
+      ],
+      "channels": {
+        "initiator": "两人距离、朝向和接触边界在同一场戏里发生变化",
+        "responder": "对方是否接住靠近、是否回避、是否允许触碰决定关系温度"
+      },
+      "prompt": "第一次并肩坐下时，她的手肘贴着车门，身体尽量留出空隙；谈到共同的旧歌后，她慢慢靠回椅背，手放到两人中间的扶手边，视线停留的时间也比刚才更长。",
+      "guidance": "关系变化优先写距离和身体朝向，不只写“关系变近/变远”",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "距离变化/亲疏变温"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-025",
+      "title": "被观察/被读懂",
+      "category": "relationship",
+      "tags": [
+        "被观察/被读懂"
+      ],
+      "channels": {
+        "initiator": "一方发现自己正在被看见、判断或识破",
+        "responder": "观察方不急着说破，用视线、停顿、微小让位压住对方"
+      },
+      "prompt": "他还在解释，女人的视线却先落到他袖口的水渍，再抬回他的眼睛；他原本稳定的语速断了一拍，手迅速拉下袖口，身体向椅背缩回半寸。",
+      "guidance": "写清“看见什么证据”和被看见者如何收回、遮掩或反击",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "被观察/被读懂"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-026",
+      "title": "责任交接/被托付",
+      "category": "relationship",
+      "tags": [
+        "责任交接/被托付"
+      ],
+      "channels": {
+        "initiator": "交付方把物件、位置或信息慢慢推到对方可接范围",
+        "responder": "接收方先看物件重量，再调整站姿或握法"
+      },
+      "prompt": "老人没有把钥匙直接塞给她，只是慢慢推到桌面中央，手指停在钥匙圈上多留了一拍；她先看钥匙，再看老人低下去的手，肩膀沉了一下，随后把钥匙握进掌心，站位从门边挪回房间中央。",
+      "guidance": "不写“责任重大”，写交付物、接住前停顿、肩背变化和交接后的空间位置",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "责任交接/被托付"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-027",
+      "title": "拒绝被照顾/嘴硬接纳",
+      "category": "relationship",
+      "tags": [
+        "拒绝被照顾/嘴硬接纳"
+      ],
+      "channels": {
+        "initiator": "照顾方降低逼近感，把帮助停在对方可拒绝的位置",
+        "responder": "被照顾方先挡开或后撤，随后用更小动作接住"
+      },
+      "prompt": "他递外套时没有碰她，只把外套停在她手边；她先把身体侧开，嘴上说不用，风吹过来后手却停住，指尖慢慢接住衣角，下一句话的音量比刚才低了半级。",
+      "guidance": "照顾不是强塞动作；要写边界、停顿、是否接住、接住后语气是否软化",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "拒绝被照顾/嘴硬接纳"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-028",
+      "title": "暗中结盟/同阵营确认",
+      "category": "relationship",
+      "tags": [
+        "暗中结盟/同阵营确认"
+      ],
+      "channels": {
+        "initiator": "一方不公开表态，只用视线或道具给出信号",
+        "responder": "另一方接到信号后不立刻看回，可用站位、递物或挡位回应"
+      },
+      "prompt": "第三个人还在说话，她没有看同伴，只把杯子往桌角推了半寸，露出压在下面的票根；同伴接水时视线短短扫过票根，没有点头，只顺势站到她身侧，替她挡住门口的视线。",
+      "guidance": "写“避开第三方视线的同步”，不要让两人公开宣誓或同时大动作",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "暗中结盟/同阵营确认"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-029",
+      "title": "被追问/被迫自证",
+      "category": "relationship",
+      "tags": [
+        "被追问/被迫自证"
+      ],
+      "channels": {
+        "initiator": "追问方缩短停顿或把证据推近，但不一定提高音量",
+        "responder": "被追问方先护住核心物件或退路，再决定解释、反问或沉默"
+      },
+      "prompt": "他没有吼，只把那张照片推到她手边，停顿被压得很短；她的手先护住包带，身体侧向门口半寸，开口解释前眼神先看了一眼照片边缘，又改成反问把节奏抢回来。",
+      "guidance": "追问戏不要只写“紧张”；写证据距离、谁控制停顿、谁被迫多做动作",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "被追问/被迫自证"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-030",
+      "title": "请求许可/等待同意",
+      "category": "relationship",
+      "tags": [
+        "请求许可/等待同意",
+        "permission",
+        "consent"
+      ],
+      "channels": {
+        "initiator": "请求方把动作停在对方可拒绝的位置，视线不抢结果",
+        "responder": "被请求方用是否接住、点头、后撤或让路给出同意边界"
+      },
+      "prompt": "他伸手前先停在半空，掌心没有越过她的肩线，视线从她脸上移到她可以后退的位置；她没有立刻点头，只把身体侧开一点又慢慢放回原位，手指轻轻接住他的袖口。",
+      "guidance": "亲密和权力关系都要写“许可空间”：手停在哪里、身体有没有逼近、对方有没有退路",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "请求许可/等待同意"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-031",
+      "title": "共同隐瞒/互相掩护",
+      "category": "relationship",
+      "tags": [
+        "共同隐瞒/互相掩护"
+      ],
+      "channels": {
+        "initiator": "一方先暴露风险信号，另一方用站位、道具或话题接住",
+        "responder": "被掩护方不公开感谢，只把动作收回正常轨道"
+      },
+      "prompt": "第三个人转身时，她的手还压在票根上；同伴顺势把文件夹放到桌面边缘挡住视线，语气自然地接过话题。她没有看他，只把手从票根上松开，继续倒水，呼吸才慢慢放平。",
+      "guidance": "写第三方视线压力、掩护动作和恢复正常的余波，不写两人直接说明秘密",
+      "reference_text": "",
+      "source_ids": [],
+      "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+      "provenance": {
+        "origin": "author-maintained performance-visibility library",
+        "source_version": "0.1.10",
+        "source_module": "03_关系场景.md",
+        "source_heading": "共同隐瞒/互相掩护"
+      },
+      "validation": {
+        "scope": "library_method",
+        "status": "author_verified_in_practice",
+        "per_entry_record": "not_separately_published"
+      },
+      "updated": "2026-09-04"
+    }
+  ]
+}

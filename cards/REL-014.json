@@ -1,0 +1,29 @@
+{
+  "id": "REL-014",
+  "title": "遭遇/第一次对峙",
+  "category": "relationship",
+  "tags": [
+    "遭遇/第一次对峙"
+  ],
+  "channels": {
+    "initiator": "先占据可进可退的位置，观察对方路径",
+    "responder": "停在安全距离外，手部动作先收小，视线确认出口"
+  },
+  "prompt": "两人在走廊拐角同时停住，谁都没有立刻靠近。他先看向她身后的门，再把视线落回她脸上；她的手从包带上滑到身侧，身体只侧开一点，脚尖却已经对准退路。",
+  "guidance": "写“先看见、再判断、再决定是否靠近”，不要让人物一上来就满情绪",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "遭遇/第一次对峙"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

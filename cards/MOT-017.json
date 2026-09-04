@@ -1,0 +1,26 @@
+{
+  "id": "MOT-017",
+  "title": "激烈动作中的台词呼吸",
+  "category": "motion",
+  "tags": [
+    "激烈动作中的台词呼吸"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "人物边跑、打斗、搬东西、挣扎或哭笑边说话时，台词不能像静坐朗读。每句台词需要绑定呼吸位置、身体负荷和动作停顿。\n\n| 场景 | 风险 | 修正写法 |\n|---|---|---|\n| 奔跑中解释 | 口型太稳，身体负荷缺失 | 他边跑边回头，话被脚步切成短句；每跨过一级台阶都先吸气，最后几个字几乎从喘息里挤出 |\n| 推搡中争吵 | 台词和动作互不影响 | 她被推到墙边后先撞停，下一句没有立刻出口；胸口起伏两下后，声音突然压低，手掌撑墙稳住身体 |\n| 哭笑转换 | 声音情绪同拍跳变 | 她笑声先断在喉咙里，吸气没有接上，嘴角还挂着笑，眼泪却先滚下来；下一句变成带鼻音的低声 |",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "激烈动作中的台词呼吸"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

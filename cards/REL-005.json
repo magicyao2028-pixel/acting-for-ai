@@ -1,0 +1,29 @@
+{
+  "id": "REL-005",
+  "title": "和解",
+  "category": "relationship",
+  "tags": [
+    "和解"
+  ],
+  "channels": {
+    "initiator": "肩颈放松、手掌打开",
+    "responder": "呼吸落下来"
+  },
+  "prompt": "她先把紧绷的肩膀放下来，手掌慢慢摊开，呼吸终于落回胸腔；抬眼看他时，声音压低，尾音变软。",
+  "guidance": "先写身体松开，再写台词",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "和解"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

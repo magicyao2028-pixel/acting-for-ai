@@ -1,0 +1,31 @@
+{
+  "id": "EMO-016",
+  "title": "焦虑/不安",
+  "category": "emotion",
+  "tags": [
+    "焦虑/不安",
+    "anxiety"
+  ],
+  "channels": {
+    "face": "眉头反复压紧、眨眼增多",
+    "body_hands": "脚尖换重心、手指敲击或搓动",
+    "voice": "语速变快、呼吸短"
+  },
+  "prompt": "他脚尖来回换着重心，手指在桌沿敲出细碎节奏，回答越说越快，呼吸卡在句子中间",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "焦虑/不安"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

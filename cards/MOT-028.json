@@ -1,0 +1,26 @@
+{
+  "id": "MOT-028",
+  "title": "分段错峰模板",
+  "category": "motion",
+  "tags": [
+    "分段错峰模板"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "```text\n启动：重心/骨盆先改变方向。\n传导：胸腔跟随，肩部形成轻微扭转，头与视线最后到位。\n命中：主手先完成动作，另一只手或道具晚半拍稳定身体。\n收束：头发、衣角、手指和胸口起伏继续一小段后停稳。\n```\n\n示例：她听见身后有人叫名字，眼神先停住，骨盆带着重心转向声源；胸腔和肩膀随后拧回，头最后转到位。右手先按住桌沿停稳，左手里的纸张晚半拍晃动两次，衣角在身体停住后才落下。",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "分段错峰模板"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

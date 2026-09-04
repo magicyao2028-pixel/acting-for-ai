@@ -1,0 +1,618 @@
+[
+  {
+    "id": "SRC-001",
+    "title": "Stanislavski's system",
+    "url": "https://en.wikipedia.org/wiki/Stanislavski%27s_system",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-002",
+    "title": "Given circumstances",
+    "url": "https://en.wikipedia.org/wiki/Given_circumstances",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-003",
+    "title": "Meisner technique",
+    "url": "https://en.wikipedia.org/wiki/Meisner_technique",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-004",
+    "title": "Laban movement analysis",
+    "url": "https://en.wikipedia.org/wiki/Laban_movement_analysis",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-005",
+    "title": "Viewpoints",
+    "url": "https://en.wikipedia.org/wiki/Viewpoints",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-006",
+    "title": "Facial Action Coding System",
+    "url": "https://en.wikipedia.org/wiki/Facial_Action_Coding_System",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-007",
+    "title": "Body language",
+    "url": "https://en.wikipedia.org/wiki/Body_language",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-008",
+    "title": "Twelve basic principles of animation",
+    "url": "https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-009",
+    "title": "Anticipation animation principle",
+    "url": "https://en.wikipedia.org/wiki/Anticipation_(animation)",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-010",
+    "title": "Follow through and overlapping action",
+    "url": "https://en.wikipedia.org/wiki/Follow_through_and_overlapping_action",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-011",
+    "title": "Emotion classification / Berkeley 27 emotions",
+    "url": "https://en.wikipedia.org/wiki/Emotion_classification",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-012",
+    "title": "Paul Ekman expanded emotions",
+    "url": "https://en.wikipedia.org/wiki/Paul_Ekman",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-013",
+    "title": "GOTE acting analysis",
+    "url": "https://en.wikipedia.org/wiki/GOTE",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-014",
+    "title": "Method acting objectives / obstacles / intentions",
+    "url": "https://en.wikipedia.org/wiki/Method_acting",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-015",
+    "title": "Mise-en-scene / 场面调度",
+    "url": "https://zh.wikipedia.org/wiki/%E5%9C%BA%E9%9D%A2%E8%B0%83%E5%BA%A6",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-016",
+    "title": "Stella Adler Studio of Acting course areas",
+    "url": "https://en.wikipedia.org/wiki/Stella_Adler_Studio_of_Acting",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-017",
+    "title": "演员的自我修养",
+    "url": "https://zh.wikipedia.org/wiki/%E6%BC%94%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-018",
+    "title": "斯坦尼斯拉夫斯基体系",
+    "url": "https://zh.wikipedia.org/wiki/%E6%96%AF%E5%9D%A6%E5%B0%BC%E6%96%AF%E6%8B%89%E5%A4%AB%E6%96%AF%E5%9F%BA%E4%BD%93%E7%B3%BB",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-019",
+    "title": "Animation Mentor — Follow-through and Overlapping Action",
+    "url": "https://www.animationmentor.com/blog/follow-through-and-overlapping-action-the-12-basic-principles-of-animation/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-020",
+    "title": "Animation Mentor — Twinning and Why You Should (Usually) Avoid It",
+    "url": "https://www.animationmentor.com/blog/twinning-and-why-you-should-usually-avoid-it/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-021",
+    "title": "Acrobat of the Heart — Free sample lessons",
+    "url": "https://www.video.acrobatoftheheart.com/sample-lessons/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-022",
+    "title": "上海大学上海电影学院表演基础训练公开课（课程页面）",
+    "url": "https://www.bilibili.com/video/BV1P14y1W7k6/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-023",
+    "title": "RADA — Stanislavski: Physical Action",
+    "url": "https://www.rada.ac.uk/short-courses/stanislavski-physical-action/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-024",
+    "title": "Animation Mentor — How to Animate Blinks and Eye Movements for Subtlety",
+    "url": "https://www.animationmentor.com/blog/tutorial-animate-blinks-eye-movement/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-025",
+    "title": "Animation Mentor — 10 Advanced Acting Performance Tips for Animators",
+    "url": "https://www.animationmentor.com/blog/10-advanced-acting-performance-tips-for-animators/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-026",
+    "title": "中国传媒教育知识服务平台 —《林老师教表演》",
+    "url": "https://www.cucp.com.cn/Course/Series/4",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-027",
+    "title": "中国传媒教育知识服务平台 —《台词基本功训练教程》",
+    "url": "https://www.cucp.com.cn/Book/Details/2204",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-028",
+    "title": "Animation Mentor — Choosing the Best Poses for Your Acting Shot",
+    "url": "https://www.animationmentor.com/blog/choosing-the-best-poses-for-your-acting-shot/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-029",
+    "title": "北京现代音乐研修学院公开课 —《舞台语言表现技巧——停顿》",
+    "url": "https://news.bjcma.com/Item/18260.aspx",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-030",
+    "title": "佳声艺考 —《表演生动起来！居家就能练的台词+形体干货》",
+    "url": "https://www.jiashengyikao.com/news/info/2782.html",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-031",
+    "title": "Frontiers in Psychology — How Shall I Count the Ways?",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00572/full",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-032",
+    "title": "Laban/Bartenieff Institute — Embodied Meaning",
+    "url": "https://labaninstitute.org/embodied-meaning/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-033",
+    "title": "Michael Chekhov School — Psychological Gesture Course",
+    "url": "https://michaelchekhovschool.org/psychological-gesture-course/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-034",
+    "title": "University of Maine — Michael Chekhov and His Approach to Acting in Contemporary Performance Training",
+    "url": "https://digitalcommons.library.umaine.edu/etd/615/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-035",
+    "title": "上海科技大学 —《戏剧表演》教学大纲",
+    "url": "https://eams.shanghaitech.edu.cn/eams/courseSearchOther%21info.action?syllabusIds=903",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-036",
+    "title": "南京艺术学院 / 中国大学 MOOC —《形体训练》",
+    "url": "https://www.icourse163.org/course/NJARTY-1450293301?outVendor=zw_mooc_pclszykctj_",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-037",
+    "title": "Toon Boom Learn — Acting",
+    "url": "https://learn.toonboom.com/modules/take-animation/topic/acting?c=18",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-038",
+    "title": "Walt Disney Animation Studios — Animation Process",
+    "url": "https://disneyanimation.com/process/animation/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-039",
+    "title": "上海戏剧学院 — 2026年《舞台表现力进修班》招生简章",
+    "url": "https://www.sta.edu.cn/e6/7f/c4953a124543/page.htm",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-040",
+    "title": "Animation Mentor — Animating Emotion Through Body Language",
+    "url": "https://www.animationmentor.com/blog/tutorial-animating-emotion-through-body-language/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-04",
+    "scope": "姿态、重心、轮廓和节奏可以承担情绪表达；本文不构成视频模型效果测试。"
+  },
+  {
+    "id": "SRC-041",
+    "title": "Backstage — Acting Tactics: How to Embody Your Character's Objective and Goals",
+    "url": "https://www.backstage.com/magazine/article/acting-tactics-examples-explained-76500/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-042",
+    "title": "Acting Magazine — What are Actions?",
+    "url": "https://actingmagazine.com/2019/04/what-are-actions/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-043",
+    "title": "Acting Magazine — What is an Actor's Objective?",
+    "url": "https://actingmagazine.com/2025/01/what-is-an-actors-objective/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-044",
+    "title": "Paul Ekman Group — Universal Facial Expressions",
+    "url": "https://www.paulekman.com/resources/universal-facial-expressions/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-045",
+    "title": "Paul Ekman Group — Types of Facial Expressions",
+    "url": "https://www.paulekman.com/nonverbal-communication/types-of-facial-expressions/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-046",
+    "title": "Carnegie Mellon University — Smiling Eyes Likely Don't Signify True Happiness After All",
+    "url": "https://www.cmu.edu/news/stories/archives/2021/january/smiling-eyes.html",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-047",
+    "title": "Sohu 演员圈 — 表演训练法：动作与情境练习",
+    "url": "https://www.sohu.com/a/133618312_298400",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-048",
+    "title": "湖北文理学院文传学院 —《影视表演基础》实验教学方案",
+    "url": "https://wxy.hbuas.edu.cn/info/1035/1157.htm",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-049",
+    "title": "StudioBinder — 3 Ways To Make Your Film Blocking More Interesting",
+    "url": "https://www.studiobinder.com/blog/film-blocking-techniques/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-050",
+    "title": "StudioBinder — How to Write Action Breaks in Dialogue",
+    "url": "https://www.studiobinder.com/blog/how-to-write-action-breaks-in-dialogue/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-051",
+    "title": "长江师范学院传媒学院 —《语言的情景与表达》课程教学大纲",
+    "url": "https://cmxy.yznu.edu.cn/_t1283/2024/0425/c8504a241047/pagem.htm",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-052",
+    "title": "国家高等教育智慧教育平台 —《表演课——基础元素训练》",
+    "url": "https://chinaooc.com.cn/course/68c9d500a9f4619f8f2f6329",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-053",
+    "title": "Animation Mentor — Blink for a Reason",
+    "url": "https://www.animationmentor.com/blog/blink-for-a-reason-acting-advice-from-ilm-lead-animator-shawn-kelly/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-054",
+    "title": "Animation Mentor — Facial Animation 101",
+    "url": "https://www.animationmentor.com/blog/facial-animation-101/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-055",
+    "title": "The Actors Forge — The Scene Work Toolkit",
+    "url": "https://www.theactorsforge.com/resources/the-scene-work-toolkit",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-056",
+    "title": "The Improv Archive — Pecking Order",
+    "url": "https://improvarchive.org/exercises/pecking-order",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-057",
+    "title": "GotAuditions — Status, Relationships & Power",
+    "url": "https://howtoselftape.com/academy/complete-acting-course/status-in-acting",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-058",
+    "title": "Kyle Branzel — Spatial Relationship",
+    "url": "https://www.kylebranzel.com/videos/viewpoints-spatial-relationship",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-059",
+    "title": "Fiveable — Blocking and Actor Placement",
+    "url": "https://fiveable.me/film-aesthetics/unit-3/blocking-actor-placement/study-guide/SeaXJpxJmQnYtYIe",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-060",
+    "title": "CODE — Movement Review / Laban Effort Actions",
+    "url": "https://www.code.on.ca/section/movement-review",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-061",
+    "title": "Macbeth the Film — Laban Inspired Exercise",
+    "url": "https://www.macbeththefilm.co.uk/lesson-activities/resource2/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-062",
+    "title": "Mapping Collaboration Toolbox — Laban Effort",
+    "url": "https://mappingcollaboration.com/laban-effort",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-063",
+    "title": "超星 — 影视表演身体语言与景别摘录",
+    "url": "https://mooc1.chaoxing.com/mooc-ans/ztnodedetailcontroller/visitnodedetail?_from_=&courseId=85486694&knowledgeId=85486704&rtag=",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-064",
+    "title": "Stella Adler Studio — Online Acting Technique 1: Foundation",
+    "url": "https://classes.stellaadler.com/workshops/acting-technique-1-foundation-online/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-065",
+    "title": "Stella Adler Studio — Imagination in Action Intensive",
+    "url": "https://classes.stellaadler.com/classes/online-programs/teacher-intensive/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-066",
+    "title": "Acting Studio Chicago — Level 1: Introduction to Shurtleff",
+    "url": "https://www.actingstudiochicago.com/adult-acting-classes/core/level-1-introduction-to-shurtleff",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-067",
+    "title": "TheatreFolk — The Actor in Transition: From Presentational to Three-Dimensional",
+    "url": "https://www.theatrefolk.com/dta_units/the-actor-in-transition-from-presentational-to-three-dimensional",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-068",
+    "title": "Animation Mentor — Building Appealing Character Poses for Animation",
+    "url": "https://www.animationmentor.com/blog/tutorial-building-appealing-character-poses-for-animation/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-069",
+    "title": "Animation Mentor — Push Appeal & Clarity in Your Posing",
+    "url": "https://www.animationmentor.com/blog/free-workshop-appeal-clarity-posing/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-070",
+    "title": "Senses of Cinema — An Analysis of the Character Animation in Disney's Tangled",
+    "url": "https://www.sensesofcinema.com/2013/feature-articles/an-analysis-of-the-character-animation-in-disneys-tangled/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-071",
+    "title": "AnimSchool — Animating the Eye Dart",
+    "url": "https://blog.animschool.edu/2022/08/31/animating-the-eye-dart/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-072",
+    "title": "Backstage — How to Act Realistically",
+    "url": "https://www.backstage.com/magazine/article/how-to-act-realistically-75551/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-073",
+    "title": "Acting Magazine — What is an Objective?",
+    "url": "https://actingmagazine.com/2018/11/what-is-an-objective/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-074",
+    "title": "AnimSchool — Acting Through Anticipation",
+    "url": "https://blog.animschool.edu/2024/07/19/acting-through-anticipation/",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-075",
+    "title": "百度百科 — 无实物表演",
+    "url": "https://baike.baidu.com/item/%E6%97%A0%E5%AE%9E%E7%89%A9%E8%A1%A8%E6%BC%94/9593175",
+    "review_status": "inherited_reference",
+    "last_checked": null,
+    "scope": "理论或课程背景；不代表来源作者验证了本仓库的具体提示词。"
+  },
+  {
+    "id": "SRC-076",
+    "title": "Exercise: Mimed Relationships",
+    "url": "https://www.theatrefolk.com/blog/exercise-mimed-relationships",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-04",
+    "scope": "无台词练习通过身体行动呈现关系；镜头表演需自行校准幅度。"
+  },
+  {
+    "id": "SRC-077",
+    "title": "High Status/Low Status Character Physicality",
+    "url": "https://www.theatrefolk.com/blog/high-statuslow-status-character-physicality",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-04",
+    "scope": "地位关系可以通过身体与空间选择呈现；具体动作仍取决于处境。"
+  }
+]

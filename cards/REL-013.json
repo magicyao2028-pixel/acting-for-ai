@@ -1,0 +1,29 @@
+{
+  "id": "REL-013",
+  "title": "对象关系切换/身份差",
+  "category": "relationship",
+  "tags": [
+    "对象关系切换/身份差"
+  ],
+  "channels": {
+    "initiator": "面对亲近者时身体正对、视线停留、手势可越过个人边界",
+    "responder": "面对权威或陌生者时身体略侧、手势收回自身范围、先确认再开口"
+  },
+  "prompt": "她对朋友说话时身体正对着对方，手肘自然搭上椅背，视线一直停在朋友脸上；主管走近后，她先把手收回膝前，肩膀转开一点让出通道，抬眼确认对方已经停下才开口，音量也压低半级。",
+  "guidance": "同一句话随对象改变视线时长、身体朝向、音量与停顿；不要只换表情",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "对象关系切换/身份差"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

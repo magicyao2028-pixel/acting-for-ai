@@ -1,0 +1,31 @@
+{
+  "id": "REL-017",
+  "title": "沉默交流/真听真看",
+  "category": "relationship",
+  "tags": [
+    "沉默交流/真听真看"
+  ],
+  "channels": {
+    "initiator": "一方先用视线、呼吸、停顿接住信息",
+    "responder": "另一方根据对方反应再调整距离、手势或音量"
+  },
+  "prompt": "她说完最后一句后没有继续解释，只看着他的眼睛等反应；他先低头吸了一口气，手指停在门把上没有转动，过了半秒才重新看向她，身体从要离开的角度慢慢转回来。",
+  "guidance": "无台词也要写对象、判断和回应；不要让两人各演各的情绪",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-076"
+  ],
+  "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "沉默交流/真听真看"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

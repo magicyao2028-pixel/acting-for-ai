@@ -1,0 +1,30 @@
+{
+  "id": "EMO-036",
+  "title": "身体排斥/不愿接触",
+  "category": "emotion",
+  "tags": [
+    "身体排斥/不愿接触"
+  ],
+  "channels": {
+    "face": "鼻梁皱起，上唇轻提，眼神不愿停在对象上",
+    "body_hands": "手掌向外挡，脚尖和胸口偏离对象，身体先给自己让出空间",
+    "voice": "词变短，语气干硬，呼气先出来"
+  },
+  "prompt": "她还没说“不”，手掌已经挡在身体前，脚尖先偏向旁边，视线从对方递来的东西上滑开，声音短而硬",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "身体排斥/不愿接触"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

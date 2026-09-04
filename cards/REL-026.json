@@ -1,0 +1,29 @@
+{
+  "id": "REL-026",
+  "title": "责任交接/被托付",
+  "category": "relationship",
+  "tags": [
+    "责任交接/被托付"
+  ],
+  "channels": {
+    "initiator": "交付方把物件、位置或信息慢慢推到对方可接范围",
+    "responder": "接收方先看物件重量，再调整站姿或握法"
+  },
+  "prompt": "老人没有把钥匙直接塞给她，只是慢慢推到桌面中央，手指停在钥匙圈上多留了一拍；她先看钥匙，再看老人低下去的手，肩膀沉了一下，随后把钥匙握进掌心，站位从门边挪回房间中央。",
+  "guidance": "不写“责任重大”，写交付物、接住前停顿、肩背变化和交接后的空间位置",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "责任交接/被托付"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

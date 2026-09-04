@@ -1,0 +1,26 @@
+{
+  "id": "MOT-004",
+  "title": "思考过程可见化",
+  "category": "motion",
+  "tags": [
+    "思考过程可见化"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；保留动作因果、接触点和结束状态，不把全部动作规则同时堆进提示词。",
+  "reference_text": "| 思考状态 | 眼部节拍 | 身体配合 | 提示词写法 |\n|---|---|---|---|\n| 搜索信息 | 视线快速扫过少量关键点，每次扫视后有短暂定焦 | 头部晚于眼睛跟随，手上动作减速 | 眼神先扫过门口和桌面，在钥匙上停住，头才慢半拍转过去 |\n| 困惑/比较 | 两个目标间往返一次，慢眨眼或半眨眼后重新定焦 | 头略偏，眉眼不完全对称 | 视线在两张照片之间折返，一侧眉毛抬起，慢眨一次后重新看向对方 |\n| 紧张/快速盘算 | 眼跳偏快但不连续乱扫，短定焦之间夹快速眨眼 | 手指小幅收紧，呼吸变短 | 眼神在出口和对方手上各停一下，快速眨眼，指尖把袖口捏紧 |\n| 恐惧/高度专注 | 长时间锁定目标，眨眼减少或延后 | 身体僵住，呼吸暂扣 | 她盯住黑暗里的轮廓没有眨眼，胸口停住半拍，头部几乎不动 |",
+  "source_ids": [],
+  "source_note": "继承作者动作质感模块；模块内部列出的理论名称属于参考背景，精确来源对应可在后续更新补齐。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "04_动作质感与视频.md",
+    "source_heading": "思考过程可见化"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "EMO-028",
+  "title": "防御性坦白",
+  "category": "emotion",
+  "tags": [
+    "防御性坦白"
+  ],
+  "channels": {
+    "face": "眼神主动迎上但停不稳，眉心紧绷",
+    "body_hands": "胸口打开一半，手掌摊开又收回，身体保持可退距离",
+    "voice": "句子更直，停顿短，尾音带硬度"
+  },
+  "prompt": "她抬眼看住他，像是终于决定说实话，但手掌只摊开到一半又收回腹前；每句话都很直，句尾却绷着一层防备",
+  "guidance": "先确定角色处境与目标，再选择合适的身体通道。动作是创作选择，不是判断现实人物心理的固定规则。",
+  "reference_text": "",
+  "source_ids": [],
+  "source_note": "来自作者既有资料库；历史参考见 sources/registry.json。尚未逐条建立外部原文与本卡的精确对应，勿将书目视为逐字来源。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "02_基础情绪.md",
+    "source_heading": "防御性坦白"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}

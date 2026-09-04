@@ -1,0 +1,33 @@
+{
+  "id": "REL-023",
+  "title": "地位试探/谁先让步",
+  "category": "relationship",
+  "tags": [
+    "地位试探/谁先让步",
+    "status",
+    "power"
+  ],
+  "channels": {
+    "initiator": "一方用眼神保持、占据空间、慢动作或沉默抬高地位",
+    "responder": "另一方先眨眼、后退、补笑、解释或让开通道"
+  },
+  "prompt": "两人隔着桌角站住，他没有先开口，只把文件慢慢推到桌面中央，眼神保持在她脸上；她先眨了一下眼，手从椅背上收回，侧身让出半步，才用更低的声音接话。",
+  "guidance": "地位不是身份标签；必须写“谁先移开视线、谁先让路、谁控制停顿”",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-077"
+  ],
+  "source_note": "动作写法继承作者既有资料库；所列外部链接经本次复查，用于支持身体表达、无台词关系或地位身体化的背景原理。具体提示词由作者资料库转化，不是原文引用，也不表示来源作者验证了生成效果。",
+  "provenance": {
+    "origin": "author-maintained performance-visibility library",
+    "source_version": "0.1.10",
+    "source_module": "03_关系场景.md",
+    "source_heading": "地位试探/谁先让步"
+  },
+  "validation": {
+    "scope": "library_method",
+    "status": "author_verified_in_practice",
+    "per_entry_record": "not_separately_published"
+  },
+  "updated": "2026-09-04"
+}
