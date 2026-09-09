@@ -26,6 +26,31 @@ class LibraryTests(unittest.TestCase):
         self.assertEqual([],lib.search(self.cards,'no-such-reference-9b17'))
         self.assertEqual([],lib.search(self.cards,' '))
 
+    def test_search_filters_category_and_reads_guidance(self):
+        relationships = lib.search(self.cards,'permission',category='relationship')
+        self.assertTrue(relationships)
+        self.assertTrue(all(card['category'] == 'relationship' for card in relationships))
+        sample = copy.deepcopy(self.cards[0])
+        sample['title'] = 'unrelated'
+        sample['tags'] = []
+        sample['channels'] = {}
+        sample['prompt'] = ''
+        sample['reference_text'] = ''
+        sample['guidance'] = 'needle-only-guidance-term'
+        self.assertEqual(sample['id'],lib.search([sample],'needle-only-guidance-term')[0]['id'])
+
+    def test_search_payload_is_stable_and_traceable(self):
+        payload = lib.search_payload(self.cards,'permission',limit=3,category='relationship')
+        self.assertEqual(1,payload['schema_version'])
+        self.assertEqual('relationship',payload['filters']['category'])
+        self.assertLessEqual(payload['result_count'],3)
+        self.assertEqual(payload['result_count'],len(payload['results']))
+        first = payload['results'][0]
+        self.assertEqual('REL-030',first['id'])
+        self.assertEqual('cards/REL-030.json',first['json_path'])
+        self.assertEqual('docs/cards/REL-030.md',first['markdown_path'])
+        self.assertIn('status',first['validation'])
+
     def test_reject_duplicate_and_unbound_sources(self):
         bad = copy.deepcopy(self.cards[:2])
         bad[1]['id'] = bad[0]['id']

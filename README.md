@@ -47,6 +47,7 @@ Acting for AI 是一个面向 AI 视频、动画和导演分镜的开放表演�
 - 单条原始数据示例：[REL-030.json](cards/REL-030.json)
 - 离线搜索：`python scripts/library.py search "许可"`
 - 英文关键词示例：`python scripts/library.py search "restraint"`（英文别名覆盖部分条目）
+- Agent 可读取的检索结果：`python scripts/library.py search "permission" --category relationship --format json`
 
 本库提供表演参考，不接管接入技能的角色、结构、权限或生成流程，也不预设视频模型的输出格式。接入后仍由你的技能完成情境判断与模型适配。
 

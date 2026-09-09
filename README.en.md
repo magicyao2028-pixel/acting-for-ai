@@ -27,6 +27,7 @@ Offline usage (Python 3.10+, standard library only):
 
 ```sh
 python scripts/library.py search "restraint"
+python scripts/library.py search "permission" --category relationship --format json
 python scripts/library.py show REL-030
 python scripts/library.py check
 python scripts/library.py build --check

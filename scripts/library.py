@@ -74,19 +74,50 @@ def validate(cards, sources):
     return errors
 
 
-def search(cards, query, limit=5):
+def search(cards, query, limit=5, category=None):
     terms = query.casefold().split()
     if not terms:
         return []
     ranked = []
     for c in cards:
+        if category and c['category'] != category:
+            continue
         title = (c['title'] + ' ' + ' '.join(c['tags']) + ' ' + c['id']).casefold()
-        body = json.dumps(c.get('channels', {}), ensure_ascii=False).casefold() + ' ' + c.get('prompt', '').casefold() + ' ' + c.get('reference_text', '').casefold()
+        body = ' '.join([
+            c.get('guidance', ''),
+            json.dumps(c.get('channels', {}), ensure_ascii=False),
+            c.get('prompt', ''),
+            c.get('reference_text', ''),
+        ]).casefold()
         score = sum(10 if t in title else 1 if t in body else 0 for t in terms)
         if score:
             ranked.append((score, c))
     ranked.sort(key=lambda x: (-x[0], x[1]['id']))
     return [c for _, c in ranked[:limit]]
+
+
+def search_payload(cards, query, limit=5, category=None):
+    """Return a stable, compact search contract for tools and Agents."""
+    results = search(cards, query, limit, category)
+    return {
+        'schema_version': 1,
+        'query': query,
+        'filters': {'category': category},
+        'limit': limit,
+        'result_count': len(results),
+        'results': [
+            {
+                'id': card['id'],
+                'title': card['title'],
+                'category': card['category'],
+                'tags': card['tags'],
+                'json_path': f"cards/{card['id']}.json",
+                'markdown_path': f"docs/cards/{card['id']}.md",
+                'validation': card['validation'],
+            }
+            for card in results
+        ],
+    }
 
 
 def json_text(value):
@@ -167,7 +198,7 @@ def check_repository(root, cards, sources, manifest):
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest='command', required=True)
-    s = sub.add_parser('search'); s.add_argument('query'); s.add_argument('--limit', type=int, default=5)
+    s = sub.add_parser('search'); s.add_argument('query'); s.add_argument('--limit', type=int, default=5); s.add_argument('--category', choices=PREFIXES); s.add_argument('--format', choices={'text', 'json'}, default='text')
     s = sub.add_parser('show'); s.add_argument('id')
     sub.add_parser('check')
     s = sub.add_parser('build'); s.add_argument('--check', action='store_true')
@@ -177,7 +208,10 @@ def main(argv=None):
         if args.command == 'search':
             if not 1 <= args.limit <= 100:
                 parser.error('--limit must be between 1 and 100')
-            result = search(cards,args.query,args.limit)
+            result = search(cards,args.query,args.limit,args.category)
+            if args.format == 'json':
+                print(json_text(search_payload(cards,args.query,args.limit,args.category)),end='')
+                return 0
             for c in result:
                 print(f"{c['id']} | {c['title']} | docs/cards/{c['id']}.md")
             if not result:

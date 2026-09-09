@@ -36,8 +36,11 @@ Python 3.10 及以上，无第三方依赖，无网络请求，无生成费用�
 ```sh
 python scripts/library.py search "隐忍"
 python scripts/library.py search "permission" --limit 3
+python scripts/library.py search "permission" --category relationship --format json
 python scripts/library.py show REL-030
 ```
+
+`--format json` 返回稳定的机器可读检索结果，包括条目编号、分类、标签、JSON／Markdown 路径和验证范围。接入方先读取这份轻量结果，再按路径读取少量完整条目；`--category` 可限制为 `emotion`、`relationship` 或 `motion`。输出只提供参考定位，不自动改写提示词，也不把作者整体实践验证扩大成逐条模型实测。
 
 ```python
 import json
