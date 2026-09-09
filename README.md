@@ -61,7 +61,7 @@ Acting for AI 是一个面向 AI 视频、动画和导演分镜的开放表演�
 
 引用时请注明作者账号、项目名称、版本和条目编号，例如：
 
-> magicyao2028-pixel. *Acting for AI: 表演可视化参考库*. v0.1.0, REL-030「请求许可／等待同意」.
+> magicyao2028-pixel. *Acting for AI: 表演可视化参考库*. v0.2.0, REL-030「请求许可／等待同意」.
 
 复现时请固定具体版本或提交，不依赖不断变化的 `main`。本库暂无 DOI。[CITATION.cff](CITATION.cff) 提供机器可读引用信息。
 
