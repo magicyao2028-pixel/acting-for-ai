@@ -1,0 +1,31 @@
+{
+  "id": "MOT-033",
+  "title": "预备动作按景别缩放",
+  "category": "motion",
+  "tags": [
+    "预备动作按景别缩放",
+    "anticipation",
+    "framing"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按镜头景别决定预备动作幅度；同一个意图在远景、中景和近景不能写成同一组动作。",
+  "reference_text": "预备动作要让观众读到方向、力度和决定，但幅度必须服务当前景别。\n\n| 景别 | 更容易读到的预备动作 | 提示词写法 |\n|---|---|---|\n| 远景/全身 | 剪影、重心、躯干方向、步幅变化 | 先让重心压到前脚掌，肩线转向目标，再启动大步靠近 |\n| 中景 | 身体力学加头眼目标 | 眼神先定到门把，肩膀微微预转，手随后伸出 |\n| 近景 | 眼、呼吸、手指、肩颈小幅变化 | 指尖先收紧，短吸气后停半拍，再把信封推过界线 |\n\n示例：同样是“决定离开”，远景写脚步和身体路线，中景写头眼与肩线先转向门口，近景只保留手指松开杯沿、吸气和视线离开对方。",
+  "source_ids": [
+    "SRC-082",
+    "SRC-083"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.1",
+    "source_module": "weekly public source review",
+    "source_heading": "预备动作按景别缩放"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-11"
+}

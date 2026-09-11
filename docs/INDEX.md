@@ -1,12 +1,12 @@
 # 资料索引
 
-版本 0.2.0 · 共 107 个参考条目。
+版本 0.2.1 · 共 113 个参考条目。
 
 本文件自动生成。修改 cards/*.json 后重新导出。
 
 [使用方法](METHOD.md) · [技能接入](INTEGRATION.md) · [情绪组合示例](combination-examples.md)
 
-## 情绪与状态（45）
+## 情绪与状态（47）
 
 - [EMO-001 · 大笑](cards/EMO-001.md)
 - [EMO-002 · 冷笑/轻蔑](cards/EMO-002.md)
@@ -53,8 +53,10 @@
 - [EMO-043 · 被误会后急于澄清又不能失态](cards/EMO-043.md)
 - [EMO-044 · 临时失控后迅速收回](cards/EMO-044.md)
 - [EMO-045 · 终于下定决心但仍害怕](cards/EMO-045.md)
+- [EMO-046 · 被迫等待消息时强装无事](cards/EMO-046.md)
+- [EMO-047 · 被权威认可后仍保持低姿态](cards/EMO-047.md)
 
-## 人物关系（31）
+## 人物关系（33）
 
 - [REL-001 · 审讯/压迫](cards/REL-001.md)
 - [REL-002 · 暧昧/靠近](cards/REL-002.md)
@@ -87,8 +89,10 @@
 - [REL-029 · 被追问/被迫自证](cards/REL-029.md)
 - [REL-030 · 请求许可/等待同意](cards/REL-030.md)
 - [REL-031 · 共同隐瞒/互相掩护](cards/REL-031.md)
+- [REL-032 · 无词确认关系](cards/REL-032.md)
+- [REL-033 · 替对方留台阶](cards/REL-033.md)
 
-## 动作质感与节拍（31）
+## 动作质感与节拍（33）
 
 - [MOT-001 · 动作质感](cards/MOT-001.md)
 - [MOT-002 · 视频时间链](cards/MOT-002.md)
@@ -121,3 +125,5 @@
 - [MOT-029 · 示例：愤怒地大笑](cards/MOT-029.md)
 - [MOT-030 · 示例：心虚后退](cards/MOT-030.md)
 - [MOT-031 · 示例：权力反转](cards/MOT-031.md)
+- [MOT-032 · 不可见关键物件的在场维持](cards/MOT-032.md)
+- [MOT-033 · 预备动作按景别缩放](cards/MOT-033.md)

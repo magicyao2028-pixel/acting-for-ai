@@ -1,0 +1,33 @@
+{
+  "id": "REL-032",
+  "title": "无词确认关系",
+  "category": "relationship",
+  "tags": [
+    "无词确认关系",
+    "wordless",
+    "nonverbal"
+  ],
+  "channels": {
+    "initiator": "一方先给出可接的物件、站位或眼神等待，不用解释关系",
+    "responder": "另一方通过是否接住、靠近、避开或同步动作确认当前关系"
+  },
+  "prompt": "她没有解释为什么留下，只把椅子往旁边挪出半个身位；他看了看那片空位，没有立刻坐下，先把外套搭到椅背上。她这才把手里的菜单推到两人中间。",
+  "guidance": "用可见邀请和回应建立关系；无词不是无事发生，必须有动作被对方读到并改变下一拍。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-078"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.1",
+    "source_module": "weekly public source review",
+    "source_heading": "无词确认关系"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-11"
+}

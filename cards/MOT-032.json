@@ -1,0 +1,31 @@
+{
+  "id": "MOT-032",
+  "title": "不可见关键物件的在场维持",
+  "category": "motion",
+  "tags": [
+    "不可见关键物件的在场维持",
+    "mime",
+    "object permanence"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "按当前镜头需要选用；只为关键物件保留在场提醒，次要物件用完即可退出焦点。",
+  "reference_text": "当道具不可见、生成不稳定或镜头暂时离开道具时，要用身体关系维持它的存在感，而不是反复口头说明。\n\n| 场景 | 可见写法 | 避免 |\n|---|---|---|\n| 关键物件离手后仍在场 | 人物离开后偶尔用余光、身体绕行或手势避让提醒它的位置 | 物件用完后完全消失，下一拍突然又被拿起 |\n| 远距离看见屏幕/物体 | 先建立视线落点，再用身体反应或简短模仿显示看到的内容 | 只写“他看见某物”，没有观众可读线索 |\n| 多人共享不可见物件 | 每个人接触同一高度、重量和方向，交接时保留手腕受力 | 交接前后尺寸和重量变化 |\n\n示例：她把不存在的首饰盒放到桌面右角后退开，肩膀仍绕开那一小块空间；说话时余光隔几秒轻轻落回盒子位置，直到他伸手时，她先看见手快碰到盒角，身体立刻前倾拦住。",
+  "source_ids": [
+    "SRC-080",
+    "SRC-081"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.1",
+    "source_module": "weekly public source review",
+    "source_heading": "不可见关键物件的在场维持"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-11"
+}

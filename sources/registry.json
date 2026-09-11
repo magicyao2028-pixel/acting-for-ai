@@ -614,5 +614,53 @@
     "review_status": "content_reviewed",
     "last_checked": "2026-09-04",
     "scope": "地位关系可以通过身体与空间选择呈现；具体动作仍取决于处境。"
+  },
+  {
+    "id": "SRC-078",
+    "title": "The Improv Archive — Without Words",
+    "url": "https://improvarchive.org/exercises/without-words",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-11",
+    "scope": "无词场景强调用身体行动、距离、表情、音色和节奏承载关系与情绪弧；不构成视频生成效果测试。"
+  },
+  {
+    "id": "SRC-079",
+    "title": "Old Vic Theatre — Status",
+    "url": "https://www.oldvictheatre.com/discover/the-hub/independent-learning/intermediate-directing/status/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-11",
+    "scope": "地位差可用冻结姿态、空间占用和只允许有限台词的互动练习呈现；具体动作需按剧情改写。"
+  },
+  {
+    "id": "SRC-080",
+    "title": "The Improv Archive — What's the Object?",
+    "url": "https://improvarchive.org/exercises/whats-the-object",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-11",
+    "scope": "无实物训练要求重量、质地、温度、形状和位置保持一致；用于道具与空间连续性提示词背景。"
+  },
+  {
+    "id": "SRC-081",
+    "title": "Contemporary Performance — Magic Show in Mime",
+    "url": "https://contemporaryperformance.com/2014/01/20/magic-show-in-mime-how-to-create-visible-objects/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-11",
+    "scope": "远距离维持不可见关键物件时，可通过余光、身体投射和关系反应提醒观众物件仍在场。"
+  },
+  {
+    "id": "SRC-082",
+    "title": "Animation Mentor — Body Mechanics Breakdown",
+    "url": "https://www.animationmentor.com/blog/animation-tips-tricks-what-makes-or-breaks-a-good-body-mechanics-shot/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-11",
+    "scope": "动作可信度来自人物意识到环境、内外力一致、身体部位按先后链条传导；不等于本库逐条模型实测。"
+  },
+  {
+    "id": "SRC-083",
+    "title": "Cursa — Anticipation and Clear Intent",
+    "url": "https://cursa.app/en/page/anticipation-and-clear-intent-preparing-the-audience-for-motion",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-11",
+    "scope": "预备动作需要按景别、角色能量和主动作强度缩放，保留 gather、hold、burst 的可读关系。"
   }
 ]

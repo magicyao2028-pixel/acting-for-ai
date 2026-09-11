@@ -1,0 +1,34 @@
+{
+  "id": "REL-033",
+  "title": "替对方留台阶",
+  "category": "relationship",
+  "tags": [
+    "替对方留台阶",
+    "face-saving",
+    "status"
+  ],
+  "channels": {
+    "initiator": "发现对方失误后，不直指错误，而是用站位、道具或话题制造可退路径",
+    "responder": "对方先停住尴尬动作，再顺着新路径把姿态恢复正常"
+  },
+  "prompt": "他看见她把名字叫错，没有纠正，只把签到表往她手边轻轻一推，语气自然地问“要不要再核一下顺序”。她的手停了一瞬，顺势低头看表，把刚才扬起的笑慢慢收成工作状态。",
+  "guidance": "留台阶要写被救场者如何接住；不要把关系写成单方面善意说明。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-079",
+    "SRC-078"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.1",
+    "source_module": "weekly public source review",
+    "source_heading": "替对方留台阶"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-11"
+}

@@ -619,3 +619,51 @@
 状态：`content_reviewed`；最近核查：2026-09-04。
 
 地位关系可以通过身体与空间选择呈现；具体动作仍取决于处境。
+
+## SRC-078 · The Improv Archive — Without Words
+
+[阅读原文](https://improvarchive.org/exercises/without-words)
+
+状态：`content_reviewed`；最近核查：2026-09-11。
+
+无词场景强调用身体行动、距离、表情、音色和节奏承载关系与情绪弧；不构成视频生成效果测试。
+
+## SRC-079 · Old Vic Theatre — Status
+
+[阅读原文](https://www.oldvictheatre.com/discover/the-hub/independent-learning/intermediate-directing/status/)
+
+状态：`content_reviewed`；最近核查：2026-09-11。
+
+地位差可用冻结姿态、空间占用和只允许有限台词的互动练习呈现；具体动作需按剧情改写。
+
+## SRC-080 · The Improv Archive — What's the Object?
+
+[阅读原文](https://improvarchive.org/exercises/whats-the-object)
+
+状态：`content_reviewed`；最近核查：2026-09-11。
+
+无实物训练要求重量、质地、温度、形状和位置保持一致；用于道具与空间连续性提示词背景。
+
+## SRC-081 · Contemporary Performance — Magic Show in Mime
+
+[阅读原文](https://contemporaryperformance.com/2014/01/20/magic-show-in-mime-how-to-create-visible-objects/)
+
+状态：`content_reviewed`；最近核查：2026-09-11。
+
+远距离维持不可见关键物件时，可通过余光、身体投射和关系反应提醒观众物件仍在场。
+
+## SRC-082 · Animation Mentor — Body Mechanics Breakdown
+
+[阅读原文](https://www.animationmentor.com/blog/animation-tips-tricks-what-makes-or-breaks-a-good-body-mechanics-shot/)
+
+状态：`content_reviewed`；最近核查：2026-09-11。
+
+动作可信度来自人物意识到环境、内外力一致、身体部位按先后链条传导；不等于本库逐条模型实测。
+
+## SRC-083 · Cursa — Anticipation and Clear Intent
+
+[阅读原文](https://cursa.app/en/page/anticipation-and-clear-intent-preparing-the-audience-for-motion)
+
+状态：`content_reviewed`；最近核查：2026-09-11。
+
+预备动作需要按景别、角色能量和主动作强度缩放，保留 gather、hold、burst 的可读关系。

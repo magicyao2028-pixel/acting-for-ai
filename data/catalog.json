@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "validation": {
     "status": "author_verified_in_practice",
     "statement": "作者已在实际创作中验证并持续使用这套表演可视化资料。完整视频案例暂不公开；当前不声称逐条、全模型或量化对照验证。",
@@ -1372,6 +1372,74 @@
       "updated": "2026-09-04"
     },
     {
+      "id": "EMO-046",
+      "title": "被迫等待消息时强装无事",
+      "category": "emotion",
+      "tags": [
+        "被迫等待消息时强装无事",
+        "waiting",
+        "restraint"
+      ],
+      "channels": {
+        "face": "眼神反复扫向消息来源又迅速移开，笑容维持在社交幅度内",
+        "body_hands": "手上的日常动作继续进行，但节奏被通知声、脚步声或他人视线打断",
+        "voice": "回答比平时快半拍，句尾轻轻压住，不让旁人听出急迫"
+      },
+      "prompt": "她一边把杯子摆回托盘，一边用余光扫向亮起的手机；同事看过来时她立刻抬头笑了一下，手继续擦桌面，只是抹布在同一个位置多停了两下。",
+      "guidance": "等待要写外部触发、强装正常和漏出的微小节奏差；不要只写“焦急”。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-078"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.1",
+        "source_module": "weekly public source review",
+        "source_heading": "被迫等待消息时强装无事"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "EMO-047",
+      "title": "被权威认可后仍保持低姿态",
+      "category": "emotion",
+      "tags": [
+        "被权威认可后仍保持低姿态",
+        "recognition",
+        "status"
+      ],
+      "channels": {
+        "face": "眼睛先亮起又压回平静，嘴角只短暂上扬",
+        "body_hands": "身体想前倾接住认可，随后把肩颈和手势收回原本位置",
+        "voice": "先轻声确认，再用简短回应把场面还给对方"
+      },
+      "prompt": "听见老师当众点头后，他的眼睛先亮了一瞬，手指已经要松开本子；下一秒他把本子贴回胸前，微微低头，只说了一句“我再改一版”，站位仍留在队伍边缘。",
+      "guidance": "认可后的喜悦和地位压力要同时存在：先让身体露出被看见，再让角色主动收住。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-079"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.1",
+        "source_module": "weekly public source review",
+        "source_heading": "被权威认可后仍保持低姿态"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-11"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -2186,6 +2254,68 @@
         "per_entry_record": "not_separately_published"
       },
       "updated": "2026-09-04"
+    },
+    {
+      "id": "MOT-032",
+      "title": "不可见关键物件的在场维持",
+      "category": "motion",
+      "tags": [
+        "不可见关键物件的在场维持",
+        "mime",
+        "object permanence"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按当前镜头需要选用；只为关键物件保留在场提醒，次要物件用完即可退出焦点。",
+      "reference_text": "当道具不可见、生成不稳定或镜头暂时离开道具时，要用身体关系维持它的存在感，而不是反复口头说明。\n\n| 场景 | 可见写法 | 避免 |\n|---|---|---|\n| 关键物件离手后仍在场 | 人物离开后偶尔用余光、身体绕行或手势避让提醒它的位置 | 物件用完后完全消失，下一拍突然又被拿起 |\n| 远距离看见屏幕/物体 | 先建立视线落点，再用身体反应或简短模仿显示看到的内容 | 只写“他看见某物”，没有观众可读线索 |\n| 多人共享不可见物件 | 每个人接触同一高度、重量和方向，交接时保留手腕受力 | 交接前后尺寸和重量变化 |\n\n示例：她把不存在的首饰盒放到桌面右角后退开，肩膀仍绕开那一小块空间；说话时余光隔几秒轻轻落回盒子位置，直到他伸手时，她先看见手快碰到盒角，身体立刻前倾拦住。",
+      "source_ids": [
+        "SRC-080",
+        "SRC-081"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.1",
+        "source_module": "weekly public source review",
+        "source_heading": "不可见关键物件的在场维持"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "MOT-033",
+      "title": "预备动作按景别缩放",
+      "category": "motion",
+      "tags": [
+        "预备动作按景别缩放",
+        "anticipation",
+        "framing"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "按镜头景别决定预备动作幅度；同一个意图在远景、中景和近景不能写成同一组动作。",
+      "reference_text": "预备动作要让观众读到方向、力度和决定，但幅度必须服务当前景别。\n\n| 景别 | 更容易读到的预备动作 | 提示词写法 |\n|---|---|---|\n| 远景/全身 | 剪影、重心、躯干方向、步幅变化 | 先让重心压到前脚掌，肩线转向目标，再启动大步靠近 |\n| 中景 | 身体力学加头眼目标 | 眼神先定到门把，肩膀微微预转，手随后伸出 |\n| 近景 | 眼、呼吸、手指、肩颈小幅变化 | 指尖先收紧，短吸气后停半拍，再把信封推过界线 |\n\n示例：同样是“决定离开”，远景写脚步和身体路线，中景写头眼与肩线先转向门口，近景只保留手指松开杯沿、吸气和视线离开对方。",
+      "source_ids": [
+        "SRC-082",
+        "SRC-083"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.1",
+        "source_module": "weekly public source review",
+        "source_heading": "预备动作按景别缩放"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-11"
     },
     {
       "id": "REL-001",
@@ -3095,6 +3225,73 @@
         "per_entry_record": "not_separately_published"
       },
       "updated": "2026-09-04"
+    },
+    {
+      "id": "REL-032",
+      "title": "无词确认关系",
+      "category": "relationship",
+      "tags": [
+        "无词确认关系",
+        "wordless",
+        "nonverbal"
+      ],
+      "channels": {
+        "initiator": "一方先给出可接的物件、站位或眼神等待，不用解释关系",
+        "responder": "另一方通过是否接住、靠近、避开或同步动作确认当前关系"
+      },
+      "prompt": "她没有解释为什么留下，只把椅子往旁边挪出半个身位；他看了看那片空位，没有立刻坐下，先把外套搭到椅背上。她这才把手里的菜单推到两人中间。",
+      "guidance": "用可见邀请和回应建立关系；无词不是无事发生，必须有动作被对方读到并改变下一拍。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-078"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.1",
+        "source_module": "weekly public source review",
+        "source_heading": "无词确认关系"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-11"
+    },
+    {
+      "id": "REL-033",
+      "title": "替对方留台阶",
+      "category": "relationship",
+      "tags": [
+        "替对方留台阶",
+        "face-saving",
+        "status"
+      ],
+      "channels": {
+        "initiator": "发现对方失误后，不直指错误，而是用站位、道具或话题制造可退路径",
+        "responder": "对方先停住尴尬动作，再顺着新路径把姿态恢复正常"
+      },
+      "prompt": "他看见她把名字叫错，没有纠正，只把签到表往她手边轻轻一推，语气自然地问“要不要再核一下顺序”。她的手停了一瞬，顺势低头看表，把刚才扬起的笑慢慢收成工作状态。",
+      "guidance": "留台阶要写被救场者如何接住；不要把关系写成单方面善意说明。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-079",
+        "SRC-078"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.1",
+        "source_module": "weekly public source review",
+        "source_heading": "替对方留台阶"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-11"
     }
   ]
 }

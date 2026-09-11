@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "entries": [
     {
       "id": "EMO-001",
@@ -460,6 +460,30 @@
       "markdown_path": "docs/cards/EMO-045.md"
     },
     {
+      "id": "EMO-046",
+      "title": "被迫等待消息时强装无事",
+      "category": "emotion",
+      "tags": [
+        "被迫等待消息时强装无事",
+        "waiting",
+        "restraint"
+      ],
+      "json_path": "cards/EMO-046.json",
+      "markdown_path": "docs/cards/EMO-046.md"
+    },
+    {
+      "id": "EMO-047",
+      "title": "被权威认可后仍保持低姿态",
+      "category": "emotion",
+      "tags": [
+        "被权威认可后仍保持低姿态",
+        "recognition",
+        "status"
+      ],
+      "json_path": "cards/EMO-047.json",
+      "markdown_path": "docs/cards/EMO-047.md"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -774,6 +798,30 @@
       "markdown_path": "docs/cards/MOT-031.md"
     },
     {
+      "id": "MOT-032",
+      "title": "不可见关键物件的在场维持",
+      "category": "motion",
+      "tags": [
+        "不可见关键物件的在场维持",
+        "mime",
+        "object permanence"
+      ],
+      "json_path": "cards/MOT-032.json",
+      "markdown_path": "docs/cards/MOT-032.md"
+    },
+    {
+      "id": "MOT-033",
+      "title": "预备动作按景别缩放",
+      "category": "motion",
+      "tags": [
+        "预备动作按景别缩放",
+        "anticipation",
+        "framing"
+      ],
+      "json_path": "cards/MOT-033.json",
+      "markdown_path": "docs/cards/MOT-033.md"
+    },
+    {
       "id": "REL-001",
       "title": "审讯/压迫",
       "category": "relationship",
@@ -1086,6 +1134,30 @@
       ],
       "json_path": "cards/REL-031.json",
       "markdown_path": "docs/cards/REL-031.md"
+    },
+    {
+      "id": "REL-032",
+      "title": "无词确认关系",
+      "category": "relationship",
+      "tags": [
+        "无词确认关系",
+        "wordless",
+        "nonverbal"
+      ],
+      "json_path": "cards/REL-032.json",
+      "markdown_path": "docs/cards/REL-032.md"
+    },
+    {
+      "id": "REL-033",
+      "title": "替对方留台阶",
+      "category": "relationship",
+      "tags": [
+        "替对方留台阶",
+        "face-saving",
+        "status"
+      ],
+      "json_path": "cards/REL-033.json",
+      "markdown_path": "docs/cards/REL-033.md"
     }
   ]
 }

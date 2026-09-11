@@ -1,0 +1,34 @@
+{
+  "id": "EMO-047",
+  "title": "被权威认可后仍保持低姿态",
+  "category": "emotion",
+  "tags": [
+    "被权威认可后仍保持低姿态",
+    "recognition",
+    "status"
+  ],
+  "channels": {
+    "face": "眼睛先亮起又压回平静，嘴角只短暂上扬",
+    "body_hands": "身体想前倾接住认可，随后把肩颈和手势收回原本位置",
+    "voice": "先轻声确认，再用简短回应把场面还给对方"
+  },
+  "prompt": "听见老师当众点头后，他的眼睛先亮了一瞬，手指已经要松开本子；下一秒他把本子贴回胸前，微微低头，只说了一句“我再改一版”，站位仍留在队伍边缘。",
+  "guidance": "认可后的喜悦和地位压力要同时存在：先让身体露出被看见，再让角色主动收住。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-079"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.1",
+    "source_module": "weekly public source review",
+    "source_heading": "被权威认可后仍保持低姿态"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-11"
+}
