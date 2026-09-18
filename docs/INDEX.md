@@ -1,12 +1,12 @@
 # 资料索引
 
-版本 0.2.1 · 共 113 个参考条目。
+版本 0.2.2 · 共 118 个参考条目。
 
 本文件自动生成。修改 cards/*.json 后重新导出。
 
 [使用方法](METHOD.md) · [技能接入](INTEGRATION.md) · [情绪组合示例](combination-examples.md)
 
-## 情绪与状态（47）
+## 情绪与状态（48）
 
 - [EMO-001 · 大笑](cards/EMO-001.md)
 - [EMO-002 · 冷笑/轻蔑](cards/EMO-002.md)
@@ -55,8 +55,9 @@
 - [EMO-045 · 终于下定决心但仍害怕](cards/EMO-045.md)
 - [EMO-046 · 被迫等待消息时强装无事](cards/EMO-046.md)
 - [EMO-047 · 被权威认可后仍保持低姿态](cards/EMO-047.md)
+- [EMO-048 · 想缩小存在感/身体收束](cards/EMO-048.md)
 
-## 人物关系（33）
+## 人物关系（34）
 
 - [REL-001 · 审讯/压迫](cards/REL-001.md)
 - [REL-002 · 暧昧/靠近](cards/REL-002.md)
@@ -91,8 +92,9 @@
 - [REL-031 · 共同隐瞒/互相掩护](cards/REL-031.md)
 - [REL-032 · 无词确认关系](cards/REL-032.md)
 - [REL-033 · 替对方留台阶](cards/REL-033.md)
+- [REL-034 · 主动让出焦点/替人卸压](cards/REL-034.md)
 
-## 动作质感与节拍（33）
+## 动作质感与节拍（36）
 
 - [MOT-001 · 动作质感](cards/MOT-001.md)
 - [MOT-002 · 视频时间链](cards/MOT-002.md)
@@ -127,3 +129,6 @@
 - [MOT-031 · 示例：权力反转](cards/MOT-031.md)
 - [MOT-032 · 不可见关键物件的在场维持](cards/MOT-032.md)
 - [MOT-033 · 预备动作按景别缩放](cards/MOT-033.md)
+- [MOT-034 · 道具关系暴露意图](cards/MOT-034.md)
+- [MOT-035 · 动作节奏纹理/停顿快切](cards/MOT-035.md)
+- [MOT-036 · 主姿态与微手势分层](cards/MOT-036.md)

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.1",
+  "version": "0.2.2",
   "entries": [
     {
       "id": "EMO-001",
@@ -484,6 +484,18 @@
       "markdown_path": "docs/cards/EMO-047.md"
     },
     {
+      "id": "EMO-048",
+      "title": "想缩小存在感/身体收束",
+      "category": "emotion",
+      "tags": [
+        "想缩小存在感/身体收束",
+        "withdrawal",
+        "bound movement"
+      ],
+      "json_path": "cards/EMO-048.json",
+      "markdown_path": "docs/cards/EMO-048.md"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -822,6 +834,42 @@
       "markdown_path": "docs/cards/MOT-033.md"
     },
     {
+      "id": "MOT-034",
+      "title": "道具关系暴露意图",
+      "category": "motion",
+      "tags": [
+        "道具关系暴露意图",
+        "prop",
+        "object relationship"
+      ],
+      "json_path": "cards/MOT-034.json",
+      "markdown_path": "docs/cards/MOT-034.md"
+    },
+    {
+      "id": "MOT-035",
+      "title": "动作节奏纹理/停顿快切",
+      "category": "motion",
+      "tags": [
+        "动作节奏纹理/停顿快切",
+        "timing",
+        "spacing"
+      ],
+      "json_path": "cards/MOT-035.json",
+      "markdown_path": "docs/cards/MOT-035.md"
+    },
+    {
+      "id": "MOT-036",
+      "title": "主姿态与微手势分层",
+      "category": "motion",
+      "tags": [
+        "主姿态与微手势分层",
+        "gesture layers",
+        "micro-pause"
+      ],
+      "json_path": "cards/MOT-036.json",
+      "markdown_path": "docs/cards/MOT-036.md"
+    },
+    {
       "id": "REL-001",
       "title": "审讯/压迫",
       "category": "relationship",
@@ -1158,6 +1206,18 @@
       ],
       "json_path": "cards/REL-033.json",
       "markdown_path": "docs/cards/REL-033.md"
+    },
+    {
+      "id": "REL-034",
+      "title": "主动让出焦点/替人卸压",
+      "category": "relationship",
+      "tags": [
+        "主动让出焦点/替人卸压",
+        "focus",
+        "ensemble"
+      ],
+      "json_path": "cards/REL-034.json",
+      "markdown_path": "docs/cards/REL-034.md"
     }
   ]
 }

@@ -662,5 +662,53 @@
     "review_status": "content_reviewed",
     "last_checked": "2026-09-11",
     "scope": "预备动作需要按景别、角色能量和主动作强度缩放，保留 gather、hold、burst 的可读关系。"
+  },
+  {
+    "id": "SRC-084",
+    "title": "TheatreFolk — How to Teach Blocking without Boring Your Students",
+    "url": "https://www.theatrefolk.com/blog/how-to-teach-blocking-without-boring-your-students",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-18",
+    "scope": "blocking 中的 levels、focus、status 可转写为群体视线、站位和焦点让渡；不构成视频生成效果测试。"
+  },
+  {
+    "id": "SRC-085",
+    "title": "TheatreFolk — Bound, Punch, Float Physicality Exercise",
+    "url": "https://www.theatrefolk.com/blog/bound-punch-float-physicality-exercise",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-18",
+    "scope": "bound、punch、float 作为身体形态和肢体延展练习，可转写为收束、扩张和轻浮质感。"
+  },
+  {
+    "id": "SRC-086",
+    "title": "Backstage — 7 Movement Techniques All Actors Should Know",
+    "url": "https://www.backstage.com/magazine/article/movement-techniques-actors-study-8763/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-18",
+    "scope": "动作训练、空间/时间/形状和身体张力可作为提示词动作语言背景；不表示来源作者验证本库。"
+  },
+  {
+    "id": "SRC-087",
+    "title": "Acting Magazine — What is a Prop in Acting?",
+    "url": "https://actingmagazine.com/2025/03/what-is-a-prop-in-acting/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-18",
+    "scope": "道具可服务人物定义、叙事推进、情绪上下文和真实感；本库只转写为可观察动作关系。"
+  },
+  {
+    "id": "SRC-088",
+    "title": "Animation Mentor — Tutorial: How to Animate with Timing and Spacing in Mind",
+    "url": "https://www.animationmentor.com/blog/tutorial-animate-with-timing-and-spacing-in-mind/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-18",
+    "scope": "timing/spacing、holds、quick transitions 和 retiming 可支持动作节奏纹理；不等于本库逐条模型实测。"
+  },
+  {
+    "id": "SRC-089",
+    "title": "Animation Mentor — Choosing the Best Poses for Your Acting Shot",
+    "url": "https://www.animationmentor.com/blog/choosing-the-best-poses-for-your-acting-shot/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-09-18",
+    "scope": "主姿态、微手势、节奏层和 micro-pauses 可转写为表演节拍；不声称单条生成测试。"
   }
 ]

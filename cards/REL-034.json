@@ -1,0 +1,34 @@
+{
+  "id": "REL-034",
+  "title": "主动让出焦点/替人卸压",
+  "category": "relationship",
+  "tags": [
+    "主动让出焦点/替人卸压",
+    "focus",
+    "ensemble"
+  ],
+  "channels": {
+    "initiator": "察觉对方被看住后，主动降低动作幅度、移开站位或把观众视线引向安全对象",
+    "responder": "对方先从紧绷中恢复呼吸，再用更小动作重新进入场面"
+  },
+  "prompt": "众人都看向她时，他没有替她解释，只把椅子轻轻拉响半寸，身体侧到灯下接住视线，低声说“先看这份记录”。她借这一瞬低头吸气，把僵住的手慢慢放回桌面。",
+  "guidance": "让出焦点要写视线如何被转移，以及被保护者如何借空隙恢复；不要只写“帮她解围”。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-084",
+    "SRC-079"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.2",
+    "source_module": "weekly public source review",
+    "source_heading": "主动让出焦点/替人卸压"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-18"
+}

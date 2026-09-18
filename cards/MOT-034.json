@@ -1,0 +1,31 @@
+{
+  "id": "MOT-034",
+  "title": "道具关系暴露意图",
+  "category": "motion",
+  "tags": [
+    "道具关系暴露意图",
+    "prop",
+    "object relationship"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "道具不只说明场景；要写角色如何拿、护、避开、递出或放下它，让物件关系替人物意图说话。",
+  "reference_text": "道具可承担人物目标、隐瞒、冲突或过往关系。写提示词时先确定物件在这场戏里的功能，再安排手部、视线和身体距离。\n\n| 物件功能 | 可见动作 | 避免 |\n|---|---|---|\n| 想隐藏 | 手掌盖住、身体挡住、说话时把物件推到阴影里 | 只写“他很心虚” |\n| 想交出 | 物件停在可接距离，手指仍舍不得松开 | 递完立刻无反应 |\n| 想占有 | 拿近胸口、随对方靠近而后撤 | 只写“珍贵道具” |\n| 想切断 | 放下时让接触点清楚断开，视线随物件离开 | 道具突然消失 |\n\n示例：她说自己已经放下，却把旧钥匙攥在掌心，指节泛白；当对方伸手时，她先把钥匙推到桌面中央，手指仍压着钥匙圈半拍才松开。",
+  "source_ids": [
+    "SRC-087",
+    "SRC-080"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.2",
+    "source_module": "weekly public source review",
+    "source_heading": "道具关系暴露意图"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-18"
+}

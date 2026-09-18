@@ -1,0 +1,34 @@
+{
+  "id": "EMO-048",
+  "title": "想缩小存在感/身体收束",
+  "category": "emotion",
+  "tags": [
+    "想缩小存在感/身体收束",
+    "withdrawal",
+    "bound movement"
+  ],
+  "channels": {
+    "posture": "肩颈内收，手肘贴近躯干，步幅变短，身体避开人群主视线",
+    "counter_signal": "仍保留一处想被理解的出口，例如手指碰到文件边缘或视线短暂抬起"
+  },
+  "prompt": "她被点名后没有立刻辩解，肩膀先收紧，手肘贴住身体，脚尖往桌脚后退半步；但右手仍轻轻压着那份报告的边缘，像是还想把真相递出去。",
+  "guidance": "收束不是消失；要写身体如何变小，也要保留一个仍在求助、坚持或等待机会的可见出口。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-085",
+    "SRC-086"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.2",
+    "source_module": "weekly public source review",
+    "source_heading": "想缩小存在感/身体收束"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-18"
+}

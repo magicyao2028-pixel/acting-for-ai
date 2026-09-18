@@ -667,3 +667,51 @@
 状态：`content_reviewed`；最近核查：2026-09-11。
 
 预备动作需要按景别、角色能量和主动作强度缩放，保留 gather、hold、burst 的可读关系。
+
+## SRC-084 · TheatreFolk — How to Teach Blocking without Boring Your Students
+
+[阅读原文](https://www.theatrefolk.com/blog/how-to-teach-blocking-without-boring-your-students)
+
+状态：`content_reviewed`；最近核查：2026-09-18。
+
+blocking 中的 levels、focus、status 可转写为群体视线、站位和焦点让渡；不构成视频生成效果测试。
+
+## SRC-085 · TheatreFolk — Bound, Punch, Float Physicality Exercise
+
+[阅读原文](https://www.theatrefolk.com/blog/bound-punch-float-physicality-exercise)
+
+状态：`content_reviewed`；最近核查：2026-09-18。
+
+bound、punch、float 作为身体形态和肢体延展练习，可转写为收束、扩张和轻浮质感。
+
+## SRC-086 · Backstage — 7 Movement Techniques All Actors Should Know
+
+[阅读原文](https://www.backstage.com/magazine/article/movement-techniques-actors-study-8763/)
+
+状态：`content_reviewed`；最近核查：2026-09-18。
+
+动作训练、空间/时间/形状和身体张力可作为提示词动作语言背景；不表示来源作者验证本库。
+
+## SRC-087 · Acting Magazine — What is a Prop in Acting?
+
+[阅读原文](https://actingmagazine.com/2025/03/what-is-a-prop-in-acting/)
+
+状态：`content_reviewed`；最近核查：2026-09-18。
+
+道具可服务人物定义、叙事推进、情绪上下文和真实感；本库只转写为可观察动作关系。
+
+## SRC-088 · Animation Mentor — Tutorial: How to Animate with Timing and Spacing in Mind
+
+[阅读原文](https://www.animationmentor.com/blog/tutorial-animate-with-timing-and-spacing-in-mind/)
+
+状态：`content_reviewed`；最近核查：2026-09-18。
+
+timing/spacing、holds、quick transitions 和 retiming 可支持动作节奏纹理；不等于本库逐条模型实测。
+
+## SRC-089 · Animation Mentor — Choosing the Best Poses for Your Acting Shot
+
+[阅读原文](https://www.animationmentor.com/blog/choosing-the-best-poses-for-your-acting-shot/)
+
+状态：`content_reviewed`；最近核查：2026-09-18。
+
+主姿态、微手势、节奏层和 micro-pauses 可转写为表演节拍；不声称单条生成测试。

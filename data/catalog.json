@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.1",
+  "version": "0.2.2",
   "validation": {
     "status": "author_verified_in_practice",
     "statement": "作者已在实际创作中验证并持续使用这套表演可视化资料。完整视频案例暂不公开；当前不声称逐条、全模型或量化对照验证。",
@@ -1440,6 +1440,40 @@
       "updated": "2026-09-11"
     },
     {
+      "id": "EMO-048",
+      "title": "想缩小存在感/身体收束",
+      "category": "emotion",
+      "tags": [
+        "想缩小存在感/身体收束",
+        "withdrawal",
+        "bound movement"
+      ],
+      "channels": {
+        "posture": "肩颈内收，手肘贴近躯干，步幅变短，身体避开人群主视线",
+        "counter_signal": "仍保留一处想被理解的出口，例如手指碰到文件边缘或视线短暂抬起"
+      },
+      "prompt": "她被点名后没有立刻辩解，肩膀先收紧，手肘贴住身体，脚尖往桌脚后退半步；但右手仍轻轻压着那份报告的边缘，像是还想把真相递出去。",
+      "guidance": "收束不是消失；要写身体如何变小，也要保留一个仍在求助、坚持或等待机会的可见出口。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-085",
+        "SRC-086"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.2",
+        "source_module": "weekly public source review",
+        "source_heading": "想缩小存在感/身体收束"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-18"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -2316,6 +2350,99 @@
         "per_entry_record": "source_reviewed_no_generation_test"
       },
       "updated": "2026-09-11"
+    },
+    {
+      "id": "MOT-034",
+      "title": "道具关系暴露意图",
+      "category": "motion",
+      "tags": [
+        "道具关系暴露意图",
+        "prop",
+        "object relationship"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "道具不只说明场景；要写角色如何拿、护、避开、递出或放下它，让物件关系替人物意图说话。",
+      "reference_text": "道具可承担人物目标、隐瞒、冲突或过往关系。写提示词时先确定物件在这场戏里的功能，再安排手部、视线和身体距离。\n\n| 物件功能 | 可见动作 | 避免 |\n|---|---|---|\n| 想隐藏 | 手掌盖住、身体挡住、说话时把物件推到阴影里 | 只写“他很心虚” |\n| 想交出 | 物件停在可接距离，手指仍舍不得松开 | 递完立刻无反应 |\n| 想占有 | 拿近胸口、随对方靠近而后撤 | 只写“珍贵道具” |\n| 想切断 | 放下时让接触点清楚断开，视线随物件离开 | 道具突然消失 |\n\n示例：她说自己已经放下，却把旧钥匙攥在掌心，指节泛白；当对方伸手时，她先把钥匙推到桌面中央，手指仍压着钥匙圈半拍才松开。",
+      "source_ids": [
+        "SRC-087",
+        "SRC-080"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.2",
+        "source_module": "weekly public source review",
+        "source_heading": "道具关系暴露意图"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-18"
+    },
+    {
+      "id": "MOT-035",
+      "title": "动作节奏纹理/停顿快切",
+      "category": "motion",
+      "tags": [
+        "动作节奏纹理/停顿快切",
+        "timing",
+        "spacing"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "同一动作不要匀速到底；用短停、预备、快速命中和收束余波制造情绪节奏。",
+      "reference_text": "把动作写成节奏，而不是连续说明。先决定哪一拍需要观众读懂，哪一拍需要爆发或切断。\n\n| 节奏功能 | 提示词写法 | 适用 |\n|---|---|---|\n| 黏住悬停 | 动作停在半空，呼吸压住，下一拍突然落下 | 犹豫、威胁、喜剧反差 |\n| 快速命中 | 预备很短，主动作干脆，落点清楚 | 决断、攻击、抢答 |\n| 慢预备快释放 | 先聚气/聚焦/握紧，再突然完成动作 | 怒意、突破、压抑爆发 |\n| 爆发后余波 | 主动作结束后保留衣角、道具、胸口起伏 | 后悔、惊吓、强烈转折 |\n\n示例：他抬手要敲门，指节停在门板前半寸，呼吸悬住；下一秒连续敲两下，敲完手仍贴在门上，没有立刻放下。",
+      "source_ids": [
+        "SRC-088",
+        "SRC-089"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.2",
+        "source_module": "weekly public source review",
+        "source_heading": "动作节奏纹理/停顿快切"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-18"
+    },
+    {
+      "id": "MOT-036",
+      "title": "主姿态与微手势分层",
+      "category": "motion",
+      "tags": [
+        "主姿态与微手势分层",
+        "gesture layers",
+        "micro-pause"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "先定一到两个主姿态承载核心情绪，再让手势、头眼和微停顿作为附着层，不要每句台词都换一个大姿态。",
+      "reference_text": "复杂表演可以先锁主姿态，再叠加局部手势和节拍。主姿态负责情绪立场，微手势负责台词重音、转念和反应。\n\n| 层级 | 写什么 | 作用 |\n|---|---|---|\n| 主姿态 | 身体朝向、重心、张力、与对象距离 | 观众一眼读到当前立场 |\n| 支撑手势 | 肩、手、头的小幅动作 | 跟随台词重音或潜台词 |\n| 微停顿 | 眼神定住、呼吸停半拍、手指迟疑 | 让思考过程可见 |\n| 余波层 | 眨眼、眼跳、手指回收、衣物轻动 | 防止动作像机械切换 |\n\n示例：她整场都保持身体微微侧向门口，表示想离开；只有在听见“留下”时，手指在包带上停半拍，眼神回到对方脸上，然后才慢慢松开包带。",
+      "source_ids": [
+        "SRC-089",
+        "SRC-024"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.2",
+        "source_module": "weekly public source review",
+        "source_heading": "主姿态与微手势分层"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-18"
     },
     {
       "id": "REL-001",
@@ -3292,6 +3419,40 @@
         "per_entry_record": "source_reviewed_no_generation_test"
       },
       "updated": "2026-09-11"
+    },
+    {
+      "id": "REL-034",
+      "title": "主动让出焦点/替人卸压",
+      "category": "relationship",
+      "tags": [
+        "主动让出焦点/替人卸压",
+        "focus",
+        "ensemble"
+      ],
+      "channels": {
+        "initiator": "察觉对方被看住后，主动降低动作幅度、移开站位或把观众视线引向安全对象",
+        "responder": "对方先从紧绷中恢复呼吸，再用更小动作重新进入场面"
+      },
+      "prompt": "众人都看向她时，他没有替她解释，只把椅子轻轻拉响半寸，身体侧到灯下接住视线，低声说“先看这份记录”。她借这一瞬低头吸气，把僵住的手慢慢放回桌面。",
+      "guidance": "让出焦点要写视线如何被转移，以及被保护者如何借空隙恢复；不要只写“帮她解围”。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-084",
+        "SRC-079"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.2",
+        "source_module": "weekly public source review",
+        "source_heading": "主动让出焦点/替人卸压"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-18"
     }
   ]
 }

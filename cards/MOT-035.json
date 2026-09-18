@@ -1,0 +1,31 @@
+{
+  "id": "MOT-035",
+  "title": "动作节奏纹理/停顿快切",
+  "category": "motion",
+  "tags": [
+    "动作节奏纹理/停顿快切",
+    "timing",
+    "spacing"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "同一动作不要匀速到底；用短停、预备、快速命中和收束余波制造情绪节奏。",
+  "reference_text": "把动作写成节奏，而不是连续说明。先决定哪一拍需要观众读懂，哪一拍需要爆发或切断。\n\n| 节奏功能 | 提示词写法 | 适用 |\n|---|---|---|\n| 黏住悬停 | 动作停在半空，呼吸压住，下一拍突然落下 | 犹豫、威胁、喜剧反差 |\n| 快速命中 | 预备很短，主动作干脆，落点清楚 | 决断、攻击、抢答 |\n| 慢预备快释放 | 先聚气/聚焦/握紧，再突然完成动作 | 怒意、突破、压抑爆发 |\n| 爆发后余波 | 主动作结束后保留衣角、道具、胸口起伏 | 后悔、惊吓、强烈转折 |\n\n示例：他抬手要敲门，指节停在门板前半寸，呼吸悬住；下一秒连续敲两下，敲完手仍贴在门上，没有立刻放下。",
+  "source_ids": [
+    "SRC-088",
+    "SRC-089"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.2",
+    "source_module": "weekly public source review",
+    "source_heading": "动作节奏纹理/停顿快切"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-18"
+}
