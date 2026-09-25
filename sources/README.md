@@ -715,3 +715,51 @@ timing/spacing、holds、quick transitions 和 retiming 可支持动作节奏纹
 状态：`content_reviewed`；最近核查：2026-09-18。
 
 主姿态、微手势、节奏层和 micro-pauses 可转写为表演节拍；不声称单条生成测试。
+
+## SRC-090 · 上海戏剧学院表演系 — 在日常练习中获得良好的表演状态
+
+[阅读原文](https://by.sta.edu.cn/08/d3/c476a2259/page.htm)
+
+状态：`content_reviewed`；最近核查：2026-09-25。
+
+集体节奏、静默、余光观察、动作传递和真听真看可转写为群体反应与默契节拍；不构成视频生成效果测试。
+
+## SRC-091 · Drama-Based Pedagogy — Complete the Image
+
+[阅读原文](https://dbp.theatredance.utexas.edu/teaching-strategies/complete-image)
+
+状态：`content_reviewed`；最近核查：2026-09-25。
+
+冻结画面、补位、观察关系和静默反应可支持群体/双人关系的空间读法；具体动作需按剧情改写。
+
+## SRC-092 · Backstage — What is Blocking in Theater? How Actors Move on Stage
+
+[阅读原文](https://www.backstage.com/magazine/article/what-aspiring-theater-directors-need-to-know-about-blocking-67787/)
+
+状态：`content_reviewed`；最近核查：2026-09-25。
+
+舞台焦点、群体站位、孤立/平衡和有动机移动可转写为空间压力与焦点控制；不表示来源验证本库提示词。
+
+## SRC-093 · Drawn to Animation — How to Animate a Reaction Shot That Feels Real
+
+[阅读原文](https://drawntoanimation.com/animate-reaction-shot/)
+
+状态：`content_reviewed`；最近核查：2026-09-25。
+
+反应镜头中的 notice-process-reveal、眼神落点、停顿和小幅身体支持可转写为角色处理信息的可见节拍。
+
+## SRC-094 · RMCAD — Lip Sync Like a Pro: Dialogue Animation & Performance
+
+[阅读原文](https://www.rmcad.edu/blog/lip-sync-like-a-pro-dialogue-animation-performance/)
+
+状态：`content_reviewed`；最近核查：2026-09-25。
+
+台词动画应先锁表演意图、节拍、姿态和身体语言，再细化口型；不等于本库对具体模型做过逐条实测。
+
+## SRC-095 · 上海戏剧学院 — 表演工作坊：肢体语言的即兴创造
+
+[阅读原文](https://www.sta.edu.cn/75/8e/c1579a30094/page.htm)
+
+状态：`content_reviewed`；最近核查：2026-09-25。
+
+眼神/手势信号、空间行走、画面组成和以假当真训练可支持动作目的性、群体画面与无实物关系。

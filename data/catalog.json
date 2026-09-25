@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.2",
+  "version": "0.2.3",
   "validation": {
     "status": "author_verified_in_practice",
     "statement": "作者已在实际创作中验证并持续使用这套表演可视化资料。完整视频案例暂不公开；当前不声称逐条、全模型或量化对照验证。",
@@ -1474,6 +1474,41 @@
       "updated": "2026-09-18"
     },
     {
+      "id": "EMO-049",
+      "title": "信息砸中后的延迟反应",
+      "category": "emotion",
+      "tags": [
+        "信息砸中后的延迟反应",
+        "reaction shot",
+        "processing beat"
+      ],
+      "channels": {
+        "notice": "眼神先落到触发物或说话者，身体暂时不跟上",
+        "process": "呼吸卡住半拍，肩颈或手指先泄露判断过程",
+        "reveal": "表情和身体再分开落地，形成“听见了”和“接受了”的时间差"
+      },
+      "prompt": "她听见名字后没有立刻回头，眼睛先停在杯沿上，指腹把杯壁按白了一瞬；半拍之后才抬眼看向门口，嘴角想撑住礼貌，却被一次没落下去的呼吸截断。",
+      "guidance": "不要直接写“震惊”；把信息进入身体的顺序写清楚：先注意、再处理、最后显露，让观众看到角色正在把事实吞下去。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-093",
+        "SRC-094"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.3",
+        "source_module": "weekly public source review",
+        "source_heading": "信息砸中后的延迟反应"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-25"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -2443,6 +2478,69 @@
         "per_entry_record": "source_reviewed_no_generation_test"
       },
       "updated": "2026-09-18"
+    },
+    {
+      "id": "MOT-037",
+      "title": "双人协作搬运的重量同步",
+      "category": "motion",
+      "tags": [
+        "双人协作搬运的重量同步",
+        "shared task",
+        "mime weight"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "两个人共同搬运、扶起或递交不可见/可见物件时，先统一重量、重心和发力顺序，再写关系分歧；不要让两人的身体各演各的。",
+      "reference_text": "把协作动作写成共同物理问题：谁先试重量，谁调整握点，谁承担主要负重，谁在失衡时补一小步。\n\n| 同步点 | 提示词写法 | 作用 |\n|---|---|---|\n| 试重量 | 两人先同时下沉肩膀，手腕微调后才抬起 | 让物件有真实重量 |\n| 分担差异 | 一人身体更低、更慢，另一人不断回头等他 | 暴露体力、地位或照顾关系 |\n| 失衡修正 | 物件一侧下坠，另一人立刻补步托住 | 让合作有事件感 |\n| 情绪叠加 | 嘴上争执，手上仍保持同一节奏 | 表达冲突中仍必须协作 |\n\n示例：两人合力抬起旧箱子，她先试着提，箱子一侧沉下去；他没有说话，只把手换到箱底，膝盖跟着下沉半拍，等她点头后两人才一起往门口挪。",
+      "source_ids": [
+        "SRC-078",
+        "SRC-090",
+        "SRC-095"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.3",
+        "source_module": "weekly public source review",
+        "source_heading": "双人协作搬运的重量同步"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "MOT-038",
+      "title": "台词先锁表演节拍",
+      "category": "motion",
+      "tags": [
+        "台词先锁表演节拍",
+        "dialogue acting beats",
+        "lip sync"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "写台词型视频提示词时，先标出情绪转折、重音和停顿，再安排口型、头眼和手势；不要把每个字都配一个动作。",
+      "reference_text": "台词表演可以先拆“意图节拍”，再写技术细节：哪句是试探，哪句是防御，哪句是真正的暴露。口型只服务节拍，不抢走表演。\n\n| 阶段 | 写什么 | 避免 |\n|---|---|---|\n| 意图 | 这句台词想压住、逼近、求证还是撤退 | 只写“准确对口型” |\n| 重音 | 哪个词前后有停顿、眼神或呼吸变化 | 每个字都晃头点手 |\n| 主姿态 | 说话时身体总体朝向和重心是否改变 | 台词没完姿态乱跳 |\n| 支撑动作 | 头微转、手指停住、肩膀放松或收紧 | 用大手势覆盖细微潜台词 |\n\n示例：他说“我当然相信你”时，身体仍朝门口，眼神先避开半拍；“相信”两个字落下后才回看她，手指从钥匙上松开，像是把逃走的选择暂时放下。",
+      "source_ids": [
+        "SRC-094",
+        "SRC-093"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.3",
+        "source_module": "weekly public source review",
+        "source_heading": "台词先锁表演节拍"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-25"
     },
     {
       "id": "REL-001",
@@ -3453,6 +3551,78 @@
         "per_entry_record": "source_reviewed_no_generation_test"
       },
       "updated": "2026-09-18"
+    },
+    {
+      "id": "REL-035",
+      "title": "群体沉默/共同等待",
+      "category": "relationship",
+      "tags": [
+        "群体沉默/共同等待",
+        "ensemble silence",
+        "group reaction"
+      ],
+      "channels": {
+        "group": "众人动作同时降到很小，视线不完全统一但都被同一件事牵住",
+        "focus": "用一次集体停顿、余光或细小重心调整，把中心压力推向关键人物",
+        "release": "第一个人恢复动作后，其他人才逐步跟着呼吸、转身或移位"
+      },
+      "prompt": "铃声停下后，会议室没有人先说话。几个人的笔同时悬住，靠门的人用余光看向主位，主位的人却只把手指从文件角慢慢移开；直到她轻轻吸了一口气，其他人才像被允许一样低头翻页。",
+      "guidance": "群体沉默不是“所有人不动”；要写谁先停、谁用余光确认、谁负责释放下一拍，避免把群演写成背景板。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-090",
+        "SRC-091",
+        "SRC-092"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.3",
+        "source_module": "weekly public source review",
+        "source_heading": "群体沉默/共同等待"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-25"
+    },
+    {
+      "id": "REL-036",
+      "title": "空间补位/关系被重新定义",
+      "category": "relationship",
+      "tags": [
+        "空间补位/关系被重新定义",
+        "image work",
+        "blocking"
+      ],
+      "channels": {
+        "old_relation": "先保留原关系的距离、朝向或障碍物",
+        "new_position": "一人不解释，只用补位、转身、靠近或隔开重新定义关系",
+        "response": "对方用微退、停住、让出空间或同步朝向承认新关系"
+      },
+      "prompt": "她原本站在两人之间，像一道临时的墙。听见那句“让他说完”后，她没有争辩，只向旁边退开半步，把空位留给他；他迟疑了一下，终于从门边走进光里，和她站成同一方向。",
+      "guidance": "关系改变可以先通过站位发生；写清原来的空间逻辑、谁改变位置、对方怎样接受或拒绝新的画面。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-091",
+        "SRC-092",
+        "SRC-095"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.3",
+        "source_module": "weekly public source review",
+        "source_heading": "空间补位/关系被重新定义"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-09-25"
     }
   ]
 }

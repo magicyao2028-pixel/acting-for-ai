@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.2",
+  "version": "0.2.3",
   "entries": [
     {
       "id": "EMO-001",
@@ -496,6 +496,18 @@
       "markdown_path": "docs/cards/EMO-048.md"
     },
     {
+      "id": "EMO-049",
+      "title": "信息砸中后的延迟反应",
+      "category": "emotion",
+      "tags": [
+        "信息砸中后的延迟反应",
+        "reaction shot",
+        "processing beat"
+      ],
+      "json_path": "cards/EMO-049.json",
+      "markdown_path": "docs/cards/EMO-049.md"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -870,6 +882,30 @@
       "markdown_path": "docs/cards/MOT-036.md"
     },
     {
+      "id": "MOT-037",
+      "title": "双人协作搬运的重量同步",
+      "category": "motion",
+      "tags": [
+        "双人协作搬运的重量同步",
+        "shared task",
+        "mime weight"
+      ],
+      "json_path": "cards/MOT-037.json",
+      "markdown_path": "docs/cards/MOT-037.md"
+    },
+    {
+      "id": "MOT-038",
+      "title": "台词先锁表演节拍",
+      "category": "motion",
+      "tags": [
+        "台词先锁表演节拍",
+        "dialogue acting beats",
+        "lip sync"
+      ],
+      "json_path": "cards/MOT-038.json",
+      "markdown_path": "docs/cards/MOT-038.md"
+    },
+    {
       "id": "REL-001",
       "title": "审讯/压迫",
       "category": "relationship",
@@ -1218,6 +1254,30 @@
       ],
       "json_path": "cards/REL-034.json",
       "markdown_path": "docs/cards/REL-034.md"
+    },
+    {
+      "id": "REL-035",
+      "title": "群体沉默/共同等待",
+      "category": "relationship",
+      "tags": [
+        "群体沉默/共同等待",
+        "ensemble silence",
+        "group reaction"
+      ],
+      "json_path": "cards/REL-035.json",
+      "markdown_path": "docs/cards/REL-035.md"
+    },
+    {
+      "id": "REL-036",
+      "title": "空间补位/关系被重新定义",
+      "category": "relationship",
+      "tags": [
+        "空间补位/关系被重新定义",
+        "image work",
+        "blocking"
+      ],
+      "json_path": "cards/REL-036.json",
+      "markdown_path": "docs/cards/REL-036.md"
     }
   ]
 }

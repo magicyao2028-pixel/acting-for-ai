@@ -1,0 +1,31 @@
+{
+  "id": "MOT-038",
+  "title": "台词先锁表演节拍",
+  "category": "motion",
+  "tags": [
+    "台词先锁表演节拍",
+    "dialogue acting beats",
+    "lip sync"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "写台词型视频提示词时，先标出情绪转折、重音和停顿，再安排口型、头眼和手势；不要把每个字都配一个动作。",
+  "reference_text": "台词表演可以先拆“意图节拍”，再写技术细节：哪句是试探，哪句是防御，哪句是真正的暴露。口型只服务节拍，不抢走表演。\n\n| 阶段 | 写什么 | 避免 |\n|---|---|---|\n| 意图 | 这句台词想压住、逼近、求证还是撤退 | 只写“准确对口型” |\n| 重音 | 哪个词前后有停顿、眼神或呼吸变化 | 每个字都晃头点手 |\n| 主姿态 | 说话时身体总体朝向和重心是否改变 | 台词没完姿态乱跳 |\n| 支撑动作 | 头微转、手指停住、肩膀放松或收紧 | 用大手势覆盖细微潜台词 |\n\n示例：他说“我当然相信你”时，身体仍朝门口，眼神先避开半拍；“相信”两个字落下后才回看她，手指从钥匙上松开，像是把逃走的选择暂时放下。",
+  "source_ids": [
+    "SRC-094",
+    "SRC-093"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.3",
+    "source_module": "weekly public source review",
+    "source_heading": "台词先锁表演节拍"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-25"
+}

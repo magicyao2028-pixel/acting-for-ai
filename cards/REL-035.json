@@ -1,0 +1,36 @@
+{
+  "id": "REL-035",
+  "title": "群体沉默/共同等待",
+  "category": "relationship",
+  "tags": [
+    "群体沉默/共同等待",
+    "ensemble silence",
+    "group reaction"
+  ],
+  "channels": {
+    "group": "众人动作同时降到很小，视线不完全统一但都被同一件事牵住",
+    "focus": "用一次集体停顿、余光或细小重心调整，把中心压力推向关键人物",
+    "release": "第一个人恢复动作后，其他人才逐步跟着呼吸、转身或移位"
+  },
+  "prompt": "铃声停下后，会议室没有人先说话。几个人的笔同时悬住，靠门的人用余光看向主位，主位的人却只把手指从文件角慢慢移开；直到她轻轻吸了一口气，其他人才像被允许一样低头翻页。",
+  "guidance": "群体沉默不是“所有人不动”；要写谁先停、谁用余光确认、谁负责释放下一拍，避免把群演写成背景板。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-090",
+    "SRC-091",
+    "SRC-092"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.3",
+    "source_module": "weekly public source review",
+    "source_heading": "群体沉默/共同等待"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-25"
+}

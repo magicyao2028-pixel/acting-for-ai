@@ -1,0 +1,32 @@
+{
+  "id": "MOT-037",
+  "title": "双人协作搬运的重量同步",
+  "category": "motion",
+  "tags": [
+    "双人协作搬运的重量同步",
+    "shared task",
+    "mime weight"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "两个人共同搬运、扶起或递交不可见/可见物件时，先统一重量、重心和发力顺序，再写关系分歧；不要让两人的身体各演各的。",
+  "reference_text": "把协作动作写成共同物理问题：谁先试重量，谁调整握点，谁承担主要负重，谁在失衡时补一小步。\n\n| 同步点 | 提示词写法 | 作用 |\n|---|---|---|\n| 试重量 | 两人先同时下沉肩膀，手腕微调后才抬起 | 让物件有真实重量 |\n| 分担差异 | 一人身体更低、更慢，另一人不断回头等他 | 暴露体力、地位或照顾关系 |\n| 失衡修正 | 物件一侧下坠，另一人立刻补步托住 | 让合作有事件感 |\n| 情绪叠加 | 嘴上争执，手上仍保持同一节奏 | 表达冲突中仍必须协作 |\n\n示例：两人合力抬起旧箱子，她先试着提，箱子一侧沉下去；他没有说话，只把手换到箱底，膝盖跟着下沉半拍，等她点头后两人才一起往门口挪。",
+  "source_ids": [
+    "SRC-078",
+    "SRC-090",
+    "SRC-095"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.3",
+    "source_module": "weekly public source review",
+    "source_heading": "双人协作搬运的重量同步"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-25"
+}

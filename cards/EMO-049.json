@@ -1,0 +1,35 @@
+{
+  "id": "EMO-049",
+  "title": "信息砸中后的延迟反应",
+  "category": "emotion",
+  "tags": [
+    "信息砸中后的延迟反应",
+    "reaction shot",
+    "processing beat"
+  ],
+  "channels": {
+    "notice": "眼神先落到触发物或说话者，身体暂时不跟上",
+    "process": "呼吸卡住半拍，肩颈或手指先泄露判断过程",
+    "reveal": "表情和身体再分开落地，形成“听见了”和“接受了”的时间差"
+  },
+  "prompt": "她听见名字后没有立刻回头，眼睛先停在杯沿上，指腹把杯壁按白了一瞬；半拍之后才抬眼看向门口，嘴角想撑住礼貌，却被一次没落下去的呼吸截断。",
+  "guidance": "不要直接写“震惊”；把信息进入身体的顺序写清楚：先注意、再处理、最后显露，让观众看到角色正在把事实吞下去。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-093",
+    "SRC-094"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.3",
+    "source_module": "weekly public source review",
+    "source_heading": "信息砸中后的延迟反应"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-25"
+}

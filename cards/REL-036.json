@@ -1,0 +1,36 @@
+{
+  "id": "REL-036",
+  "title": "空间补位/关系被重新定义",
+  "category": "relationship",
+  "tags": [
+    "空间补位/关系被重新定义",
+    "image work",
+    "blocking"
+  ],
+  "channels": {
+    "old_relation": "先保留原关系的距离、朝向或障碍物",
+    "new_position": "一人不解释，只用补位、转身、靠近或隔开重新定义关系",
+    "response": "对方用微退、停住、让出空间或同步朝向承认新关系"
+  },
+  "prompt": "她原本站在两人之间，像一道临时的墙。听见那句“让他说完”后，她没有争辩，只向旁边退开半步，把空位留给他；他迟疑了一下，终于从门边走进光里，和她站成同一方向。",
+  "guidance": "关系改变可以先通过站位发生；写清原来的空间逻辑、谁改变位置、对方怎样接受或拒绝新的画面。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-091",
+    "SRC-092",
+    "SRC-095"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.3",
+    "source_module": "weekly public source review",
+    "source_heading": "空间补位/关系被重新定义"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-09-25"
+}
