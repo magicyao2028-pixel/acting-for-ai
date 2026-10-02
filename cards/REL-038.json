@@ -1,0 +1,36 @@
+{
+  "id": "REL-038",
+  "title": "空间层级中的权力切换",
+  "category": "relationship",
+  "tags": [
+    "空间层级中的权力切换",
+    "spatial power",
+    "status"
+  ],
+  "channels": {
+    "old_map": "先建立原来的高低、远近、中心/边缘或门口/桌后等空间层级",
+    "shift": "一方通过靠近、退到边缘、占据中心或绕开障碍改变权力读法",
+    "acknowledgement": "另一方用视线跟随、让路、补位或保持原地来承认/抵抗变化"
+  },
+  "prompt": "他原本坐在桌后，灯光和文件都在他这边。她说完最后一句，没有提高声音，只绕过桌角站到窗前的亮处；他第一次没有继续翻文件，而是抬头跟着她的移动转身，椅背从屏障变成了退路。",
+  "guidance": "权力变化可以先发生在空间里；写清谁从中心变边缘、谁从门口进入光里，以及对方是否用身体承认新的位置。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-097",
+    "SRC-098",
+    "SRC-099"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.4",
+    "source_module": "weekly public source review",
+    "source_heading": "空间层级中的权力切换"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-10-02"
+}

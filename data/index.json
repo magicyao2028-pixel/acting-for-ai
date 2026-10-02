@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.3",
+  "version": "0.2.4",
   "entries": [
     {
       "id": "EMO-001",
@@ -508,6 +508,18 @@
       "markdown_path": "docs/cards/EMO-049.md"
     },
     {
+      "id": "EMO-050",
+      "title": "被集体注意力突然推上台面",
+      "category": "emotion",
+      "tags": [
+        "被集体注意力突然推上台面",
+        "sudden focus",
+        "social pressure"
+      ],
+      "json_path": "cards/EMO-050.json",
+      "markdown_path": "docs/cards/EMO-050.md"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -906,6 +918,30 @@
       "markdown_path": "docs/cards/MOT-038.md"
     },
     {
+      "id": "MOT-039",
+      "title": "真实环境压力下的动作连续性",
+      "category": "motion",
+      "tags": [
+        "真实环境压力下的动作连续性",
+        "environment interaction",
+        "contact"
+      ],
+      "json_path": "cards/MOT-039.json",
+      "markdown_path": "docs/cards/MOT-039.md"
+    },
+    {
+      "id": "MOT-040",
+      "title": "接触前停顿/确认物体反作用",
+      "category": "motion",
+      "tags": [
+        "接触前停顿/确认物体反作用",
+        "anticipation",
+        "weight"
+      ],
+      "json_path": "cards/MOT-040.json",
+      "markdown_path": "docs/cards/MOT-040.md"
+    },
+    {
       "id": "REL-001",
       "title": "审讯/压迫",
       "category": "relationship",
@@ -1278,6 +1314,30 @@
       ],
       "json_path": "cards/REL-036.json",
       "markdown_path": "docs/cards/REL-036.md"
+    },
+    {
+      "id": "REL-037",
+      "title": "多人焦点接力/谁接住下一拍",
+      "category": "relationship",
+      "tags": [
+        "多人焦点接力/谁接住下一拍",
+        "focus pass",
+        "ensemble"
+      ],
+      "json_path": "cards/REL-037.json",
+      "markdown_path": "docs/cards/REL-037.md"
+    },
+    {
+      "id": "REL-038",
+      "title": "空间层级中的权力切换",
+      "category": "relationship",
+      "tags": [
+        "空间层级中的权力切换",
+        "spatial power",
+        "status"
+      ],
+      "json_path": "cards/REL-038.json",
+      "markdown_path": "docs/cards/REL-038.md"
     }
   ]
 }

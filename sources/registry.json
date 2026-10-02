@@ -758,5 +758,53 @@
     "review_status": "content_reviewed",
     "last_checked": "2026-09-25",
     "scope": "眼神/手势信号、空间行走、画面组成和以假当真训练可支持动作目的性、群体画面与无实物关系。"
+  },
+  {
+    "id": "SRC-096",
+    "title": "The Improv Archive — Give and Take",
+    "url": "https://improvarchive.org/exercises/give-and-take",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-02",
+    "scope": "焦点转移、让出焦点、只保留一个行动中心和群体注意力管理可转写为多人同场的表演节拍；不构成视频生成效果测试。"
+  },
+  {
+    "id": "SRC-097",
+    "title": "Kyle Branzel — Spatial Relationship",
+    "url": "https://www.kylebranzel.com/videos/viewpoints-spatial-relationship",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-02",
+    "scope": "人物距离、靠近/撤离、集群/孤立和环境边界可用于表达关系、权力和情绪弧；具体动作需按剧情改写。"
+  },
+  {
+    "id": "SRC-098",
+    "title": "Broadway Educators — Viewpoints of Space",
+    "url": "https://broadwayeducators.com/viewpoints-of-space/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-02",
+    "scope": "shape、gesture、architecture、spatial relationship、topography 可转写为身体形状、注意力牵引和空间路径；不表示来源验证本库提示词。"
+  },
+  {
+    "id": "SRC-099",
+    "title": "Physics of Connection — Viewpoints",
+    "url": "https://www.physicsofconnection.com/practice/techniques/viewpoints",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-02",
+    "scope": "Viewpoints 将注意力限制到 tempo、architecture、spatial relationship 等通道，支持群体同步、环境响应和身体化监听的提示词转写。"
+  },
+  {
+    "id": "SRC-100",
+    "title": "Animation Mentor — Animating Character Environmental Interaction",
+    "url": "https://www.animationmentor.com/blog/tutorial-animating-character-environmental-interaction/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-02",
+    "scope": "角色与环境互动中的 timing、weight、secondary action、接触前停顿和环境反应可用于动作连续性提示词；不等于本库逐条模型实测。"
+  },
+  {
+    "id": "SRC-101",
+    "title": "Hassan et al. — Synthesizing Physical Character-Scene Interactions",
+    "url": "https://arxiv.org/abs/2302.00883",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-02",
+    "scope": "人物-场景交互需要角色动作与物体位置、形状和任务关系协调，可作为环境接触、坐下、搬运等动作连续性的背景参考。"
   }
 ]

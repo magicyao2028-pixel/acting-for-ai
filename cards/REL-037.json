@@ -1,0 +1,35 @@
+{
+  "id": "REL-037",
+  "title": "多人焦点接力/谁接住下一拍",
+  "category": "relationship",
+  "tags": [
+    "多人焦点接力/谁接住下一拍",
+    "focus pass",
+    "ensemble"
+  ],
+  "channels": {
+    "current_focus": "先写清当前谁拥有观众注意力，以及其他人如何降低动作幅度",
+    "take": "下一人用一个明确动作、声音或移动理由接过焦点",
+    "give": "原焦点人物用停住、让开、转视线或收小动作把中心交出去"
+  },
+  "prompt": "饭桌上的争吵刚压住，父亲还握着杯子没放下。妹妹忽然把椅子往后一拖，所有人的视线都被那一下带过去；父亲没有追话，只把杯子轻轻放回桌面，像是把这一拍让给她。",
+  "guidance": "多人同场不要让所有人同时抢戏；给每个焦点转移写一个可见的“接住”和“让出”，让群戏像接力而不是噪音。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-096",
+    "SRC-099"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.4",
+    "source_module": "weekly public source review",
+    "source_heading": "多人焦点接力/谁接住下一拍"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-10-02"
+}

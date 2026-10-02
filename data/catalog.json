@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.3",
+  "version": "0.2.4",
   "validation": {
     "status": "author_verified_in_practice",
     "statement": "作者已在实际创作中验证并持续使用这套表演可视化资料。完整视频案例暂不公开；当前不声称逐条、全模型或量化对照验证。",
@@ -1509,6 +1509,42 @@
       "updated": "2026-09-25"
     },
     {
+      "id": "EMO-050",
+      "title": "被集体注意力突然推上台面",
+      "category": "emotion",
+      "tags": [
+        "被集体注意力突然推上台面",
+        "sudden focus",
+        "social pressure"
+      ],
+      "channels": {
+        "arrival": "角色先意识到周围动作变小或视线聚拢，而不是立刻大表情",
+        "body_leak": "手、肩、呼吸或站位先泄露紧张与自我整理",
+        "choice": "角色随后选择接住、躲开、反击或转移焦点"
+      },
+      "prompt": "她刚说完“不是我”，桌边的翻页声一个个停下。她没有马上辩解，先把手从桌沿收回来，指尖在袖口里攥了一下；等所有人都看向她，她才抬头，声音放轻，像是先把自己从聚光里稳住。",
+      "guidance": "写群体压力时，不只写“所有人看着他”；要写环境如何突然安静、角色身体如何意识到自己被推到中心，以及下一拍选择什么策略。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-096",
+        "SRC-097",
+        "SRC-090"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.4",
+        "source_module": "weekly public source review",
+        "source_heading": "被集体注意力突然推上台面"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-10-02"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -2541,6 +2577,70 @@
         "per_entry_record": "source_reviewed_no_generation_test"
       },
       "updated": "2026-09-25"
+    },
+    {
+      "id": "MOT-039",
+      "title": "真实环境压力下的动作连续性",
+      "category": "motion",
+      "tags": [
+        "真实环境压力下的动作连续性",
+        "environment interaction",
+        "contact"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "角色穿过狭窄、杂乱或有障碍的环境时，要写身体如何预判、避让、接触和恢复；不要只写“穿过房间”。",
+      "reference_text": "把环境压力拆成连续动作：先感知障碍，再改变路径或姿态，接触后出现重量/阻力反馈，最后恢复主目标。\n\n| 压力点 | 提示词写法 | 作用 |\n|---|---|---|\n| 预判 | 眼神先扫到窄门，肩膀提前收紧 | 让角色意识到环境 |\n| 接触 | 袖口擦到门框，手背顺势按住墙面 | 让空间有物理存在 |\n| 修正 | 脚步短暂停住，重心换到另一侧再通过 | 避免漂浮穿模感 |\n| 恢复 | 通过后才重新抬头说话或加速 | 保持动作目标连续 |\n\n示例：她抱着箱子挤过走廊时先把箱角往胸前收，肩膀贴着墙慢慢侧过去；箱底磕到门框，她停半拍换手托住，确认没有掉落后才继续追上前面的人。",
+      "source_ids": [
+        "SRC-098",
+        "SRC-100",
+        "SRC-101"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.4",
+        "source_module": "weekly public source review",
+        "source_heading": "真实环境压力下的动作连续性"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "MOT-040",
+      "title": "接触前停顿/确认物体反作用",
+      "category": "motion",
+      "tags": [
+        "接触前停顿/确认物体反作用",
+        "anticipation",
+        "weight"
+      ],
+      "channels": {},
+      "prompt": "",
+      "guidance": "角色推、拉、坐、扶、拽之前，先给一拍判断和身体准备；接触后让物体或身体给出反作用，避免动作像没有重量。",
+      "reference_text": "物体交互可用“准备-接触-反作用-完成”四步写清。\n\n| 步骤 | 提示词写法 | 作用 |\n|---|---|---|\n| 准备 | 手搭上去但先停半拍，膝盖或肩膀预先蓄力 | 让动作有意图 |\n| 接触 | 手指压下、掌根贴住、身体靠近支点 | 建立真实接触 |\n| 反作用 | 物体先不动，角色肩背跟着吃力或后坐 | 表现重量/阻力 |\n| 完成 | 物体移动后身体有跟随、回弹或失衡修正 | 形成物理链条 |\n\n示例：他伸手去拉旧铁门，没有立刻用力，先试着晃了一下；门没动，他把另一只脚往后蹬住，肩膀沉下去再猛拉，门开的一瞬间身体被带得向后退了半步。",
+      "source_ids": [
+        "SRC-100",
+        "SRC-101",
+        "SRC-083"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.4",
+        "source_module": "weekly public source review",
+        "source_heading": "接触前停顿/确认物体反作用"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-10-02"
     },
     {
       "id": "REL-001",
@@ -3623,6 +3723,77 @@
         "per_entry_record": "source_reviewed_no_generation_test"
       },
       "updated": "2026-09-25"
+    },
+    {
+      "id": "REL-037",
+      "title": "多人焦点接力/谁接住下一拍",
+      "category": "relationship",
+      "tags": [
+        "多人焦点接力/谁接住下一拍",
+        "focus pass",
+        "ensemble"
+      ],
+      "channels": {
+        "current_focus": "先写清当前谁拥有观众注意力，以及其他人如何降低动作幅度",
+        "take": "下一人用一个明确动作、声音或移动理由接过焦点",
+        "give": "原焦点人物用停住、让开、转视线或收小动作把中心交出去"
+      },
+      "prompt": "饭桌上的争吵刚压住，父亲还握着杯子没放下。妹妹忽然把椅子往后一拖，所有人的视线都被那一下带过去；父亲没有追话，只把杯子轻轻放回桌面，像是把这一拍让给她。",
+      "guidance": "多人同场不要让所有人同时抢戏；给每个焦点转移写一个可见的“接住”和“让出”，让群戏像接力而不是噪音。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-096",
+        "SRC-099"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.4",
+        "source_module": "weekly public source review",
+        "source_heading": "多人焦点接力/谁接住下一拍"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "REL-038",
+      "title": "空间层级中的权力切换",
+      "category": "relationship",
+      "tags": [
+        "空间层级中的权力切换",
+        "spatial power",
+        "status"
+      ],
+      "channels": {
+        "old_map": "先建立原来的高低、远近、中心/边缘或门口/桌后等空间层级",
+        "shift": "一方通过靠近、退到边缘、占据中心或绕开障碍改变权力读法",
+        "acknowledgement": "另一方用视线跟随、让路、补位或保持原地来承认/抵抗变化"
+      },
+      "prompt": "他原本坐在桌后，灯光和文件都在他这边。她说完最后一句，没有提高声音，只绕过桌角站到窗前的亮处；他第一次没有继续翻文件，而是抬头跟着她的移动转身，椅背从屏障变成了退路。",
+      "guidance": "权力变化可以先发生在空间里；写清谁从中心变边缘、谁从门口进入光里，以及对方是否用身体承认新的位置。",
+      "reference_text": "",
+      "source_ids": [
+        "SRC-097",
+        "SRC-098",
+        "SRC-099"
+      ],
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.4",
+        "source_module": "weekly public source review",
+        "source_heading": "空间层级中的权力切换"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-10-02"
     }
   ]
 }

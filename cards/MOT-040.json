@@ -1,0 +1,32 @@
+{
+  "id": "MOT-040",
+  "title": "接触前停顿/确认物体反作用",
+  "category": "motion",
+  "tags": [
+    "接触前停顿/确认物体反作用",
+    "anticipation",
+    "weight"
+  ],
+  "channels": {},
+  "prompt": "",
+  "guidance": "角色推、拉、坐、扶、拽之前，先给一拍判断和身体准备；接触后让物体或身体给出反作用，避免动作像没有重量。",
+  "reference_text": "物体交互可用“准备-接触-反作用-完成”四步写清。\n\n| 步骤 | 提示词写法 | 作用 |\n|---|---|---|\n| 准备 | 手搭上去但先停半拍，膝盖或肩膀预先蓄力 | 让动作有意图 |\n| 接触 | 手指压下、掌根贴住、身体靠近支点 | 建立真实接触 |\n| 反作用 | 物体先不动，角色肩背跟着吃力或后坐 | 表现重量/阻力 |\n| 完成 | 物体移动后身体有跟随、回弹或失衡修正 | 形成物理链条 |\n\n示例：他伸手去拉旧铁门，没有立刻用力，先试着晃了一下；门没动，他把另一只脚往后蹬住，肩膀沉下去再猛拉，门开的一瞬间身体被带得向后退了半步。",
+  "source_ids": [
+    "SRC-100",
+    "SRC-101",
+    "SRC-083"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.4",
+    "source_module": "weekly public source review",
+    "source_heading": "接触前停顿/确认物体反作用"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-10-02"
+}

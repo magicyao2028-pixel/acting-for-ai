@@ -763,3 +763,51 @@ timing/spacing、holds、quick transitions 和 retiming 可支持动作节奏纹
 状态：`content_reviewed`；最近核查：2026-09-25。
 
 眼神/手势信号、空间行走、画面组成和以假当真训练可支持动作目的性、群体画面与无实物关系。
+
+## SRC-096 · The Improv Archive — Give and Take
+
+[阅读原文](https://improvarchive.org/exercises/give-and-take)
+
+状态：`content_reviewed`；最近核查：2026-10-02。
+
+焦点转移、让出焦点、只保留一个行动中心和群体注意力管理可转写为多人同场的表演节拍；不构成视频生成效果测试。
+
+## SRC-097 · Kyle Branzel — Spatial Relationship
+
+[阅读原文](https://www.kylebranzel.com/videos/viewpoints-spatial-relationship)
+
+状态：`content_reviewed`；最近核查：2026-10-02。
+
+人物距离、靠近/撤离、集群/孤立和环境边界可用于表达关系、权力和情绪弧；具体动作需按剧情改写。
+
+## SRC-098 · Broadway Educators — Viewpoints of Space
+
+[阅读原文](https://broadwayeducators.com/viewpoints-of-space/)
+
+状态：`content_reviewed`；最近核查：2026-10-02。
+
+shape、gesture、architecture、spatial relationship、topography 可转写为身体形状、注意力牵引和空间路径；不表示来源验证本库提示词。
+
+## SRC-099 · Physics of Connection — Viewpoints
+
+[阅读原文](https://www.physicsofconnection.com/practice/techniques/viewpoints)
+
+状态：`content_reviewed`；最近核查：2026-10-02。
+
+Viewpoints 将注意力限制到 tempo、architecture、spatial relationship 等通道，支持群体同步、环境响应和身体化监听的提示词转写。
+
+## SRC-100 · Animation Mentor — Animating Character Environmental Interaction
+
+[阅读原文](https://www.animationmentor.com/blog/tutorial-animating-character-environmental-interaction/)
+
+状态：`content_reviewed`；最近核查：2026-10-02。
+
+角色与环境互动中的 timing、weight、secondary action、接触前停顿和环境反应可用于动作连续性提示词；不等于本库逐条模型实测。
+
+## SRC-101 · Hassan et al. — Synthesizing Physical Character-Scene Interactions
+
+[阅读原文](https://arxiv.org/abs/2302.00883)
+
+状态：`content_reviewed`；最近核查：2026-10-02。
+
+人物-场景交互需要角色动作与物体位置、形状和任务关系协调，可作为环境接触、坐下、搬运等动作连续性的背景参考。

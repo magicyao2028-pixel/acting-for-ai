@@ -1,0 +1,36 @@
+{
+  "id": "EMO-050",
+  "title": "被集体注意力突然推上台面",
+  "category": "emotion",
+  "tags": [
+    "被集体注意力突然推上台面",
+    "sudden focus",
+    "social pressure"
+  ],
+  "channels": {
+    "arrival": "角色先意识到周围动作变小或视线聚拢，而不是立刻大表情",
+    "body_leak": "手、肩、呼吸或站位先泄露紧张与自我整理",
+    "choice": "角色随后选择接住、躲开、反击或转移焦点"
+  },
+  "prompt": "她刚说完“不是我”，桌边的翻页声一个个停下。她没有马上辩解，先把手从桌沿收回来，指尖在袖口里攥了一下；等所有人都看向她，她才抬头，声音放轻，像是先把自己从聚光里稳住。",
+  "guidance": "写群体压力时，不只写“所有人看着他”；要写环境如何突然安静、角色身体如何意识到自己被推到中心，以及下一拍选择什么策略。",
+  "reference_text": "",
+  "source_ids": [
+    "SRC-096",
+    "SRC-097",
+    "SRC-090"
+  ],
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.4",
+    "source_module": "weekly public source review",
+    "source_heading": "被集体注意力突然推上台面"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-10-02"
+}
