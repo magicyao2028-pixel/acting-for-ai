@@ -811,3 +811,59 @@ Viewpoints 将注意力限制到 tempo、architecture、spatial relationship 等
 状态：`content_reviewed`；最近核查：2026-10-02。
 
 人物-场景交互需要角色动作与物体位置、形状和任务关系协调，可作为环境接触、坐下、搬运等动作连续性的背景参考。
+
+## SRC-102 · Backstage — Meisner Technique Exercises: Repetition and More
+
+[阅读原文](https://www.backstage.com/magazine/article/meisner-technique-exercises-76063/)
+
+状态：`content_reviewed`；最近核查：2026-10-09。
+
+Meisner repetition、independent activity 和 knock-at-the-door 可支持“被对方影响”“任务被打断”“小反应持续回应”等动作转写；不构成视频模型效果测试。
+
+## SRC-103 · Backstage — The Meisner Acting Technique: a Complete Guide
+
+[阅读原文](https://www.backstage.com/magazine/article/the-definitive-guide-to-the-meisner-technique-67712/)
+
+状态：`content_reviewed`；最近核查：2026-10-09。
+
+主动倾听、观察对方并由对方刺激触发表演反应，可作为关系回应和被改变节拍的背景资料。
+
+## SRC-104 · Broadway Educators — Viewpoints of Time
+
+[阅读原文](https://broadwayeducators.com/viewpoints-of-time/)
+
+状态：`content_reviewed`；最近核查：2026-10-09。
+
+tempo、duration、repetition、kinesthetic response 可转写为动作长短、重复变义和身体反应节奏；不表示来源验证本库提示词。
+
+## SRC-105 · Physics of Connection — Viewpoints
+
+[阅读原文](https://www.physicsofconnection.com/practice/techniques/viewpoints)
+
+状态：`content_reviewed`；最近核查：2026-10-09。
+
+Viewpoints 将注意力拆为 tempo、duration、kinesthetic response、repetition、shape、gesture 等通道，支持时间/空间维度的表演节拍转写。
+
+## SRC-106 · TheatreFolk — Warm-Up Game: Muted Conversations
+
+[阅读原文](https://www.theatrefolk.com/blog/warm-up-game-muted-conversations)
+
+状态：`content_reviewed`；最近核查：2026-10-09。
+
+无声角色通过口型、表情、手势和反应承接声音角色，可支持“被打断后用非语言动作维持场面”的资料背景。
+
+## SRC-107 · Backstage — The Best Breath Control Exercises for Actors
+
+[阅读原文](https://www.backstage.com/magazine/article/best-breath-control-exercises-75009/)
+
+状态：`content_reviewed`；最近核查：2026-10-09。
+
+呼吸会影响声音、姿态和专注；drop-in、停顿、放气和横膈膜支撑可转写为台词前的身体准备。
+
+## SRC-108 · Backstage — The Importance of Movement for Actors
+
+[阅读原文](https://www.backstage.com/magazine/article/importance-movement-actors-5782/)
+
+状态：`content_reviewed`；最近核查：2026-10-09。
+
+身体、声音与呼吸互相关联；即使静止也能讲故事，可作为呼吸与动作链条的背景参考。

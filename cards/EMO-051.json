@@ -1,0 +1,35 @@
+{
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "reference_text": "",
+  "updated": "2026-10-09",
+  "source_ids": [
+    "SRC-102",
+    "SRC-106"
+  ],
+  "id": "EMO-051",
+  "title": "被打断后把情绪咽回去",
+  "guidance": "被打断不是简单“停住”；写清外部刺激如何截断情绪、身体如何把反应吞回去，以及角色把注意力转移到哪个更安全的动作上。",
+  "category": "emotion",
+  "tags": [
+    "被打断后把情绪咽回去",
+    "interruption",
+    "swallowed reaction"
+  ],
+  "provenance": {
+    "source_module": "weekly public source review",
+    "origin": "public maintenance review",
+    "source_version": "0.2.5",
+    "source_heading": "被打断后把情绪咽回去"
+  },
+  "validation": {
+    "per_entry_record": "source_reviewed_no_generation_test",
+    "status": "editorial_reference",
+    "scope": "editorial_reference"
+  },
+  "channels": {
+    "redirect": "下一拍改用更安全的任务、表情或话题继续场面",
+    "trigger": "外部声音、敲门、对方插话或新动作打断原本情绪",
+    "swallow": "角色先停止当前动作，呼吸或喉结把情绪压回去"
+  },
+  "prompt": "她刚要把那句话说出口，门外忽然响起敲门声。她的下巴停在半空，眼眶里的热意没有落下来，只把杯子往自己这边收了收；等门把手转动时，她已经换成平静的坐姿，像刚才什么都没发生。"
+}

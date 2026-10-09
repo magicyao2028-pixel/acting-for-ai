@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.4",
+  "version": "0.2.5",
   "validation": {
     "status": "author_verified_in_practice",
     "statement": "作者已在实际创作中验证并持续使用这套表演可视化资料。完整视频案例暂不公开；当前不声称逐条、全模型或量化对照验证。",
@@ -1545,6 +1545,41 @@
       "updated": "2026-10-02"
     },
     {
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "reference_text": "",
+      "updated": "2026-10-09",
+      "source_ids": [
+        "SRC-102",
+        "SRC-106"
+      ],
+      "id": "EMO-051",
+      "title": "被打断后把情绪咽回去",
+      "guidance": "被打断不是简单“停住”；写清外部刺激如何截断情绪、身体如何把反应吞回去，以及角色把注意力转移到哪个更安全的动作上。",
+      "category": "emotion",
+      "tags": [
+        "被打断后把情绪咽回去",
+        "interruption",
+        "swallowed reaction"
+      ],
+      "provenance": {
+        "source_module": "weekly public source review",
+        "origin": "public maintenance review",
+        "source_version": "0.2.5",
+        "source_heading": "被打断后把情绪咽回去"
+      },
+      "validation": {
+        "per_entry_record": "source_reviewed_no_generation_test",
+        "status": "editorial_reference",
+        "scope": "editorial_reference"
+      },
+      "channels": {
+        "redirect": "下一拍改用更安全的任务、表情或话题继续场面",
+        "trigger": "外部声音、敲门、对方插话或新动作打断原本情绪",
+        "swallow": "角色先停止当前动作，呼吸或喉结把情绪压回去"
+      },
+      "prompt": "她刚要把那句话说出口，门外忽然响起敲门声。她的下巴停在半空，眼眶里的热意没有落下来，只把杯子往自己这边收了收；等门把手转动时，她已经换成平静的坐姿，像刚才什么都没发生。"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -2641,6 +2676,68 @@
         "per_entry_record": "source_reviewed_no_generation_test"
       },
       "updated": "2026-10-02"
+    },
+    {
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "reference_text": "重复不是机械复制，而是让同一动作在时间里改变含义。停住-重复-变形-放弃/爆发 可以成为短视频表演节拍。\n\n| 次数 | 提示词写法 | 观众读法 |\n|---|---|---|\n| 第一次 | 她轻轻敲了两下门，停住听里面的动静 | 试探 |\n| 第二次 | 敲门变成三下，指节更重，身体往门缝靠近 | 逼近 |\n| 第三次 | 手抬起来却没落下，掌心慢慢贴在门上 | 意识到对方不会回应 |\n| 收尾 | 她把手放下，退半步看向走廊尽头 | 放弃或换策略 |",
+      "updated": "2026-10-09",
+      "source_ids": [
+        "SRC-104",
+        "SRC-105"
+      ],
+      "id": "MOT-041",
+      "title": "重复动作逐次变义",
+      "guidance": "同一个词、手势或移动重复出现时，每次都要改变持续时间、力度或收尾，让观众看到意义从确认、逼迫、动摇到放弃的变化。",
+      "category": "motion",
+      "tags": [
+        "重复动作逐次变义",
+        "repetition",
+        "duration"
+      ],
+      "provenance": {
+        "source_module": "weekly public source review",
+        "origin": "public maintenance review",
+        "source_version": "0.2.5",
+        "source_heading": "重复动作逐次变义"
+      },
+      "validation": {
+        "per_entry_record": "source_reviewed_no_generation_test",
+        "status": "editorial_reference",
+        "scope": "editorial_reference"
+      },
+      "channels": {},
+      "prompt": ""
+    },
+    {
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "reference_text": "把呼吸作为动作链第一拍，而不是额外气氛词。\n\n| 呼吸状态 | 提示词写法 | 适用场景 |\n|---|---|---|\n| 吸气未完成 | 话到嘴边先吸住一口气，肩膀微微提起 | 想说又不敢说 |\n| 放气后开口 | 先把胸口那口气慢慢吐掉，再低声回答 | 强行镇定、让步 |\n| 呼吸找支撑 | 脚跟站稳，肋侧扩开后再抬声 | 宣布决定、压住场面 |\n| 呼吸被打断 | 刚吸进去的气停在喉咙，手上的动作漏半拍 | 被消息击中、被误会 |",
+      "updated": "2026-10-09",
+      "source_ids": [
+        "SRC-107",
+        "SRC-108"
+      ],
+      "id": "MOT-042",
+      "title": "呼吸先行的台词和动作准备",
+      "guidance": "重要台词或动作前，先写身体如何吸气、停气、放气或重新找支撑；呼吸变化能把情绪、声音和动作目标连起来。",
+      "category": "motion",
+      "tags": [
+        "呼吸先行的台词和动作准备",
+        "breath",
+        "voice body"
+      ],
+      "provenance": {
+        "source_module": "weekly public source review",
+        "origin": "public maintenance review",
+        "source_version": "0.2.5",
+        "source_heading": "呼吸先行的台词和动作准备"
+      },
+      "validation": {
+        "per_entry_record": "source_reviewed_no_generation_test",
+        "status": "editorial_reference",
+        "scope": "editorial_reference"
+      },
+      "channels": {},
+      "prompt": ""
     },
     {
       "id": "REL-001",
@@ -3794,6 +3891,75 @@
         "per_entry_record": "source_reviewed_no_generation_test"
       },
       "updated": "2026-10-02"
+    },
+    {
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "reference_text": "",
+      "updated": "2026-10-09",
+      "source_ids": [
+        "SRC-102",
+        "SRC-103"
+      ],
+      "id": "REL-039",
+      "title": "倾听时被对方改变",
+      "guidance": "写对话关系时，不要让下一句像预装回复；让角色先被对方的具体行为影响，再从改变后的身体状态里回应。",
+      "category": "relationship",
+      "tags": [
+        "倾听时被对方改变",
+        "active listening",
+        "partner response"
+      ],
+      "provenance": {
+        "source_module": "weekly public source review",
+        "origin": "public maintenance review",
+        "source_version": "0.2.5",
+        "source_heading": "倾听时被对方改变"
+      },
+      "validation": {
+        "per_entry_record": "source_reviewed_no_generation_test",
+        "status": "editorial_reference",
+        "scope": "editorial_reference"
+      },
+      "channels": {
+        "alteration": "身体出现被影响后的微小变化，如坐姿松开、手停住、视线改落点",
+        "receive": "先让角色真正接收对方的动作、语气或停顿",
+        "answer": "回应不是预设台词，而是从这个变化后的状态发出"
+      },
+      "prompt": "他说完以后，她没有马上接自己的台词，先看见他握杯子的手在抖。她原本交叉的手臂慢慢松开，视线从他的脸落到杯沿，再回到他眼睛里；开口时声音低了一格，像是被那一下抖动改了路线。"
+    },
+    {
+      "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+      "reference_text": "",
+      "updated": "2026-10-09",
+      "source_ids": [
+        "SRC-102"
+      ],
+      "id": "REL-040",
+      "title": "独立任务被关系侵入",
+      "guidance": "当人物带着任务对话时，不要让任务消失；让对方的存在改变任务的速度、准确度或力度，关系压力就会被看见。",
+      "category": "relationship",
+      "tags": [
+        "独立任务被关系侵入",
+        "independent activity",
+        "interruption"
+      ],
+      "provenance": {
+        "source_module": "weekly public source review",
+        "origin": "public maintenance review",
+        "source_version": "0.2.5",
+        "source_heading": "独立任务被关系侵入"
+      },
+      "validation": {
+        "per_entry_record": "source_reviewed_no_generation_test",
+        "status": "editorial_reference",
+        "scope": "editorial_reference"
+      },
+      "channels": {
+        "split_attention": "角色在任务与关系之间分配注意，回应变慢、动作漏拍或任务出错",
+        "intrusion": "另一人用问话、靠近、敲门或沉默持续打进任务节奏",
+        "task": "先建立角色正在完成的具体、可见且有难度的任务"
+      },
+      "prompt": "她一边给伤口打结一边数着绷带圈数，他却站在门口反复问“你到底去哪了”。她没有抬头，只把最后一圈绕得太紧，病人吸了口凉气；她这才停住手，像是关系终于挤进了她正在做的事里。"
     }
   ]
 }

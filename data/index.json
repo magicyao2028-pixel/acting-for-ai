@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.4",
+  "version": "0.2.5",
   "entries": [
     {
       "id": "EMO-001",
@@ -520,6 +520,18 @@
       "markdown_path": "docs/cards/EMO-050.md"
     },
     {
+      "id": "EMO-051",
+      "title": "被打断后把情绪咽回去",
+      "category": "emotion",
+      "tags": [
+        "被打断后把情绪咽回去",
+        "interruption",
+        "swallowed reaction"
+      ],
+      "json_path": "cards/EMO-051.json",
+      "markdown_path": "docs/cards/EMO-051.md"
+    },
+    {
       "id": "MOT-001",
       "title": "动作质感",
       "category": "motion",
@@ -942,6 +954,30 @@
       "markdown_path": "docs/cards/MOT-040.md"
     },
     {
+      "id": "MOT-041",
+      "title": "重复动作逐次变义",
+      "category": "motion",
+      "tags": [
+        "重复动作逐次变义",
+        "repetition",
+        "duration"
+      ],
+      "json_path": "cards/MOT-041.json",
+      "markdown_path": "docs/cards/MOT-041.md"
+    },
+    {
+      "id": "MOT-042",
+      "title": "呼吸先行的台词和动作准备",
+      "category": "motion",
+      "tags": [
+        "呼吸先行的台词和动作准备",
+        "breath",
+        "voice body"
+      ],
+      "json_path": "cards/MOT-042.json",
+      "markdown_path": "docs/cards/MOT-042.md"
+    },
+    {
       "id": "REL-001",
       "title": "审讯/压迫",
       "category": "relationship",
@@ -1338,6 +1374,30 @@
       ],
       "json_path": "cards/REL-038.json",
       "markdown_path": "docs/cards/REL-038.md"
+    },
+    {
+      "id": "REL-039",
+      "title": "倾听时被对方改变",
+      "category": "relationship",
+      "tags": [
+        "倾听时被对方改变",
+        "active listening",
+        "partner response"
+      ],
+      "json_path": "cards/REL-039.json",
+      "markdown_path": "docs/cards/REL-039.md"
+    },
+    {
+      "id": "REL-040",
+      "title": "独立任务被关系侵入",
+      "category": "relationship",
+      "tags": [
+        "独立任务被关系侵入",
+        "independent activity",
+        "interruption"
+      ],
+      "json_path": "cards/REL-040.json",
+      "markdown_path": "docs/cards/REL-040.md"
     }
   ]
 }

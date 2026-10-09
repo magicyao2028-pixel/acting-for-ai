@@ -1,0 +1,31 @@
+{
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "reference_text": "重复不是机械复制，而是让同一动作在时间里改变含义。停住-重复-变形-放弃/爆发 可以成为短视频表演节拍。\n\n| 次数 | 提示词写法 | 观众读法 |\n|---|---|---|\n| 第一次 | 她轻轻敲了两下门，停住听里面的动静 | 试探 |\n| 第二次 | 敲门变成三下，指节更重，身体往门缝靠近 | 逼近 |\n| 第三次 | 手抬起来却没落下，掌心慢慢贴在门上 | 意识到对方不会回应 |\n| 收尾 | 她把手放下，退半步看向走廊尽头 | 放弃或换策略 |",
+  "updated": "2026-10-09",
+  "source_ids": [
+    "SRC-104",
+    "SRC-105"
+  ],
+  "id": "MOT-041",
+  "title": "重复动作逐次变义",
+  "guidance": "同一个词、手势或移动重复出现时，每次都要改变持续时间、力度或收尾，让观众看到意义从确认、逼迫、动摇到放弃的变化。",
+  "category": "motion",
+  "tags": [
+    "重复动作逐次变义",
+    "repetition",
+    "duration"
+  ],
+  "provenance": {
+    "source_module": "weekly public source review",
+    "origin": "public maintenance review",
+    "source_version": "0.2.5",
+    "source_heading": "重复动作逐次变义"
+  },
+  "validation": {
+    "per_entry_record": "source_reviewed_no_generation_test",
+    "status": "editorial_reference",
+    "scope": "editorial_reference"
+  },
+  "channels": {},
+  "prompt": ""
+}

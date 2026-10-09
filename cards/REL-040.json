@@ -1,0 +1,34 @@
+{
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "reference_text": "",
+  "updated": "2026-10-09",
+  "source_ids": [
+    "SRC-102"
+  ],
+  "id": "REL-040",
+  "title": "独立任务被关系侵入",
+  "guidance": "当人物带着任务对话时，不要让任务消失；让对方的存在改变任务的速度、准确度或力度，关系压力就会被看见。",
+  "category": "relationship",
+  "tags": [
+    "独立任务被关系侵入",
+    "independent activity",
+    "interruption"
+  ],
+  "provenance": {
+    "source_module": "weekly public source review",
+    "origin": "public maintenance review",
+    "source_version": "0.2.5",
+    "source_heading": "独立任务被关系侵入"
+  },
+  "validation": {
+    "per_entry_record": "source_reviewed_no_generation_test",
+    "status": "editorial_reference",
+    "scope": "editorial_reference"
+  },
+  "channels": {
+    "split_attention": "角色在任务与关系之间分配注意，回应变慢、动作漏拍或任务出错",
+    "intrusion": "另一人用问话、靠近、敲门或沉默持续打进任务节奏",
+    "task": "先建立角色正在完成的具体、可见且有难度的任务"
+  },
+  "prompt": "她一边给伤口打结一边数着绷带圈数，他却站在门口反复问“你到底去哪了”。她没有抬头，只把最后一圈绕得太紧，病人吸了口凉气；她这才停住手，像是关系终于挤进了她正在做的事里。"
+}

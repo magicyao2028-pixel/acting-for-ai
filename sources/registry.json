@@ -806,5 +806,61 @@
     "review_status": "content_reviewed",
     "last_checked": "2026-10-02",
     "scope": "人物-场景交互需要角色动作与物体位置、形状和任务关系协调，可作为环境接触、坐下、搬运等动作连续性的背景参考。"
+  },
+  {
+    "id": "SRC-102",
+    "title": "Backstage — Meisner Technique Exercises: Repetition and More",
+    "url": "https://www.backstage.com/magazine/article/meisner-technique-exercises-76063/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-09",
+    "scope": "Meisner repetition、independent activity 和 knock-at-the-door 可支持“被对方影响”“任务被打断”“小反应持续回应”等动作转写；不构成视频模型效果测试。"
+  },
+  {
+    "id": "SRC-103",
+    "title": "Backstage — The Meisner Acting Technique: a Complete Guide",
+    "url": "https://www.backstage.com/magazine/article/the-definitive-guide-to-the-meisner-technique-67712/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-09",
+    "scope": "主动倾听、观察对方并由对方刺激触发表演反应，可作为关系回应和被改变节拍的背景资料。"
+  },
+  {
+    "id": "SRC-104",
+    "title": "Broadway Educators — Viewpoints of Time",
+    "url": "https://broadwayeducators.com/viewpoints-of-time/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-09",
+    "scope": "tempo、duration、repetition、kinesthetic response 可转写为动作长短、重复变义和身体反应节奏；不表示来源验证本库提示词。"
+  },
+  {
+    "id": "SRC-105",
+    "title": "Physics of Connection — Viewpoints",
+    "url": "https://www.physicsofconnection.com/practice/techniques/viewpoints",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-09",
+    "scope": "Viewpoints 将注意力拆为 tempo、duration、kinesthetic response、repetition、shape、gesture 等通道，支持时间/空间维度的表演节拍转写。"
+  },
+  {
+    "id": "SRC-106",
+    "title": "TheatreFolk — Warm-Up Game: Muted Conversations",
+    "url": "https://www.theatrefolk.com/blog/warm-up-game-muted-conversations",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-09",
+    "scope": "无声角色通过口型、表情、手势和反应承接声音角色，可支持“被打断后用非语言动作维持场面”的资料背景。"
+  },
+  {
+    "id": "SRC-107",
+    "title": "Backstage — The Best Breath Control Exercises for Actors",
+    "url": "https://www.backstage.com/magazine/article/best-breath-control-exercises-75009/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-09",
+    "scope": "呼吸会影响声音、姿态和专注；drop-in、停顿、放气和横膈膜支撑可转写为台词前的身体准备。"
+  },
+  {
+    "id": "SRC-108",
+    "title": "Backstage — The Importance of Movement for Actors",
+    "url": "https://www.backstage.com/magazine/article/importance-movement-actors-5782/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-10-09",
+    "scope": "身体、声音与呼吸互相关联；即使静止也能讲故事，可作为呼吸与动作链条的背景参考。"
   }
 ]

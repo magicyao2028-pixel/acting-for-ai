@@ -1,0 +1,35 @@
+{
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "reference_text": "",
+  "updated": "2026-10-09",
+  "source_ids": [
+    "SRC-102",
+    "SRC-103"
+  ],
+  "id": "REL-039",
+  "title": "倾听时被对方改变",
+  "guidance": "写对话关系时，不要让下一句像预装回复；让角色先被对方的具体行为影响，再从改变后的身体状态里回应。",
+  "category": "relationship",
+  "tags": [
+    "倾听时被对方改变",
+    "active listening",
+    "partner response"
+  ],
+  "provenance": {
+    "source_module": "weekly public source review",
+    "origin": "public maintenance review",
+    "source_version": "0.2.5",
+    "source_heading": "倾听时被对方改变"
+  },
+  "validation": {
+    "per_entry_record": "source_reviewed_no_generation_test",
+    "status": "editorial_reference",
+    "scope": "editorial_reference"
+  },
+  "channels": {
+    "alteration": "身体出现被影响后的微小变化，如坐姿松开、手停住、视线改落点",
+    "receive": "先让角色真正接收对方的动作、语气或停顿",
+    "answer": "回应不是预设台词，而是从这个变化后的状态发出"
+  },
+  "prompt": "他说完以后，她没有马上接自己的台词，先看见他握杯子的手在抖。她原本交叉的手臂慢慢松开，视线从他的脸落到杯沿，再回到他眼睛里；开口时声音低了一格，像是被那一下抖动改了路线。"
+}

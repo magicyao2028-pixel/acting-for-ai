@@ -1,0 +1,31 @@
+{
+  "source_note": "本条为公开资料复查后的编辑补充；外部来源只支持动作表达原理，不表示来源作者验证了本库提示词或视频生成效果。",
+  "reference_text": "把呼吸作为动作链第一拍，而不是额外气氛词。\n\n| 呼吸状态 | 提示词写法 | 适用场景 |\n|---|---|---|\n| 吸气未完成 | 话到嘴边先吸住一口气，肩膀微微提起 | 想说又不敢说 |\n| 放气后开口 | 先把胸口那口气慢慢吐掉，再低声回答 | 强行镇定、让步 |\n| 呼吸找支撑 | 脚跟站稳，肋侧扩开后再抬声 | 宣布决定、压住场面 |\n| 呼吸被打断 | 刚吸进去的气停在喉咙，手上的动作漏半拍 | 被消息击中、被误会 |",
+  "updated": "2026-10-09",
+  "source_ids": [
+    "SRC-107",
+    "SRC-108"
+  ],
+  "id": "MOT-042",
+  "title": "呼吸先行的台词和动作准备",
+  "guidance": "重要台词或动作前，先写身体如何吸气、停气、放气或重新找支撑；呼吸变化能把情绪、声音和动作目标连起来。",
+  "category": "motion",
+  "tags": [
+    "呼吸先行的台词和动作准备",
+    "breath",
+    "voice body"
+  ],
+  "provenance": {
+    "source_module": "weekly public source review",
+    "origin": "public maintenance review",
+    "source_version": "0.2.5",
+    "source_heading": "呼吸先行的台词和动作准备"
+  },
+  "validation": {
+    "per_entry_record": "source_reviewed_no_generation_test",
+    "status": "editorial_reference",
+    "scope": "editorial_reference"
+  },
+  "channels": {},
+  "prompt": ""
+}
