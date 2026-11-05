@@ -867,3 +867,27 @@ Viewpoints 将注意力拆为 tempo、duration、kinesthetic response、repetiti
 状态：`content_reviewed`；最近核查：2026-10-09。
 
 身体、声音与呼吸互相关联；即使静止也能讲故事，可作为呼吸与动作链条的背景参考。
+
+## SRC-109 · Ecole internationale de théâtre Jacques Lecoq — Professional Course: First Year
+
+[阅读原文](https://www.ecole-jacqueslecoq.com/professional-course-first-year/?lang=en)
+
+状态：`content_reviewed`；最近核查：2026-11-05。
+
+学校课程原文列出运动分析、以自然元素和材料的动态研究接近角色创作。支持 MOT-043 的观察和转译入口；本库具体材料—身体映射、例句及影像应用均为编辑推导。
+
+## SRC-110 · 中国戏曲学院京昆系 — 京剧名家孙元喜受邀为京昆系师生作专题讲座
+
+[阅读原文](https://jjx.nacta.edu.cn/xwdtjing/xwdt/4c609acdddb4413891cf970493f863f6.htm)
+
+状态：`content_reviewed`；最近核查：2026-11-05。
+
+2024-05-22 的院系原始报道记录开关门程式动作、生活化眼神身段以及骑马与骑驴的不同身段示范。为 MOT-026 的生活动作转为身体表演提供背景；报道没有列出接触高度、手指压力或动作连续性规则。
+
+## SRC-111 · USC School of Dramatic Arts — Dramatic duets
+
+[阅读原文](https://dramaticarts.usc.edu/dramatic-duets/)
+
+状态：`content_reviewed`；最近核查：2026-11-05。
+
+2017-01-04 的学校课堂报道描述接收身体行动再以手势回应、当下倾听以及动作因果关系。支持 REL-039 的回应原则；本库例句与提示词由编辑创作，未据此标注视频生成测试。

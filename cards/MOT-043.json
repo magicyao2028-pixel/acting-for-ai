@@ -1,0 +1,31 @@
+{
+  "id": "MOT-043",
+  "title": "材料运动转人物质感",
+  "category": "motion",
+  "tags": [
+    "材料运动转人物质感",
+    "Lecoq",
+    "material dynamics",
+    "动作转译"
+  ],
+  "channels": {},
+  "prompt": "她听到自己的名字，手指先收紧，肩膀跟着向内折，身体缩到椅背前；停了一拍，她只把背重新撑直，双手仍紧贴膝上。",
+  "guidance": "先观察一种材料受力、变形和恢复的过程，再选一个特征转成身体动作；最终提示词写清部位、顺序和停留状态。",
+  "reference_text": "用于角色动作质感的编辑性推导：观察材料 → 提取运动机制 → 选择身体部位 → 落到当前意图。每次只选一种机制，保留人物原有身份与场景目标。\n\n| 观察方向 | 可见动作转写 | 使用条件 |\n|---|---|---|\n| 薄纸受压后留下折痕 | 手指先扣紧，肩向内折；重新坐直后，双肘仍贴着身体 | 想恢复体面，身体保留受压痕迹 |\n| 弹性材料受压后回弹 | 膝盖短促一沉，脚掌随即推地，胸口跟着向前送出 | 急于迎上去，动作有蓄压与释放 |\n| 黏稠材料缓慢流动 | 重心已向前移，脚跟却迟迟离地，手臂落后于躯干 | 被催促前行，身体拖着不愿离开的部分 |\n\n这些映射和示例为本库编辑创作。材料观察只帮助选择动作机制；人物皮肤、服装和身体保持原样。写实时可删去材料比喻，仅保留可见动作；风格化表演再按镜头需要放大。",
+  "source_ids": [
+    "SRC-109"
+  ],
+  "source_note": "Lecoq 学校课程原文列出运动分析，以及以自然元素和材料的动态研究接近角色创作。本卡的纸、弹性、黏稠材料与身体动作对应关系为编辑推导；原文未提供这些具体映射，也未评测本库提示词。",
+  "provenance": {
+    "origin": "public maintenance review",
+    "source_version": "0.2.6",
+    "source_module": "weekly public source review",
+    "source_heading": "材料运动转人物质感"
+  },
+  "validation": {
+    "scope": "editorial_reference",
+    "status": "editorial_reference",
+    "per_entry_record": "source_reviewed_no_generation_test"
+  },
+  "updated": "2026-11-05"
+}

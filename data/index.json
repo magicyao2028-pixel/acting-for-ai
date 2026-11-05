@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.5",
+  "version": "0.2.6",
   "entries": [
     {
       "id": "EMO-001",
@@ -976,6 +976,19 @@
       ],
       "json_path": "cards/MOT-042.json",
       "markdown_path": "docs/cards/MOT-042.md"
+    },
+    {
+      "id": "MOT-043",
+      "title": "材料运动转人物质感",
+      "category": "motion",
+      "tags": [
+        "材料运动转人物质感",
+        "Lecoq",
+        "material dynamics",
+        "动作转译"
+      ],
+      "json_path": "cards/MOT-043.json",
+      "markdown_path": "docs/cards/MOT-043.md"
     },
     {
       "id": "REL-001",
