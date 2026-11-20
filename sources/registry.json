@@ -886,5 +886,21 @@
     "review_status": "content_reviewed",
     "last_checked": "2026-11-05",
     "scope": "2017-01-04 的学校课堂报道描述接收身体行动再以手势回应、当下倾听以及动作因果关系。支持 REL-039 的回应原则；本库例句与提示词由编辑创作，未据此标注视频生成测试。"
+  },
+  {
+    "id": "SRC-112",
+    "title": "Animation Mentor — 10 Advanced Acting Performance Tips for Animators",
+    "url": "https://www.animationmentor.com/blog/10-advanced-acting-performance-tips-for-animators/",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-11-20",
+    "scope": "文章建议从符合角色性格的日常站姿或坐姿出发，再设计具体情境的表演；本库动作例句为编辑推导，未验证视频模型效果。"
+  },
+  {
+    "id": "SRC-113",
+    "title": "上海戏剧学院表演系 — 当代身体叙事工作坊",
+    "url": "https://by.sta.edu.cn/e0/31/c5256a122929/page.htm",
+    "review_status": "content_reviewed",
+    "last_checked": "2026-11-20",
+    "scope": "工作坊报道讨论全身细节、动作快慢与高低，以及情境中的肢体交流；作为训练背景，不支持特定动作与性格的固定对应。"
   }
 ]

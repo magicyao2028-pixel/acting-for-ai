@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.6",
+  "version": "0.2.7",
   "validation": {
     "status": "author_verified_in_practice",
     "statement": "作者已在实际创作中验证并持续使用这套表演可视化资料。完整视频案例暂不公开；当前不声称逐条、全模型或量化对照验证。",
@@ -2771,6 +2771,37 @@
         "per_entry_record": "source_reviewed_no_generation_test"
       },
       "updated": "2026-11-05"
+    },
+    {
+      "id": "MOT-044",
+      "title": "人物日常姿态与情境偏移",
+      "category": "motion",
+      "tags": [
+        "人物日常姿态",
+        "角色动作",
+        "character neutral pose"
+      ],
+      "channels": {},
+      "prompt": "他等人时习惯把重量放在右脚，左手搭在桌沿；听见门响，他的手离开桌沿，重心移向门口，确认是熟人后又把左手轻轻放回原处。",
+      "guidance": "先选一两个符合人物与场景的日常姿态，再写事件怎样改变姿态及之后是否回到原位。",
+      "reference_text": "先建立角色在当前处境中较放松的站姿或坐姿，选身体重心、手的位置或活动幅度中的一两项作为观察点；事件发生时，只改变与注意力或目标有关的部分。\n\n示例是编辑推导：等待时重心偏右、手搭桌沿；听到门响，手离开桌沿、重心转向门口；认出来人后，手重新落回桌沿。\n\n这不是用固定姿势诊断性格。人物的习惯应由身份、身体条件、处境与表演选择共同决定，也可以随情境变化；近景只保留画内能看见的部位。",
+      "source_ids": [
+        "SRC-112",
+        "SRC-113"
+      ],
+      "source_note": "SRC-112 提出角色化的日常站坐姿态及由此展开情境表演；SRC-113 提供全身、节奏与情境肢体交流的训练背景。具体动作链、镜头取舍及性格判断边界由编辑推导，来源未测试本库提示词。",
+      "provenance": {
+        "origin": "public maintenance review",
+        "source_version": "0.2.7",
+        "source_module": "weekly public source review",
+        "source_heading": "人物日常姿态与情境偏移"
+      },
+      "validation": {
+        "scope": "editorial_reference",
+        "status": "editorial_reference",
+        "per_entry_record": "source_reviewed_no_generation_test"
+      },
+      "updated": "2026-11-20"
     },
     {
       "id": "REL-001",

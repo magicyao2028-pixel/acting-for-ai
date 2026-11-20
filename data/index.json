@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.6",
+  "version": "0.2.7",
   "entries": [
     {
       "id": "EMO-001",
@@ -989,6 +989,18 @@
       ],
       "json_path": "cards/MOT-043.json",
       "markdown_path": "docs/cards/MOT-043.md"
+    },
+    {
+      "id": "MOT-044",
+      "title": "人物日常姿态与情境偏移",
+      "category": "motion",
+      "tags": [
+        "人物日常姿态",
+        "角色动作",
+        "character neutral pose"
+      ],
+      "json_path": "cards/MOT-044.json",
+      "markdown_path": "docs/cards/MOT-044.md"
     },
     {
       "id": "REL-001",

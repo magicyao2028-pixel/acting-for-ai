@@ -5,8 +5,8 @@ type: dataset
 authors:
   - name: "magicyao2028-pixel"
     website: "https://github.com/magicyao2028-pixel"
-version: 0.2.6
-date-released: 2026-11-05
+version: 0.2.7
+date-released: 2026-11-20
 url: "https://github.com/magicyao2028-pixel/acting-for-ai"
 license: CC-BY-4.0
 keywords:
