@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.7",
+  "version": "0.2.8",
   "entries": [
     {
       "id": "EMO-001",
@@ -1001,6 +1001,19 @@
       ],
       "json_path": "cards/MOT-044.json",
       "markdown_path": "docs/cards/MOT-044.md"
+    },
+    {
+      "id": "MOT-045",
+      "title": "跨镜头动作与情绪接续",
+      "category": "motion",
+      "tags": [
+        "跨镜头接续",
+        "接戏",
+        "screen acting",
+        "continuity"
+      ],
+      "json_path": "cards/MOT-045.json",
+      "markdown_path": "docs/cards/MOT-045.md"
     },
     {
       "id": "REL-001",

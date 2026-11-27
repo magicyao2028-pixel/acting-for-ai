@@ -907,3 +907,19 @@ Viewpoints 将注意力拆为 tempo、duration、kinesthetic response、repetiti
 状态：`content_reviewed`；最近核查：2026-11-20。
 
 工作坊报道讨论全身细节、动作快慢与高低，以及情境中的肢体交流；作为训练背景，不支持特定动作与性格的固定对应。
+
+## SRC-114 · ScreenSkills — Script Supervisor Skills Checklist
+
+[阅读原文](https://www.screenskills.com/media/7610/final-jd-script-supervisor-110523.pdf)
+
+状态：`content_reviewed`；最近核查：2026-11-27。
+
+清单第 5、6 项要求记录画面方向与视线，核对相关镜头间的台词、动作、情绪、人物位置及服装道具连续性。支持 MOT-045 的实拍连续性背景；检查表组织、动作例句及分段输入应用由编辑推导，不构成视频模型效果测试。
+
+## SRC-115 · 江西服装学院时尚传媒学院 — 21级表演专业线上课程展《影视镜头表演》
+
+[阅读原文](https://www.jift.edu.cn/info/1037/7832.htm)
+
+状态：`content_reviewed`；最近核查：2026-11-27。
+
+2023-06-11 的院校课程报道在“非连续的表演”部分说明非顺序拍摄时演员应了解前戏，维持情感连续，注意镜头间及服装道具衔接。支持 MOT-045 的表演接续原则，不提供本库杯子示例、分段提示词或生成效果证据。
